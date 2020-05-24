@@ -15,6 +15,9 @@
 * [Composer scripts tips](https://blog.martinhujer.cz/have-you-tried-composer-scripts/)
 * [Working with data](https://stitcher.io/blog/laravel-beyond-crud-02-working-with-data)
 * [Attributes](https://stitcher.io/blog/attributes-in-php-8)
+* [PHP6 Unicode story](https://www.slideshare.net/andreizm/the-good-the-bad-and-the-ugly-what-happened-to-unicode-and-php-6)
+* [Annotation over configuration](https://phpinternals.news/47)
+* [Custom collections](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
@@ -43,12 +46,11 @@
 * [Authorization](https://softwareengineering.stackexchange.com/questions/301467/ddd-cqrs-per-query-and-per-command-authorization)
 * [Aggregate root](https://stackoverflow.com/questions/10728187/ddd-modifications-of-child-objects-within-aggregate)
 * [MS domain and integration events](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/domain-events-design-implementation)
+* [Command Bus](https://matthiasnoback.nl/2015/01/responsibilities-of-the-command-bus/)
 
 ## Architecture
 * [Ports and adapters](https://matthiasnoback.nl/2017/08/layers-ports-and-adapters-part-3-ports-and-adapters/)
 * [Hexagonal architecture](https://codingcanvas.com/hexagonal-architecture/)
-* [Brutalne prawdy o MVC](http://commitandrun.pl/2016/05/30/Brutalne_prawdy_o_MVC/)
-* [Problemy ze wzorcem repozytorium](http://commitandrun.pl/2016/05/11/Repozytorium_najbardziej_niepotrzebny_wzorzec_projektowy/)
 * [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
 * [Event driven architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/)
 * [Clean architecture](https://fullstackmark.com/post/11/better-software-design-with-clean-architecture)
@@ -64,6 +66,11 @@
 * [SRP](http://blog.humblyarrogant.io/post/2017-02-21-code-review-single-responsibility-principle/)
 * [Dependency injection](https://stitcher.io/blog/dependency-injection-for-beginners)
 * [Liskov](https://stitcher.io/blog/liskov-and-type-safety)
+* [Front controller](https://www.martinfowler.com/eaaCatalog/frontController.html)
+* [Brutalne prawdy o MVC](http://commitandrun.pl/2016/05/30/Brutalne_prawdy_o_MVC/)
+* [Problemy ze wzorcem repozytorium](http://commitandrun.pl/2016/05/11/Repozytorium_najbardziej_niepotrzebny_wzorzec_projektowy/)
+* [Dependency injection](https://www.martinfowler.com/articles/injection.html)
+* [Lazy load](https://www.martinfowler.com/eaaCatalog/lazyLoad.html)
 
 ## Good practices
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
@@ -78,7 +85,9 @@
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
 * [Compilation, tokenization etc](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
+* [Abstraction in programming](https://thevaluable.dev/abstraction-software-development/)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
 * [Tips](https://stitcher.io/blog/phpstorm-tips-for-power-users)
+* [Configuring namespaces](https://www.jetbrains.com/help/phpstorm/keeping-namespaces-in-compliance-with-psr0-and-psr4.html)
