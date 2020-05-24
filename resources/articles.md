@@ -77,6 +77,7 @@
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
+* [Compilation, tokenization etc](https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/scope-closures/ch1.md)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
