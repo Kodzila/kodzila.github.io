@@ -71,6 +71,7 @@
 * [Problemy ze wzorcem repozytorium](http://commitandrun.pl/2016/05/11/Repozytorium_najbardziej_niepotrzebny_wzorzec_projektowy/)
 * [Dependency injection](https://www.martinfowler.com/articles/injection.html)
 * [Lazy load](https://www.martinfowler.com/eaaCatalog/lazyLoad.html)
+* [Get vs find](https://tuhrig.de/find-vs-get/)
 
 ## Good practices
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
