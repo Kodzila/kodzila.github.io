@@ -77,6 +77,7 @@
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
 * [Image base64 encoding](https://www.davidbcalhoun.com/2011/when-to-base64-encode-images-and-when-not-to/)
 * [Tuning web performance](https://stitcher.io/blog/performance-101-building-the-better-web)
+* [Doctrine best practices](https://ocramius.github.io)
 
 ## Soft skill
 * [Traits of good leader](https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3)
