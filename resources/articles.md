@@ -18,6 +18,7 @@
 * [PHP6 Unicode story](https://www.slideshare.net/andreizm/the-good-the-bad-and-the-ugly-what-happened-to-unicode-and-php-6)
 * [Annotation over configuration](https://phpinternals.news/47)
 * [Custom collections](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
+* [Generics in Psalm example](http://marcosh.github.io/post/2020/05/26/phantom-types-in-php.html)
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
