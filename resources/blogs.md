@@ -7,3 +7,4 @@
 * [Tomas Votruba](https://www.tomasvotruba.com)
 * [PHP.Watch](https://php.watch/articles)
 * [Nikic](https://nikic.github.io)
+* [Wouter J](http://wouterj.nl)

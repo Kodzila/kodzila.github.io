@@ -20,6 +20,7 @@
 * [Custom collections](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
 * [Generics in Psalm example](http://marcosh.github.io/post/2020/05/26/phantom-types-in-php.html)
 * [Psalm generics discussion](https://www.reddit.com/r/PHP/comments/gqrqy0/whos_scared_of_phantom_types/)
+* [New security component in Symfony](http://wouterj.nl/2020/04/authenticators-new-symfony-security)
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
