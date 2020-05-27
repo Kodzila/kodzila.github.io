@@ -5,3 +5,4 @@
 * [DDD skeleton](https://github.com/dumplie/dumplie)
 * [Inline CLI app](https://github.com/Ocramius/example-symfony-cli-usage/blob/feature/simple-command-application/bin/inlined-example.php)
 * [Github pages blog](https://github.com/marcosh/marcosh.github.io)
+* [Streams and other FP](https://github.com/munusphp/munus)
