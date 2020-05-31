@@ -6,4 +6,5 @@
 * Resources
     * [Articles](resources/articles.md)
     * [Blogs](resources/blogs.md)
+    * [PHP tips](resources/php-tips.md)
     * [Projects](resources/projects.md)

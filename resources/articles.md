@@ -11,8 +11,6 @@
 * [Symfony deployment](https://www.goetas.com/blog/how-do-i-deploy-my-symfony-api-part-1-development/)
 * [Type system: weak vs strong](https://stitcher.io/blog/laravel-beyond-crud-02-working-with-data)
 * [List of useful packages](https://github.com/ziadoz/awesome-php)
-* [Composer tips](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/)
-* [Composer scripts tips](https://blog.martinhujer.cz/have-you-tried-composer-scripts/)
 * [Working with data](https://stitcher.io/blog/laravel-beyond-crud-02-working-with-data)
 * [Attributes](https://stitcher.io/blog/attributes-in-php-8)
 * [PHP6 Unicode story](https://www.slideshare.net/andreizm/the-good-the-bad-and-the-ugly-what-happened-to-unicode-and-php-6)
@@ -20,7 +18,6 @@
 * [Custom collections](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
 * [Generics in Psalm example](http://marcosh.github.io/post/2020/05/26/phantom-types-in-php.html)
 * [Psalm generics discussion](https://www.reddit.com/r/PHP/comments/gqrqy0/whos_scared_of_phantom_types/)
-* [New security component in Symfony](http://wouterj.nl/2020/04/authenticators-new-symfony-security)
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
