@@ -7,3 +7,6 @@
 # Composer
 * [Composer tips](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/)
 * [Composer scripts tips](https://blog.martinhujer.cz/have-you-tried-composer-scripts/)
+
+# API Platform
+* [Configuring serialization, input, output](https://medium.com/distant-horizons/blog-configuring-api-platform-resources-by-following-ddd-principles-b6d3de5d3984)
