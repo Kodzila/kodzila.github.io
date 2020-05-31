@@ -18,6 +18,7 @@
 * [Custom collections](https://matthiasnoback.nl/2020/01/rules-for-working-with-arrays-and-custom-collection-classes-in-php/)
 * [Generics in Psalm example](http://marcosh.github.io/post/2020/05/26/phantom-types-in-php.html)
 * [Psalm generics discussion](https://www.reddit.com/r/PHP/comments/gqrqy0/whos_scared_of_phantom_types/)
+* [Handling timezones in Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/cookbook/working-with-datetime.html#handling-different-timezones-with-the-datetime-type)
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
