@@ -3,6 +3,7 @@
 * [Single command application](https://symfony.com/blog/new-in-symfony-5-1-single-command-applications)
 * [New security component in Symfony](http://wouterj.nl/2020/04/authenticators-new-symfony-security)
 * [Simple service decoration](https://symfony.com/blog/new-in-symfony-5-1-simpler-service-decoration)
+* [Optimizing symfony](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n?reddit)
 
 # Composer
 * [Composer tips](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/)

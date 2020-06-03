@@ -21,6 +21,8 @@
 * [Handling timezones in Doctrine](https://www.doctrine-project.org/projects/doctrine-orm/en/2.7/cookbook/working-with-datetime.html#handling-different-timezones-with-the-datetime-type)
 * [How foreach is working](https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work)
 * [Cryptography secure PHP development](https://paragonie.com/blog/2017/02/cryptographically-secure-php-development)
+* [Optimizing symfony](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n?reddit)
+* [DDD framework](https://github.com/ecotoneFramework/ecotone?index.md)
 
 ## GIT
 * [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
@@ -59,6 +61,7 @@
 * [Creating code rule](https://blog.ndepend.com/checking-ddd-ubiquitous-language-with-ndepend/)
 
 ## Architecture
+* [Diagram tool](https://terrastruct.com)
 * [Ports and adapters](https://matthiasnoback.nl/2017/08/layers-ports-and-adapters-part-3-ports-and-adapters/)
 * [Hexagonal architecture](https://codingcanvas.com/hexagonal-architecture/)
 * [Hexagonal architecture](http://alistair.cockburn.us/Hexagonal+architecture)
@@ -84,6 +87,7 @@
 * [Lazy load](https://www.martinfowler.com/eaaCatalog/lazyLoad.html)
 * [Get vs find](https://tuhrig.de/find-vs-get/)
 * [Evolution of Command pattern](https://www.lvguowei.me/post/the-evolution-of-command-pattern-3/)
+* [Guide in PHP](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 ## Good practices
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
@@ -95,12 +99,15 @@
 * [Composition vs inheritance](https://codingsight.com/composition-and-interfaces-in-oop-world/)
 * [Code review: SRP](http://blog.humblyarrogant.io/post/2017-02-21-code-review-single-responsibility-principle/)
 * [FP in OOP](https://medium.com/statuscode/functional-programming-for-the-dysfunctional-756531f5b9b4#.capjd7leo)
+* [Eventual consistency in REST](http://pillopl.github.io/eventual-consistency-and-rest/)
+* [Library vs framework](https://www.brandonsmith.ninja/blog/libraries-not-frameworks)
 
 ## Soft skill
 * [Traits of good leader](https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3)
 * [Mentaility for refactoring legacy](https://blog.intracto.com/paying-technical-debt-how-to-rescue-legacy-code-through-refactoring)
 * [Good senior](https://dzone.com/articles/become-a-senior-engineer-part-deux)
 * [Development team](https://medium.com/@natalia.kolinska/my-secret-weapons-in-the-requirements-world-chapter-two-development-team-6569698f4a63)
+* [Becoming senior](https://dzone.com/articles/become-a-senior-engineer-part-deux)
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
@@ -111,15 +118,32 @@
 * [Float numbers](https://github.com/dart-lang/sdk/blob/master/docs/newsletter/20171013.md#doubletostring)
 * [Spotify ML algorithms](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [Compression algorithms](https://unwttng.com/compression-decompressed)
+* [HTTPS](https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
 * [Tips](https://stitcher.io/blog/phpstorm-tips-for-power-users)
 * [Configuring namespaces](https://www.jetbrains.com/help/phpstorm/keeping-namespaces-in-compliance-with-psr0-and-psr4.html)
 * [Essential plugins](https://localheinz.com/blog/2017/10/27/essential-phpstorm-plugins/)
+* [Live profiling plugin](https://plugins.jetbrains.com/plugin/13767-live-profiler)
 
 ## Design
 * [Rules](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+* [LEGO: modular web design](https://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design/)
+* [Design security](https://www.sohamkamani.com/blog/2017/01/14/web-security-human-error/)
+* [Design for non-designers](https://medium.com/hello-web-design/design-for-non-designers-part-2-74d7ab3124f6)
 
 ## Frontend
 * [Optimize for browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
+* [Handbook](https://github.com/FrontendMasters/front-end-handbook-2017)
+* [JS glossary](https://auth0.com/blog/glossary-of-modern-javascript-concepts/?utm_source=reddit&utm_medium=sc&utm_campaign=glossary_javascript)
+* [Introduction to webpack](https://css-tricks.com/introduction-webpack-entry-output-loaders-plugins/)
+* [JS best practices](https://github.com/elsewhencode/project-guidelines)
+* [Change detection in Angular](https://hackernoon.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
+* [Designing SPA](https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-from-scratch-d47c35fdc830)
+* [Angular best practices](https://angular-academy.com/angular-architecture-best-practices/)
+
+## Security
+* [Reflection after lots of attacks](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b)
+* [OWASP TOP 10](https://resources.whitesourcesoftware.com/blog-whitesource/owasp-top-10-vulnerabilities)
+* [API security](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
