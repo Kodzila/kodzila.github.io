@@ -13,3 +13,6 @@
 
 # API Platform
 * [Configuring serialization, input, output](https://medium.com/distant-horizons/blog-configuring-api-platform-resources-by-following-ddd-principles-b6d3de5d3984)
+
+# Errors 
+* [Too many files open MAC](https://blog.liplex.de/to-many-open-files-in-phpunit/)
