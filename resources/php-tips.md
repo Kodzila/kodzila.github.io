@@ -16,3 +16,10 @@
 
 # Errors 
 * [Too many files open MAC](https://blog.liplex.de/to-many-open-files-in-phpunit/)
+
+
+
+
+# TO READ
+* [Unit tests naming convention](https://matthiasnoback.nl/2020/06/unit-test-naming-conventions/)
+* [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
