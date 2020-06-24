@@ -30,6 +30,7 @@
 
 ## Testing
 * [Principles of automated testing](https://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html)
+* [Unit tests naming convention](https://matthiasnoback.nl/2020/06/unit-test-naming-conventions/)
 
 ## CQRS
 * [Wprowadzenie w PHP](https://zawarstwaabstrakcji.pl/20170130-cqrs-w-praktyce-wprowadzenie-php/)
@@ -88,6 +89,7 @@
 * [Get vs find](https://tuhrig.de/find-vs-get/)
 * [Evolution of Command pattern](https://www.lvguowei.me/post/the-evolution-of-command-pattern-3/)
 * [Guide in PHP](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Final classes](https://medium.com/swlh/final-classes-in-php-9174e3e2747e)
 
 ## Good practices
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
@@ -147,3 +149,4 @@
 * [Reflection after lots of attacks](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b)
 * [OWASP TOP 10](https://resources.whitesourcesoftware.com/blog-whitesource/owasp-top-10-vulnerabilities)
 * [API security](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
+* [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
