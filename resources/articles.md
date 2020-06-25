@@ -23,6 +23,7 @@
 * [Cryptography secure PHP development](https://paragonie.com/blog/2017/02/cryptographically-secure-php-development)
 * [Optimizing symfony](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n?reddit)
 * [DDD framework](https://github.com/ecotoneFramework/ecotone?index.md)
+* [Low level specification](https://github.com/php/php-langspec/blob/master/spec/00-specification-for-php.md)
 
 ## GIT
 * [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
