@@ -17,6 +17,8 @@
 # Errors 
 * [Too many files open MAC](https://blog.liplex.de/to-many-open-files-in-phpunit/)
 
+# Configuration
+* [XDebug](https://www.strangebuzz.com/en/blog/step-by-step-debugging-with-xdebug-symfony-and-phpstorm)
 
 
 
