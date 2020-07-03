@@ -1,5 +1,6 @@
 # Blogs
 
+## PHP
 * [Stitcher.io](https://stitcher.io)
 * [Internalnews](https://phpinternals.news)
 * [Symfony](https://symfony.com/blog/)
@@ -8,3 +9,6 @@
 * [PHP.Watch](https://php.watch/articles)
 * [Nikic](https://nikic.github.io)
 * [Wouter J](http://wouterj.nl)
+
+## Frontend
+* [Indepth](https://indepth.dev)

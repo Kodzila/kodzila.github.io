@@ -146,10 +146,14 @@
 * [JS best practices](https://github.com/elsewhencode/project-guidelines)
 * [Change detection in Angular](https://hackernoon.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
 * [Designing SPA](https://blog.poki.com/front-end-walkthrough-building-a-single-page-application-from-scratch-d47c35fdc830)
-* [Angular best practices](https://angular-academy.com/angular-architecture-best-practices/)
 
 ## Security
 * [Reflection after lots of attacks](https://medium.com/starting-up-security/learning-from-a-year-of-security-breaches-ed036ea05d9b)
 * [OWASP TOP 10](https://resources.whitesourcesoftware.com/blog-whitesource/owasp-top-10-vulnerabilities)
 * [API security](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
 * [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
+
+## Angular
+* [Angular best practices](https://angular-academy.com/angular-architecture-best-practices/)
+* [10 ways to missuse Angular](https://rangle.io/blog/10-ways-to-misuse-angular/)
+* [Flattering components](https://rangle.io/blog/flattening-deep-hierarchies-of-components/)
