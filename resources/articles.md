@@ -159,3 +159,4 @@
 * [Flattering components](https://rangle.io/blog/flattening-deep-hierarchies-of-components/)
 * [Live search](https://medium.com/javascript-everyday/a-live-search-example-angular-and-react-solutions-bd42a4d5dd7e)
 * [Reusable components ng-content and ng-template](https://indepth.dev/heres-what-you-should-know-when-creating-flexible-and-reusable-components-in-angular/)
+* [Memory leak](https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b)
