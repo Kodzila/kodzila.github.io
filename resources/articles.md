@@ -157,3 +157,4 @@
 * [Angular best practices](https://angular-academy.com/angular-architecture-best-practices/)
 * [10 ways to missuse Angular](https://rangle.io/blog/10-ways-to-misuse-angular/)
 * [Flattering components](https://rangle.io/blog/flattening-deep-hierarchies-of-components/)
+* [Live search](https://medium.com/javascript-everyday/a-live-search-example-angular-and-react-solutions-bd42a4d5dd7e)
