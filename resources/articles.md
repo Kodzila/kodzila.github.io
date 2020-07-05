@@ -158,3 +158,4 @@
 * [10 ways to missuse Angular](https://rangle.io/blog/10-ways-to-misuse-angular/)
 * [Flattering components](https://rangle.io/blog/flattening-deep-hierarchies-of-components/)
 * [Live search](https://medium.com/javascript-everyday/a-live-search-example-angular-and-react-solutions-bd42a4d5dd7e)
+* [Reusable components ng-content and ng-template](https://indepth.dev/heres-what-you-should-know-when-creating-flexible-and-reusable-components-in-angular/)
