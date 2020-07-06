@@ -161,3 +161,4 @@
 * [Reusable components ng-content and ng-template](https://indepth.dev/heres-what-you-should-know-when-creating-flexible-and-reusable-components-in-angular/)
 * [Memory leak](https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b)
 * [ESLint](https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/)
+* [Mixin (traits)](https://medium.com/javascript-in-plain-english/harnessing-the-power-of-mixins-in-angular-f2faa432add2)
