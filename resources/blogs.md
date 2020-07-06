@@ -12,3 +12,6 @@
 
 ## Frontend
 * [Indepth](https://indepth.dev)
+
+## Security
+* [Sekurak](https://sekurak.pl)
