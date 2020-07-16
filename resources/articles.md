@@ -162,4 +162,4 @@
 * [Memory leak](https://medium.com/angular-in-depth/how-to-create-a-memory-leak-in-angular-4c583ad78b8b)
 * [ESLint](https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/)
 * [Mixin (traits)](https://medium.com/javascript-in-plain-english/harnessing-the-power-of-mixins-in-angular-f2faa432add2)
-* [Presenters aka UI components](https://indepth.dev/presenters-with-angular/)
+* [Presenters - extracting logic from framework](https://indepth.dev/presenters-with-angular/)
