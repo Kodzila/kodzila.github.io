@@ -20,6 +20,8 @@
 # Configuration
 * [XDebug](https://www.strangebuzz.com/en/blog/step-by-step-debugging-with-xdebug-symfony-and-phpstorm)
 
+# Angular
+* [Inspect store in the browser](https://ngrx.io/guide/store-devtools)
 
 
 # TO READ
