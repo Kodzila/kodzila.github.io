@@ -27,3 +27,4 @@
 # TO READ
 * [Unit tests naming convention](https://matthiasnoback.nl/2020/06/unit-test-naming-conventions/)
 * [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
+* [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
