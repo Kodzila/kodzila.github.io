@@ -10,6 +10,9 @@
 * [Nikic](https://nikic.github.io)
 * [Wouter J](http://wouterj.nl)
 
+## Arch
+* [Paroarchitekci](https://patoarchitekci.io)
+
 ## Frontend
 * [Indepth](https://indepth.dev)
 
