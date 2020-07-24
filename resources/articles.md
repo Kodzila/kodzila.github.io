@@ -114,6 +114,7 @@
 * [Development team](https://medium.com/@natalia.kolinska/my-secret-weapons-in-the-requirements-world-chapter-two-development-team-6569698f4a63)
 * [Becoming senior](https://dzone.com/articles/become-a-senior-engineer-part-deux)
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
+* [CTO](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
