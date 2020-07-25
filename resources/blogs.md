@@ -9,6 +9,7 @@
 * [PHP.Watch](https://php.watch/articles)
 * [Nikic](https://nikic.github.io)
 * [Wouter J](http://wouterj.nl)
+* [ThePHP](https://thephp.website/en/)
 
 ## General
 * [Patoarchitekci](https://patoarchitekci.io)
