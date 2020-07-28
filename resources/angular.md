@@ -63,3 +63,59 @@ ngOnInit() {
         });
 }
 ```
+
+### Debounce functions (multiple subsequent calls, only one propagation)
+```ts
+export function debounceTick<T>(): (source: Observable<T>) => Observable<T> {
+    let timeout: null | number = null;
+    let lastValue: T;
+    return (source) => {
+        return new Observable<T>((subscriber) => {
+            const sub = source.subscribe({
+                next: (value) => {
+                    lastValue = value;
+
+                    if (timeout) clearTimeout(timeout);
+                    timeout = setTimeout(() => {
+                        subscriber.next(lastValue);
+                        timeout = null;
+                    });
+                },
+                complete: () => subscriber.complete(),
+                error: (err) => subscriber.error(err),
+            });
+
+            return () => {
+                sub.unsubscribe();
+                if (timeout) clearTimeout(timeout);
+            };
+        });
+    };
+}
+```
+Test:
+```ts
+describe('debounceTick()', function () {
+    it('should emit 3 on next tick', fakeAsync(function () {
+        const cb = jest.fn();
+        of(1, 2, 3).pipe(debounceTick()).subscribe(cb);
+        tick();
+        expect(cb).toHaveBeenCalledTimes(1);
+        expect(cb).toHaveBeenCalledWith(3);
+    }));
+});
+```
+
+Usage:
+```ts
+search$ = createEffect(() => {
+        return this.actions.pipe(
+            ofType(beginSearch),
+            withLatestFrom(this.store.select(selectGlobalSearch)),
+            debounceTick(),
+            mergeMap(([action, search]) => {
+                //...
+            })
+        );
+    });
+```
