@@ -67,21 +67,27 @@ ngOnInit() {
 ### Debounce functions (multiple subsequent calls, only one propagation)
 ```ts
 export function debounceTick<T>(): (source: Observable<T>) => Observable<T> {
-    let timeout: null | number = null;
-    let lastValue: T;
     return (source) => {
         return new Observable<T>((subscriber) => {
+            let isCompleted = false;
+            let timeout: null | number = null;
+            let lastValue: T;
+
             const sub = source.subscribe({
                 next: (value) => {
                     lastValue = value;
 
-                    if (timeout) clearTimeout(timeout);
-                    timeout = setTimeout(() => {
-                        subscriber.next(lastValue);
-                        timeout = null;
-                    });
+                    if (!timeout) {
+                        timeout = setTimeout(() => {
+                            subscriber.next(lastValue);
+                            if (isCompleted) subscriber.complete();
+                            timeout = null;
+                        });
+                    }
                 },
-                complete: () => subscriber.complete(),
+                complete: () => {
+                    isCompleted = true;
+                },
                 error: (err) => subscriber.error(err),
             });
 
