@@ -107,6 +107,7 @@
 * [FP in OOP](https://medium.com/statuscode/functional-programming-for-the-dysfunctional-756531f5b9b4#.capjd7leo)
 * [Eventual consistency in REST](http://pillopl.github.io/eventual-consistency-and-rest/)
 * [Library vs framework](https://www.brandonsmith.ninja/blog/libraries-not-frameworks)
+* [Relying on the database to validate your data](https://matthiasnoback.nl/2020/07/relying-on-the-database-to-validate-your-data/)
 
 ## Soft skill
 * [Traits of good leader](https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3)
