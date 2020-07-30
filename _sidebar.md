@@ -3,8 +3,12 @@
         * [Introduction](blog/mastermind/01_introduction.md)
         * [Setting up project](blog/mastermind/02_setting_up.md)
 
+* Knowledge base
+    * [Angular](knowledgebase/angular.md)
+    * [Css](knowledgebase/css.md)
+    * [Rxjs](knowledgebase/rxjs.md)
+
 * Resources
-    * [Angular](resources/angular.md)
     * [Articles](resources/articles.md)
     * [Blogs](resources/blogs.md)
     * [PHP tips](resources/php-tips.md)
