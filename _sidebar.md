@@ -10,6 +10,7 @@
 
 * Resources
     * [Articles](resources/articles.md)
+    * [Backlog](resources/backlog.md)
     * [Blogs](resources/blogs.md)
     * [PHP tips](resources/php-tips.md)
     * [Projects](resources/projects.md)

@@ -5,6 +5,7 @@
 * [Simple service decoration](https://symfony.com/blog/new-in-symfony-5-1-simpler-service-decoration)
 * [Optimizing symfony](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n?reddit)
 * [Configuring OPCache preloading](https://www.ibexa.co/blog/how-much-of-a-performance-boost-can-you-expect-for-a-symfony-5-app-with-php-opcache-preloading)
+* [Symfony preloading](https://symfony.com/blog/new-in-symfony-4-4-preloading-symfony-applications-in-php-7-4)
 
 # Composer
 * [Composer tips](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/)
@@ -22,9 +23,3 @@
 
 # Angular
 * [Inspect store in the browser](https://ngrx.io/guide/store-devtools)
-
-
-# TO READ
-* [Unit tests naming convention](https://matthiasnoback.nl/2020/06/unit-test-naming-conventions/)
-* [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
-* [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)

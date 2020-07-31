@@ -10,6 +10,7 @@
 * [Nikic](https://nikic.github.io)
 * [Wouter J](http://wouterj.nl)
 * [ThePHP](https://thephp.website/en/)
+* [Libhunt](https://php.libhunt.com)
 
 ## General
 * [Patoarchitekci](https://patoarchitekci.io)
