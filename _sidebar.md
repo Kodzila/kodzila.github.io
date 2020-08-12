@@ -14,3 +14,4 @@
     * [Blogs](resources/blogs.md)
     * [PHP tips](resources/php-tips.md)
     * [Projects](resources/projects.md)
+    * [Science](resources/science.md)
