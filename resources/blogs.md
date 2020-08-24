@@ -15,6 +15,7 @@
 ## General
 * [Patoarchitekci](https://patoarchitekci.io)
 * [Pragmatic engineer](https://blog.pragmaticengineer.com)
+* [Problemy polskiej branzy IT](http://problemypolskiejbranzy.it)
 
 ## Frontend
 * [Indepth](https://indepth.dev)
