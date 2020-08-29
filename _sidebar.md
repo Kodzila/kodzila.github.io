@@ -5,6 +5,7 @@
 
 * Cook
     * [Breakfast](cook/breakfast.md)
+    * [Dessert](cook/dessert.md)
     * [Main](cook/main.md)
 
 * Knowledge base
