@@ -507,7 +507,7 @@ Przygotowanie:
 * Do naczynia żaroodpornego dać kurczaka i zalać sosem.
 * Piec 30-40 minut. Bez przykrycia.
 
-[## ITA] Makaron z sosem pomidorowo-mascarpone
+## [ITA] Makaron z sosem pomidorowo-mascarpone
 https://kuchnialidla.pl/makaron-z-suszonymi-pomidorami-i-sosem-mascarpone
 
 Składniki:
@@ -527,3 +527,45 @@ Przygotowanie:
 * Następnie na patelnię wlewamy bulion i białe wino. Podgrzewamy. Gdy sos zacznie bulgotać, dodajemy ser mascarpone i całość mieszamy, aż ser się rozpuści. Trzymamy na ogniu jeszcze parę minut, aż sos zacznie lekko gęstnieć.
 * Przyprawiamy do smaku solą i pieprzem. Ugotowany makaron odcedzamy i dodajemy do sosu. Całość mieszamy przed podaniem.
 
+## [ITA] Penne Alla Vodka
+The food lab s699
+
+Składniki:
+* 2 łyżki oliwy z oliwek
+* 2 łyżki masła
+* 1 cebula
+* 2 ząbki czosnku
+* Oregano, płatki chilli
+* 800g pomidorów w zalewie z puszki
+* 1 śmietana (około pół kubka)
+* 200g wódki
+* Sól
+* 400g makaronu typu penne
+* 3 piersi z kurczaka
+* Ser żólty
+
+Przygotowanie:
+
+Sos:
+* Rozgrzej na dużej patelni olej oraz masło. Dodaj cebulę i smaż dopóki nie zmięknieje, ale nie zbrązowieje (około 3 minuty).
+* Dodaj czosnek, oregano, płatki chilli i smaż, mieszając co chwilę przez około 1 minutę.
+* Dodaj wszystkie pomidory z zalewą. Doprowadź do zagotowania na wysokim ogniu, a potem zmniejsz i gotuj przez 30 minut. 
+Mieszaj od czasu do czasu.
+
+Mixowanie:
+* Przenieś sos do blendera, dodaj śmietanę oraz wódkę. Zaczynając od najmniejszej prędkości, stopniowo zwiększając blenduj
+przez około 30 sekund.
+* Przenieś z powrotem na patelnię.
+
+Makaron:
+* Wstaw makaron i gotuj tyle ile pisze na opakowaniu.
+
+Kurczak:
+* Pokrój kurczaka na paski.
+* Dodaj *surowego* kurczaka do gotującego się sosu.
+* Gotuj dopóki makaron nie dojdzie + jeszcze troche by mieć pewność, że kurczak nie jest surowy.
+
+Przed podaniem:
+* Dodaj makaron.
+* Dodaj sos z kurczakiem,
+* Posyp startym serem.
