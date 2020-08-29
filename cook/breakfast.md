@@ -1,0 +1,35 @@
+# Racuszki z owocami
+![racuszki](res/racuszki.png)
+
+# Tosty z awokado i jajkiem sadzonym
+https://www.kwestiasmaku.com/przepis/tosty-francuskie-z-awokado-i-jajkiem-sadzonym
+
+Składniki:
+* 1 awokado
+* 1/2 ząbka czosnku
+* 4 tosty
+* 3 jajka
+* 5 łyżek mleka
+* klarowane masło do smażenia
+* dowolne dodatki np. płatki chili, listki kolendry lub bazylii, pokrojone pomidorki koktajlowe
+
+Przygotowanie:
+
+* Awokado obrać, przekroić na pół, usunąć pestkę. Miąższ pokroić na kawałki a następnie rozgnieść widelcem. Dodać przeciśnięty przez praskę czosnek oraz sól i pieprz, wymieszać.
+* W głębokim talerzu roztrzepać widelcem 1 jajko z dodatkiem mleka oraz szczypty soli. Na 2 kromkach tosta położyć pastę z awokado, przykryć drugą kromką tosta, lekko docisnąć. Wymaczać z dwóch stron i z boków w roztrzepanym jajku i położyć na patelnię z podgrzanym masłem klarowanym.
+* Smażyć na umiarkowanym ogniu z dwóch stron na złoty kolor, po ok. 2 minuty z każdej strony. Oddzielnie usmażyć 2 jajka sadzone.
+* Tosty przełożyć na talerze, przykryć jajkiem sadzonym i posypać dowolnymi dodatkami.
+
+# [SPA] Jajka z chorizo
+https://www.kwestiasmaku.com/przepis/jajka-z-chorizo-w-sosie-pomidorowym
+
+Składniki:
+* 75 g kiełbaski chorizo
+* 200 ml przecieru pomidorowego lub krojonych pomidorów
+* 4 jajka
+* opcjonalnie: płatki chili i rukola
+
+Przygotowanie:
+* Na patelni na małym ogniu podsmażyć pokrojone w plasterki chorizo (przez kilka minut aż wytopi się tłuszcz). Ostrożnie wlać sos pomidorowy (może pryskać) i zagotować.
+* Wbić jajka i na małym ogniu gotować ok. 10 minut bez mieszania (na ostatnie 3 minuty ewentualnie przykryć pokrywką aby białka się ścięły).
+* Opcjonalnie posypać płatkami chili i świeżą rukolą.
