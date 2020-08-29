@@ -3,10 +3,13 @@
         * [Introduction](blog/mastermind/01_introduction.md)
         * [Setting up project](blog/mastermind/02_setting_up.md)
 
+* Cook
+    * [Breakfast](cook/breakfast.md)
+    * [Main](cook/main.md)
+
 * Knowledge base
     * [Angular](knowledgebase/angular.md)
     * [Css](knowledgebase/css.md)
-    * [Gotowanie](knowledgebase/gotowanie.md)
     * [Rxjs](knowledgebase/rxjs.md)
 
 * Resources
