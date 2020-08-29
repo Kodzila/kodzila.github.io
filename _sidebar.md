@@ -6,6 +6,7 @@
 * Knowledge base
     * [Angular](knowledgebase/angular.md)
     * [Css](knowledgebase/css.md)
+    * [Gotowanie](knowledgebase/gotowanie.md)
     * [Rxjs](knowledgebase/rxjs.md)
 
 * Resources
