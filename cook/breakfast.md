@@ -35,3 +35,33 @@ Przygotowanie:
 * Na patelni na małym ogniu podsmażyć pokrojone w plasterki chorizo (przez kilka minut aż wytopi się tłuszcz). Ostrożnie wlać sos pomidorowy (może pryskać) i zagotować.
 * Wbić jajka i na małym ogniu gotować ok. 10 minut bez mieszania (na ostatnie 3 minuty ewentualnie przykryć pokrywką aby białka się ścięły).
 * Opcjonalnie posypać płatkami chili i świeżą rukolą.
+
+## Puszysty omlet na słodko
+https://www.ofeminin.pl/kuchnia/przepisy/omlet-puszysty-w-dwoch-wersjach-slodkiej-i-wytrawnej/r61hgex
+
+Składniki:
+* 2 łyżki mleka,
+* pół łyżeczki proszku do pieczenia,
+* 2 jajka,
+* 2 łyżki mąki,
+* odrobina cukru,
+* szczypta soli,
+* dowolny tłuszcz do smażenia
+* mascarpone
+* owoce np. maliny i borówki
+
+Przygotowanie:
+
+Omlet:
+* Białka oddzielamy od żółtek i ubijamy na sztywną pianę. 
+* Żółtka mieszamy z mąką, proszkiem do pieczenia i mlekiem. 
+* Dodajemy szczyptę soli i cukru. 
+* Do tak przygotowanej masy ostrożnie dodajemy ubitą pianę. 
+* Całość delikatnie mieszamy. 
+* Omlet smażymy na rozgrzanej patelni z dodatkiem oliwy lub oleju – powinien być rumiany z obu stron.
+* W połowie smażenia przewracamy omlet na drugą stronę przy pomocy talerza (samą łopatką jest ciężko bo się rozwala).
+
+Dodatki:
+* Roztapiamy mascarpone z cukrem na patelni.
+* Polewamy omlet.
+* Dodajemy owoce.
