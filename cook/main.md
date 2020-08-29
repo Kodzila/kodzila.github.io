@@ -1,4 +1,6 @@
-# [MEX] Chili con carne
+# Glowne dania
+
+## [MEX] Chili con carne
 https://www.zajadam.pl/dobre-przepisy/chili-con-carne
 
 Skladniki:
@@ -21,7 +23,7 @@ Przygotowanie:
 * Po tym czasie dodaj odcedzoną i przepłukaną czerwoną fasolę, dopraw do smaku solą, pieprzem, i sosem tabasco (uważnie, żeby nie przesadzić!!!), i gotuj bez przykrycia aż sos zgęstnieje i uzyska pożądaną konsystencję.
 * Gotowe chili podawaj z łyżką gęstej, kwaśnej śmietany i odrobiną startego sera. Jako dodatki dobrze sprawdzają się meksykańskie tortille, lub ryż. W restauracjach częstym dodatkiem są plasterki ostrych papryczek jalapeno, które ozdabiają każdą porcję chili con carne.
 
-# [CHI] Kurczak słodko-ostry (general tsos chicken)
+## [CHI] Kurczak słodko-ostry (general tsos chicken)
 https://dinnerthendessert.com/general-tsos-chicken/
 
 * 1 pound chicken thighs cut into 1 inch chunks (~700gr)
@@ -47,7 +49,7 @@ Przygotowanie:
 * Add in the chicken and toss, then add in the sauce.
 * Stir for about 30 seconds until thickened.
 
-# [ITA] Risotto z borowikami
+## [ITA] Risotto z borowikami
 SKŁADNIKI
 * 500g borowików
 * risotto2 szklanki ryżu arborio
@@ -69,7 +71,7 @@ PRZYGOTOWANIE
 * Często mieszamy i powtarzamy czynność do końca bulionu, aż ryż stanie się miękki i kleisty.
 * Zdejmujemy z ognia, przyprawiamy tymiankiem, solą i pieprzem. Dodajemy 2 łyżki masła, 2/3 parmezanu, mieszamy i przykrywamy na 3-4 minuty. Rozkładamy na głębokie talerze, posypujemy posiekaną natką i pozostałym parmezanem. Od razu podajemy.
 
-# [IND] Dhal zupa z soczewicy
+## [IND] Dhal zupa z soczewicy
 Składniki na 4 porcje:
 * 3 łyżki oleju
 * 2 ząbki czosnku
@@ -103,7 +105,7 @@ PRZYGOTOWANIE
 * Rozlać do miseczek. 
 * Posypać posiekaną kolendrą i zajadać.:)
 
-# Kurczak pieprzowo-cytrynowy z kremowym risotto
+## Kurczak pieprzowo-cytrynowy z kremowym risotto
 Skladniki:
 * Oliwa z oliwek
 * 2 piersi z kurczaka
@@ -122,7 +124,7 @@ Skladniki:
 Przygotowanie:
 * Pokryj kurczaka pieprzem cytrynowym (mozna solidnie, nie jest tak mocny jak zwykly pieprz)
 
-# [ITA] Winne spagethii
+## [ITA] Winne spagethii
 Składniki:
 * 1 Cebula duża
 * 400g mięsa wołowego
@@ -154,7 +156,7 @@ Kasia:
 * lyzeczke cukru i doprawiasz jak tam lubisz, ale wazne zeby to sie bulgotalo tak z 2h nawet, wtedy te smaki sie przejda i im dluzej wino "wsiaka" w meiso tym smaczniejsze, takze na glodnego nie robic xD bo nie wytrzymasz :smile:
 * i na koniec posypac parmezanikiem i oczywiscie podawac z reszta wina, ktore zostalo w butelce, chyba ze jest sie mna i sie wypija wiekszosc podczas gotowania xD
 
-# [IND] Butter chicken
+## [IND] Butter chicken
 http://mojebistro.pl/indyjski-kurczak-butter-chicken-chlebkami-naan/
 
 Składniki
@@ -201,7 +203,7 @@ Chlebki Naan:
 
 W mleku rozpuść cukier i drożdże, odstaw na 10 minut. Mąkę przesiej do miski, dodaj sól, wlej mleko i jogurt, wymieszaj. Stolnicę obsyp mąką i wyrób ciasto (5 -8 minut) aż nie będzie lepić się do rąk. Przełóż do miski wysmarowanej oliwą i odstaw w ciepłe, nieprzewiewne miejsce do podwojenia objętości (1 godzina). Następnie uformuj podłużne placki (z przepisu wyjdzie 8), pozostaw pod ściereczką przez 20 minut. Piecz na suchej, dobrze rozgrzanej patelni po ok 2 minuty z każdej strony.
 
-# [CHI] Cytrynowy kurczak
+## [CHI] Cytrynowy kurczak
 https://www.modernhoney.com/chinese-lemon-chicken/
 
 Ingredients
@@ -249,7 +251,7 @@ To make your homemade lemon sauce,
 * Toss fried chicken with the sweet lemon sauce.  
 * Top with grated lemon zest and green onions. If you want it to be extra saucy to be served with rice, I suggest 1 1/2 times the sauce recipe. Serve immediately.
 
-# [ITA] Kurczak w kremowym sosie z suszonymi pomidorami
+## [ITA] Kurczak w kremowym sosie z suszonymi pomidorami
 https://kulinarneprzeboje.pl/kurczak-w-kremowym-sosie-z-suszonymi-pomidorami/
 
 Składniki:
@@ -272,7 +274,7 @@ Wykonanie:
 * Wrzucić do sosu wcześniej usmażone kawałki kurczaka i dusić całość do czasu aż sos nieco zgęstnieje. Pod koniec doprawić do smaku solą i pieprzem.
 * Podawać, np. z gotowanym ryżem.
 
-# [THA] Zupa tajska z kurczakiem/krewetkami i mlekiem kokosowym
+## [THA] Zupa tajska z kurczakiem/krewetkami i mlekiem kokosowym
 https://haps.pl/Haps/7,167251,24402138,zupa-tajska-z-kurczakiem-i-mlekiem-kokosowym-przepis.html
 
 Składniki:
@@ -298,7 +300,7 @@ Przygotuj pastę curry - imbir zetrzyj na tarce o drobnych oczkach, czosnek prze
 
 Zupa tajska wybornie będzie smakować także z krewetkami zamiast kurczaka. Obierz je z pancerzyków, usuń wnętrzności. Pancerzyki zalej małą ilością wody i gotuj przez kilkanaście minut pod przykryciem. Uzyskany wywar dolej do zupy - z pancerzyków można wyciągnąć ogromną ilość smaku! Krewetki przesmaż na maśle z czosnkiem i dodaj do zupy na koniec, by nie zrobiły się gumowate.
 
-# [ITA] Lasagne
+## [ITA] Lasagne
 https://www.kuchniaplus.pl/przepisy/lasagne-bolognese
 
 Składniki:
@@ -331,7 +333,7 @@ Na makaron kładziemy trochę sera, potem sos bolognese, sos beszamelowy, ser, p
 Lasagne wkładamy do piekarnika nagrzanego do 180-200ºC, pieczemy ok 40 minut.
 _My pieklismy okolo 30 minut, bez termoobiegu przy 180 stopniach._
 
-# Makaron ze szparagami i pieczarkami
+## Makaron ze szparagami i pieczarkami
 https://www.kuchnia-domowa.pl/przepisy/dania-glowne/370-makaron-ze-szparagami-pieczarkami
 
 Składniki:
@@ -353,7 +355,7 @@ Sposób przygotowania:
 * Do szparagów dodać przygotowane pieczarki i smażyć dalej, aż woda z pieczarek wyparuje i całość lekko się przyrumieni. Przyprawić solą i pieprzem.
 * Wlać śmietanę, przykryć patelnię i dusić całość przez parę minut. Następnie dodać makaron, czosnek niedźwiedzi i orzechy. Całość wymieszać i doprawić do smaku solą i pieprzem.
 
-# Kurczak w orzechach
+## Kurczak w orzechach
 https://www.kwestiasmaku.com/kuchnia_polska/kurczak/orzechowa_panierka/przepis.html
 
 Składniki:
@@ -370,7 +372,7 @@ PRZYGOTOWANIE:
 * Do miseczki włożyć orzechy (można je rozdrobnić w mini melakserze lub drobno posiekać na desce), dodać bułkę tartą, ser i natkę pietruszki. Doprawić solą, pieprzem i wymieszać. Piersi obtoczyć w roztrzepanym, doprawionym solą i pieprzem jajku a później dokładnie w panierce.
 * Rozgrzać patelnię z olejem roślinnym na głębokość ok. 1 cm. Smażyć filety z dwóch stron na złoty kolor na średnim ogniu przez około 3-4 minuty. Posypać natką pietruszki i podawać z kawałkami cytryny.
 
-# [GRE] Gyros zapiekanka
+## [GRE] Gyros zapiekanka
 https://www.przyslijprzepis.pl/przepis/zapiekanka-gyros-z-ryzem-2
 
 Składniki
@@ -396,7 +398,7 @@ Sposób przygotowania przepisu:
 6. Naczynie żaroodporne smarujemy masłem i na dno wysypujemy ryż. Smarujemy sosem i posypujemy startym na tarce o dużych oczkach żółtym serem. Kolejną warstwą jest kurczak z cebulą, który także smarujemy sosem i posypujemy serem. Ostatnia warstwa to papryka i ogórki. Tą warstwę również smarujemy sosem i posypujemy serem.
 7. Pieczemy w piekarniku w temp. 180 stopni przez ok. 30 minut.
 
-# Risotto ze szparagami i kurczakiem
+## Risotto ze szparagami i kurczakiem
 https://www.kwestiasmaku.com/przepis/risotto-ze-szparagami-i-kurczakiem
 
 Liczba porcji: 4
@@ -427,8 +429,8 @@ Przygotowanie:
 * Dalej podlewać do wyczerpania bulionu
 * Nałożyć porcje i posypać startym serem
 
-# Gotowany łosoś z szafranem
-http://www.coolinarny.com/2013/11/15/losos-z-szafranem/#:~:text=Łosoś%3A%20potrzebujesz%20steka%20bez%20skóry,(czyli%20jakieś%207%20minut).
+## Gotowany łosoś z szafranem
+http://www.coolinarny.com/2013/11/15/losos-z-szafranem/##:~:text=Łosoś%3A%20potrzebujesz%20steka%20bez%20skóry,(czyli%20jakieś%207%20minut).
 
 Składniki:
 * 2 woreczki ryżu (np. jaśminowego)
@@ -441,7 +443,7 @@ Przygotowanie:
 * Łosoś: potrzebujesz steka bez skóry (100 gram na osobę). Do szklanki wrzuć szczyptę szafranu i zalej wrzątkiem. Rybę połóż na patelni, zalej szafranową wodą, przykryj i gotuj tyle czasu ile zostaje Ci jeszcze do końca ryżu (czyli jakieś 7 minut).
 * Serwis: Nakładając ryż możesz wrzucić do niego kilka listków baby szpinaku lub do wody szafranowej obok łososia, szpinak potrzebuje minutę. Na talerzu łososia posól i popieprz świeżo mielonymi przyprawami i skrop cytryną.
 
-# [GRE] Moussaka
+## [GRE] Moussaka
 https://www.kwestiasmaku.com/dania_dla_dwojga/moussaka/przepis.html
 
 Składniki bakłażany:
@@ -487,7 +489,7 @@ Pieczenie:
 * Piekarnik nagrzać do 180 stopni. Żaroodporne naczynie o pojemności około 2l posmarować masłem lub oliwą. Bakłażany podzielić na 3 części, na dnie rozłożyć pierwszą część, przykryć połową sosu mięsno-pomidorowego, ułożyć drugą warstwę bakłażana i przykryć resztą sosu mięsno-pomidorowego.
 * Położyć pozostałe plastry bakłażana i polać sosem beszamelowym. Posypać resztą sera i wstawić do nagrzanego piekarnika na 35 minut.
 
-# Kurczak miodowo-musztardowy
+## Kurczak miodowo-musztardowy
 
 Składniki:
 * 2 piersi z kurczaka
@@ -505,7 +507,7 @@ Przygotowanie:
 * Do naczynia żaroodpornego dać kurczaka i zalać sosem.
 * Piec 30-40 minut. Bez przykrycia.
 
-[# ITA] Makaron z sosem pomidorowo-mascarpone
+[## ITA] Makaron z sosem pomidorowo-mascarpone
 https://kuchnialidla.pl/makaron-z-suszonymi-pomidorami-i-sosem-mascarpone
 
 Składniki:

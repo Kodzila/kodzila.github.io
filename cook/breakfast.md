@@ -1,7 +1,9 @@
-# Racuszki z owocami
+# Sniadania
+
+## Racuszki z owocami
 ![racuszki](res/racuszki.png)
 
-# Tosty z awokado i jajkiem sadzonym
+## Tosty z awokado i jajkiem sadzonym
 https://www.kwestiasmaku.com/przepis/tosty-francuskie-z-awokado-i-jajkiem-sadzonym
 
 Składniki:
@@ -20,7 +22,7 @@ Przygotowanie:
 * Smażyć na umiarkowanym ogniu z dwóch stron na złoty kolor, po ok. 2 minuty z każdej strony. Oddzielnie usmażyć 2 jajka sadzone.
 * Tosty przełożyć na talerze, przykryć jajkiem sadzonym i posypać dowolnymi dodatkami.
 
-# [SPA] Jajka z chorizo
+## [SPA] Jajka z chorizo
 https://www.kwestiasmaku.com/przepis/jajka-z-chorizo-w-sosie-pomidorowym
 
 Składniki:
