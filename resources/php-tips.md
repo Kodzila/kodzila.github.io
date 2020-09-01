@@ -14,6 +14,9 @@
 * [Set up Satis](https://t3terminal.com/blog/satis-private-packages-composer/)
 * [Set up composer autocompletion](https://github.com/ramsey/collection#composer-command-autocompletion)
 
+# General php
+* [Psalm examples](https://gist.github.com/Ocramius/4bd03ad4d545bb07164c133d4d2b3686)
+
 # API Platform
 * [Configuring serialization, input, output](https://medium.com/distant-horizons/blog-configuring-api-platform-resources-by-following-ddd-principles-b6d3de5d3984)
 
