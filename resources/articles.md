@@ -130,6 +130,7 @@
 * [Spotify ML algorithms](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
 * [Compression algorithms](https://unwttng.com/compression-decompressed)
 * [HTTPS](https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/)
+* [Cookies](https://web.dev/samesite-cookies-explained/)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
