@@ -119,6 +119,7 @@
 * [Becoming senior](https://dzone.com/articles/become-a-senior-engineer-part-deux)
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 * [CTO](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)
+* [Senior vs junior](https://medium.com/@jacobcomer/bridging-the-gap-between-junior-and-senior-engineers-571b2248fbb8)
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
@@ -131,6 +132,7 @@
 * [Compression algorithms](https://unwttng.com/compression-decompressed)
 * [HTTPS](https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/)
 * [Cookies](https://web.dev/samesite-cookies-explained/)
+* [Dialects in code](https://www.rosstuck.com/dialects-in-code-part-1)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
