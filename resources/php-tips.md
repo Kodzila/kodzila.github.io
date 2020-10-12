@@ -28,3 +28,7 @@
 
 # Angular
 * [Inspect store in the browser](https://ngrx.io/guide/store-devtools)
+
+# Behat
+* [Set up Symfony](https://medium.com/@azaiez.nafaa/setup-behat-with-symfony-5-rest-api-9bc98030e3d1)
+* [Advanced Symfony](https://medium.com/@azaiez.nafaa/behat-with-symfony-5-rest-api-advanced-8a3d996a02ca)
