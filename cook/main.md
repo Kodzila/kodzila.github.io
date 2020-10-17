@@ -593,3 +593,39 @@ Przygotowanie:
 * Świeżego pomidora sparzyć, obrać, pokroić na ćwiartki, usunąć szypułki oraz nasiona z komór. Miąższ pokroić w kosteczkę i dodać do zupy. Pomidory z puszki są już gotowe do użycia, wystarczy dodać do potrawy.
 * Wymieszać i gotować przez 5 minut, do miękkości warzyw. Zmiksować w blenderze z dodatkiem mleka.
 
+## Muszle faszerowane kurczakiem i szpinakiem
+https://www.kwestiasmaku.com/przepis/muszle-faszerowane-kurczakiem-i-szpinakiem
+
+Składniki:
+* 250 g makaronu muszle
+
+Sos pomidorowy:
+* 1 łyżeczka oliwy
+* 1/2 ząbka czosnku
+* 1/3 szklanki bulionu
+* 1 puszka krojonych pomidorów
+* 1 łyżka koncentratu pomidorowego
+* szczypta cukru i suszonego oregano
+* kilka posiekanych listków bazylii
+
+Nadzienie:
+* 2 pojedyncze filety z kurczaka
+* 2 łyżki oliwy lub oleju roślinnego
+* 2 łyżeczki suszonego oregano
+* 1 łyżeczka suszonego tymianku
+* 1/2 łyżeczki kuminu
+* 2 ząbki czosnku
+* 200 g szpinaku
+* 150 g sera pleśniowego
+* 200 g tartej mozzarelli
+
+Przygotowanie:
+* Makaron ugotować w osolonej wodzie z dodatkiem soli, zgodnie z instrukcją na opakowaniu (zwykle ok. 10 minut). Po ugotowaniu odcedzić i wyłożyć na talerz.
+
+Sos pomidorowy:
+* W garnku na oliwie podsmażyć starty czosnek, dodać bulion, pomidory, koncentrat, przyprawy i bazylię. Gotować bez przykrycia przez ok. 10 minut. Wlać do dużego żaroodpornego naczynia.
+
+Nadzienie:
+* Filety kurczaka pokroić w kosteczkę. Doprawić solą, pieprzem, suszonym oregano, tymiankiem i kuminem. Rozgrzać dużą patelnię, wlać oliwę i włożyć kurczaka, dokładnie obsmażyć z każdej strony co chwilę mieszając.
+* Dodać obrany i starty czosnek, wymieszać i chwilę razem podsmażyć. Do obsmażonego kurczaka dodać opłukany szpinak. Smażyć mieszając aż szpinak zwiędnie. Odstawić z ognia, dodać pokrojony ser pleśniowy i połowę mozzarelli, wymieszać.
+* Piekarnik nagrzać do 180 stopni C. Nakładać łyżkę nadzienie w muszlę i układać w sosie pomidorowym, całość posypać resztą mozzarelli i zapiekać przez ok. 25 minut.
