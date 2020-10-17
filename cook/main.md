@@ -629,3 +629,26 @@ Nadzienie:
 * Filety kurczaka pokroić w kosteczkę. Doprawić solą, pieprzem, suszonym oregano, tymiankiem i kuminem. Rozgrzać dużą patelnię, wlać oliwę i włożyć kurczaka, dokładnie obsmażyć z każdej strony co chwilę mieszając.
 * Dodać obrany i starty czosnek, wymieszać i chwilę razem podsmażyć. Do obsmażonego kurczaka dodać opłukany szpinak. Smażyć mieszając aż szpinak zwiędnie. Odstawić z ognia, dodać pokrojony ser pleśniowy i połowę mozzarelli, wymieszać.
 * Piekarnik nagrzać do 180 stopni C. Nakładać łyżkę nadzienie w muszlę i układać w sosie pomidorowym, całość posypać resztą mozzarelli i zapiekać przez ok. 25 minut.
+
+## Pierś z kurczaka faszerowana serem i warzywami
+https://kuron.com.pl/artykuly/przepisy/dania-glowne/piers-faszerowana-serem-i-warzywami/
+
+Składniki:
+* 4 piersi z kurczaka
+* 0,5 papryki czerwonej
+* 0,5 papryki żółtej
+* 50 g świeżego szpinaku baby
+* 4 plastry wyrazistego w smaku sera żółtego
+* 1 łyżeczka curry
+* 3 łyżki oleju
+* 1 łyżeczka soli
+* 0,5 łyżeczki pieprzu
+* Kilka pomidorow szuszonych w zalewie
+
+Przygotowanie:
+* Piersi delikatnie natnij wzdłuż tworząc kieszonkę. Najlepiej użyć do tego bardzo ostrego noża.
+* Przypraw piersi w środku solą i pieprzem.
+* Obie papryki pokrój w paski i ułóż na rozciętej piersi, następnie połóż kilka listków świeżego szpinaku i plasterek sera. Dodaj także pomidory suszone.
+* Przygotuj marynatę: Wymieszaj ze sobą olej, pieprz, curry i sól.
+* Sylikonowym pędzelkiem posmaruj piersi dokładnie po wierzchu i piecz 20 minut w 200 °C jeśli posiadasz włącz funkcję grilla w piekarniku.
+* Tak przygotowaną pierś podawaj z ulubionymi dodatkami.
