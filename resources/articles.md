@@ -51,6 +51,7 @@
 * [Model in different bounded contexts](https://stackoverflow.com/questions/47174468/ddd-bounded-contexts-different-models-for-the-same-concept)
 * [Combining event sourcing with stateful system](https://stitcher.io/blog/combining-event-sourcing-and-stateful-systems)
 * [Concepts](https://herbertograca.com/2017/09/07/domain-driven-design/)
+* [Integration patterns](https://inside.getyourguide.com/blog/2019/11/18/tackling-business-complexity-with-strategic-domain-driven-design)
 
 ## DDD: tactical
 * [Value object](http://culttt.com/2014/08/18/encapsulating-applications-business-rules)
