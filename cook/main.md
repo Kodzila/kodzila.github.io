@@ -652,3 +652,34 @@ Przygotowanie:
 * Przygotuj marynatę: Wymieszaj ze sobą olej, pieprz, curry i sól.
 * Sylikonowym pędzelkiem posmaruj piersi dokładnie po wierzchu i piecz 20 minut w 200 °C jeśli posiadasz włącz funkcję grilla w piekarniku.
 * Tak przygotowaną pierś podawaj z ulubionymi dodatkami.
+
+
+## Papryka faszerowana
+https://aniagotuje.pl/przepis/papryka-faszerowana
+
+Składniki:
+* 5 dużych papryk - mogą być różnych kolorów
+* 1 torebka ryżu - 100 g waga przed ugotowaniem
+* 400 g mięsa mielonego wołowo-wieprzowego
+* nieduża cebula - około 120 g
+* 5 ząbków czosnku - około 20 g
+* 300 g sera mozzarella
+* 2 średnie pomidory - 500 g
+* 30g koncentratu pomidorowego (około 3 łyżki, najmniejsze opakowanie)
+* garść siekanego szczypiorku
+* 2 łyżki oleju do smażenia
+* przyprawy: 1 łyżeczka oregano; po pół łyżeczka soli i słodkiej papryki, po 1/3 łyżeczki pieprzu i ostrej papryki
+
+Przygotowanie:
+* Na początku przygotuj sobie farsz. Nagrzej dużą patelnię i wlej dwie łyżki oleju do smażenia. Cebulę i czosnek obierz i posiekaj. Cztery ząbki czosnku można też przepuścić przez praskę. Cebulkę wymieszaną z czosnkiem podsmażaj na odrobinę wyższej niż mała moc palnika przez 10 minut. W tym czasie przygotuj mięso i przyprawy.
+* Potrzebujesz około 500 gramów mięsa mielonego. Ja użyłam łopatki wieprzowej. Mięso zmiel w maszynce na średnicy oczkach. Jeśli nie masz maszynki, to polecam zakup mięsa u rzeźnika z możliwością zmielenia mięsa na miejscu w sklepie. Zmielone mięso dodaj na patelnię z zarumienioną cebulką i czosnkiem. Dodaj też przyprawy: 1 łyżeczka oregano; po pół łyżeczka soli i słodkiej papryki, po 1/3 łyżeczki pieprzu i ostrej papryki. Całość zamieszaj przy pomocy drewnianej łyżki i smaż przez 10 minut (warto przez pierwsze minuty mieszać i rozdzielać kawałki mielonego mięsa).  
+* Po tym czasie dodaj też siekany miąższ z dwóch pomidorów. Wcześniej je obierz i usuń twardy fragment po szypułce. Na patelnię dodaj również trzy łyżki koncentratu pomidorowego oraz sporą ga
+* W międzyczasie polecam ugotować też torebkę ryżu. Jedna saszetka suchego ryżu o wadze 100 gramów. Użyłam ryż basmati, ale można też sięgnąć np. po ryż jaśminowy. Ryż ugotuj do miękkości w osolonej wodzie, zgodnie z instrukcją na opakowaniu. Po ugotowaniu mój ryż ważył niecałe 300 gramów. Ugotowany ryż dodaj na patelnię z usmażonym farszem. Wszystko razem zamieszaj i po trzech minutach wyłącz. Sprawdź smak farszu i w razie potrzeby dodaj więcej przypraw. 
+* Gotowy farsz odstaw na bok i przygotuj sobie naczynie żaroodporne oraz papryki. Do zrobienia papryk faszerowanych wybierz niskie i szerokie naczynie, w którym zmieści się sześć papryk. Zawsze kupuję więcej papryk i przed ich szykowaniem "przymierzam" je w naczyniu. Wybieram większe i szersze sztuki o podobnej wielkości. U mnie jedna papryka ważyła dość sporo, bo około 270 gramów. 
+* Wybrane do przepisu papryki umyj dokładnie pod zimną, bieżącą wodą i osusz ręcznikiem papierowym. Ostrym nożem odkrój górę papryki z ogonkiem. Ze środka papryki usuń gniazdo nasienne oraz białe włókna. Można śmiało zrobić to wyłącznie palcami, bez użycia nożyka. 
+* Do lekko przestudzonego farszu dodaj większość pokrojonego na małe kawałki sera mozzarella i zamieszaj farsz. Resztę sera mozzarella zostaw na potem. Użyjesz go do grillowania papryk pod koniec pieczenia ich w piekarniku. 
+* Gotowym farszem wypełnij wszystkie papryki. Jeśli masz więcej farszu, to możesz śmiało dać go więcej, by wystawał z papryk. 
+* Faszerowane papryki umieść w naczyniu do zapiekania. Papryki możesz dodatkowo posmarować odrobiną oleju. Użyj do tego pędzelka kuchennego. Do naczynia wlej też odrobinę wody. Wystarczy 50 ml wody, która będzie odparowywała na początku pieczenia i sprawi, że papryki nie przypieką się od spodu. 
+* Tak przygotowane faszerowane papryki umieść w piekarniku nagrzanym do 180 stopni z termoobiegiem. Wybierz trochę niższą niż środkowa półka w piekarniku i piecz tak papryki przez około 40 minut. Jeśli nie masz termoobiegu, to ustaw 190-200 stopni z grzaniem góra/dół. Kontroluj jednak stopień przypieczenia papryk, by od góry nie zapiekły się za mocno. Jeśli używasz cienkiego naczynia np. metalowego - uważaj, by papryki nie przypiekły się za mocno od spodu. 
+* Po około 40 minutach pieczenia bardzo ostrożnie zdejmij podpieczone kapelusze z papryk i odłóż je sobie na duży talerz. Na farsz wystający od góry z papryk, wyłóż resztę sera mozzarella i zapiekaj papryki jeszcze przez ostatnie 5-10 minut. Możesz na ten czas ustawić tryb grillowania od góry. 
+* Po wyjęciu naczynia z paprykami faszerowanymi wszystkie kapelusiki odłóż na swoje miejsce. 
