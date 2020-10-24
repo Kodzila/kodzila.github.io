@@ -683,3 +683,24 @@ Przygotowanie:
 * Tak przygotowane faszerowane papryki umieść w piekarniku nagrzanym do 180 stopni z termoobiegiem. Wybierz trochę niższą niż środkowa półka w piekarniku i piecz tak papryki przez około 40 minut. Jeśli nie masz termoobiegu, to ustaw 190-200 stopni z grzaniem góra/dół. Kontroluj jednak stopień przypieczenia papryk, by od góry nie zapiekły się za mocno. Jeśli używasz cienkiego naczynia np. metalowego - uważaj, by papryki nie przypiekły się za mocno od spodu. 
 * Po około 40 minutach pieczenia bardzo ostrożnie zdejmij podpieczone kapelusze z papryk i odłóż je sobie na duży talerz. Na farsz wystający od góry z papryk, wyłóż resztę sera mozzarella i zapiekaj papryki jeszcze przez ostatnie 5-10 minut. Możesz na ten czas ustawić tryb grillowania od góry. 
 * Po wyjęciu naczynia z paprykami faszerowanymi wszystkie kapelusiki odłóż na swoje miejsce. 
+
+## Curry warzywne (kalafior, ziemniak, szpinak)
+https://www.kwestiasmaku.com/przepis/curry-warzywne-z-ziemniakami-kalafiorem-i-szpinakiem
+
+Składniki:
+* 450 g kalafiora (świeżego lub paczka mrożonego)
+* 1 łyżka oleju kokosowego
+* 1 łyżka pasty curry lub: 1 łyżka startego imbiru, 2 starte ząbki czosnku, 4 posiekane plasterki chili
+* 1 łyżeczka kurkumy i 1/2 łyżeczka słodkiej papryki w proszku
+* 250 ml bulionu drobiowego lub jarzynowego
+* 400 ml (1 puszka) mleka kokosowego
+* 3 ziemniaki
+* 100 g szpinaku
+
+Przygotowanie:
+* Kalafiora rozmrozić i pokroić na mniejsze kawałki - różyczki.
+* W szerokim garnku na łyżce oleju delikatnie podsmażyć pastę curry (lub starty czosnek, imbir i chili) ciągle mieszając.
+* Dodać kurkumę i paprykę w proszku i wymieszać, następnie wlewać po łyżce mleko kokosowe ciągle mieszając aż powstanie pasta (dodać w ten sposób 3 - 4 łyżki mleka).
+* Następnie wlać gorący bulion oraz resztę mleka kokosowego. Wymieszać, doprawić solą (lub sosem rybnym) i zagotować.
+* W gotujący się sos włożyć kalafiora oraz obrane i pokrojone w kosteczkę ziemniaki. Zagotować, następnie gotować pod uchyloną pokrywą przez ok. 15 minut do miękkości warzyw.
+* Dodać szpinak i mieszając gotować przez 1 minutę. Podawać z posiekaną papryczką oraz kolendrą. Można skropić sokiem z limonki.
