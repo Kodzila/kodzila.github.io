@@ -65,6 +65,8 @@
 * [MS domain and integration events](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/domain-events-design-implementation)
 * [Command Bus](https://matthiasnoback.nl/2015/01/responsibilities-of-the-command-bus/)
 * [Creating code rule](https://blog.ndepend.com/checking-ddd-ubiquitous-language-with-ndepend/)
+* [Building blocks in polish](https://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf)
+* [Building blocks in polish pt2](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 
 ## Architecture
 * [Diagram tool](https://terrastruct.com)
