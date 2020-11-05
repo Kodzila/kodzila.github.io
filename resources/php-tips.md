@@ -13,6 +13,7 @@
 * [Unpack](http://fabien.potencier.org/symfony4-unpack-the-packs.html)
 * [Set up Satis](https://t3terminal.com/blog/satis-private-packages-composer/)
 * [Set up composer autocompletion](https://github.com/ramsey/collection#composer-command-autocompletion)
+* [Operation time out on VPN](https://getcomposer.org/doc/articles/troubleshooting.md#operation-timed-out-ipv6-issues-)
 
 # General php
 * [Psalm examples](https://gist.github.com/Ocramius/4bd03ad4d545bb07164c133d4d2b3686)
