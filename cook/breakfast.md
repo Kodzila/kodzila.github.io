@@ -65,3 +65,24 @@ Dodatki:
 * Roztapiamy mascarpone z cukrem na patelni.
 * Polewamy omlet.
 * Dodajemy owoce.
+
+## Szakszuka z Dinette
+Składniki:
+* 2 jajka z wolnego wybiegu
+* pomidory pelati
+* cebula
+* czosnek
+* imbir 
+* chili 
+* kmin rzymski 
+* sól pieprz
+* cukier
+* kolendra
+
+Przygotowanie:
+* zagrzej średnią patelnię z łyżką oleju lub masła klarowanego na średnim ogniu (patelnia nie może być zbyt gorąca)
+* wlej na patelnię zawartość szakszuki
+* podgrzewaj na średnim ogniu około 2 min bez mieszania
+* weź łyżkę i wciśnij ją w miejsce, gdzie chcesz wbić jajka (zrób dołeczek dla każdego jajka, ale nie zbyt głęboki - na spodzie wciąż musi być szakszuka)
+* wbij tyle jajek ile masz dołeczków, przykryj patelnię pokrywką i poczekaj aż jajko się zetnie tak jak lubisz. 
+* Gdy jajka są ścięte, możesz jeść szakszukę prosto z patelni, lub delikatnie przełożyć ja na talerz. 
