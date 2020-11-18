@@ -67,6 +67,7 @@
 * [Creating code rule](https://blog.ndepend.com/checking-ddd-ubiquitous-language-with-ndepend/)
 * [Building blocks in polish](https://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf)
 * [Building blocks in polish pt2](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
+* [Emitting domain events in Doctrine](https://beberlei.de/2013/07/24/doctrine_and_domainevents.html)
 
 ## Architecture
 * [Diagram tool](https://terrastruct.com)
