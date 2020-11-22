@@ -86,3 +86,28 @@ Przygotowanie:
 * weź łyżkę i wciśnij ją w miejsce, gdzie chcesz wbić jajka (zrób dołeczek dla każdego jajka, ale nie zbyt głęboki - na spodzie wciąż musi być szakszuka)
 * wbij tyle jajek ile masz dołeczków, przykryj patelnię pokrywką i poczekaj aż jajko się zetnie tak jak lubisz. 
 * Gdy jajka są ścięte, możesz jeść szakszukę prosto z patelni, lub delikatnie przełożyć ja na talerz. 
+
+## [MEX] Jajka po ranczersku
+https://www.kwestiasmaku.com/przepis/jajka-po-ranczersku
+
+To jest dlugie śniadanie!
+
+Składniki:
+* 80 g boczku parzonego / wędzonego
+* 1/2 małej cebuli
+* 150 g czerwonej fasoli z zalewą
+* przyprawy: sól i pieprz oraz (opcjonalnie) szczypta kminu rzymskiego i wędzonej papryki
+* tortilla (1 duża lub 2 małe)
+* 2 łyżeczki masła
+* 2 jajka
+* 1 pomidor lub 10 pomidorków koktajlowych
+* 1/4 czerwonej cebuli
+* 1/2 awokado
+* do podania: świeża kolendra i limonka oraz (opcjonalnie) plasterki chili lub jalapeno
+
+Przygotowanie:
+* Boczek pokroić w kostkę, włożyć na patelnię i na małym ogniu wytopić z tłuszczu. Przełożyć na talerz zostawiając tłuszcz na patelni.
+* Na pozostałym tłuszczu zeszklić drobno posiekaną cebulę. Dodać fasolę z kilkoma łyżkami zalewy oraz przyprawy. Chwilę podgrzać po czym rozgnieść wszystko praską do ziemniaków na w miarę jednorodną pastę.
+* Na dużej patelni rozgrzać łyżeczkę masła i podsmażyć placek tortilli. Tortillę przełożyć na talerz, następnie na patelnię dodać drugą łyżeczkę masła i usmażyć sadzone jajka.
+* W międzyczasie przygotować salsę pomidorową: pomidora pokroić w kostkę, czerwoną cebulę drobno posiekać.
+* Tortillę posmarować pastą z fasoli, ułożyć sadzone jajka, podsmażony boczek i salsę pomidorową. Dodać pokrojone plasterki awokado, posypać kolendrą, doprawić solą i pieprzem. Awokado i salsę skropić sokiem z limonki, opcjonalnie dodać plasterki chili lub jalapeno.
