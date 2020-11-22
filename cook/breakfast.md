@@ -111,3 +111,19 @@ Przygotowanie:
 * Na dużej patelni rozgrzać łyżeczkę masła i podsmażyć placek tortilli. Tortillę przełożyć na talerz, następnie na patelnię dodać drugą łyżeczkę masła i usmażyć sadzone jajka.
 * W międzyczasie przygotować salsę pomidorową: pomidora pokroić w kostkę, czerwoną cebulę drobno posiekać.
 * Tortillę posmarować pastą z fasoli, ułożyć sadzone jajka, podsmażony boczek i salsę pomidorową. Dodać pokrojone plasterki awokado, posypać kolendrą, doprawić solą i pieprzem. Awokado i salsę skropić sokiem z limonki, opcjonalnie dodać plasterki chili lub jalapeno.
+
+## Croque madame
+https://www.kwestiasmaku.com/przepis/croque-madame
+
+Składniki:
+* 4 tosty
+* 60 g tartego sera żółtego
+* 2 plasterki szynki
+* 3 jajka
+* 5 łyżek mleka
+* (klarowane) masło do smażenia
+
+Przygotowanie:
+* Rozłożyć tosty na desce, na każdym ułożyć tarty ser. Na dwóch tostach położyć plasterek szynki. Podtrzymując szynkę palcami odwrócić tosty z szynką i ułożyć na tostach z samym serem. Lekko docisnąć.
+* W głębokim talerzu roztrzepać widelcem 1 jajko z dodatkiem mleka oraz szczypty soli. Maczać w tym tosty i kłaść na patelnię z podgrzanym masłem (najlepiej klarowanym).
+* Smażyć na umiarkowanym ogniu z dwóch stron na złoty kolor, po ok. 1,5 minuty z każdej strony. Oddzielnie usmażyć 2 jajka sadzone. Tosty przełożyć na talerze i przykryć jajkiem sadzonym.
