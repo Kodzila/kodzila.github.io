@@ -704,3 +704,48 @@ Przygotowanie:
 * Następnie wlać gorący bulion oraz resztę mleka kokosowego. Wymieszać, doprawić solą (lub sosem rybnym) i zagotować.
 * W gotujący się sos włożyć kalafiora oraz obrane i pokrojone w kosteczkę ziemniaki. Zagotować, następnie gotować pod uchyloną pokrywą przez ok. 15 minut do miękkości warzyw.
 * Dodać szpinak i mieszając gotować przez 1 minutę. Podawać z posiekaną papryczką oraz kolendrą. Można skropić sokiem z limonki.
+
+
+## [MEX] Rożki z tortilli z salsą pomidorową
+https://www.kwestiasmaku.com/przepis/zapiekane-rozki-z-tortilli-z-mielonym-miesem-serem-i-warzywami
+
+Składniki - sos mięsny:
+* 2 plasterki wędzonego boczku
+* 1/2 cebuli
+* 1 ząbek czosnku
+* 1 łyżka oliwy
+* 250 g mielonego mięsa (np. wołowo-wieprzowego)
+* po 1/2 łyżeczki ostrej i słodkiej papryki, kminu rzymski, suszonego oregano
+* 1 szklanka bulionu
+* 4 łyżki koncentratu pomidorowego
+
+Składniki - tortille:
+* 1 opakowanie tortilli (4 duże sztuki ok. śr. 25 cm)
+* 1/2 czerwonej papryki
+* 1/2 cebuli
+* 1/2 papryczki chili
+* garść rukoli
+* 250 g sera żółtego np. twardego gouda, cheddar
+* 1 kulka białej mozzarelli
+
+Składniki - sos pomidorowy:
+* 1 łyżka oliwy
+* 1 ząbek czosnku
+* 1 puszka pomidorów
+* 1 łyżeczka posiekanej papryczki chili
+
+Przygotowanie - sos mięsny:
+* Boczek pokroić w drobną kostkę i włożyć na dużą patelnię, wytopić na małym ogniu aż się zrumieni. Dodać drobno posiekaną cebulę i mieszając smażyć razem przez ok. 2 minuty, pod koniec dodać starty czosnek.
+* Wlać oliwę, dodać mięso i dokładnie je obsmażyć. Dodać przyprawy, wymieszać, chwilę razem podsmażyć. Wlać gorący bulion i zagotować. Przykryć pokrywą i gotować przez ok. pół godziny. 
+* Dodać koncentrat pomidorowy, wymieszać i gotować bez przykrycia przez kilka minut aż sos będzie gęsty.
+
+Przygotowanie - sos pomidorowy:
+* W garnku podgrzać oliwę ze startym czosnkiem. Gdy tylko zacznie się rumienić dodać pomidory z puszki i wymieszać. Doprawić solą, pieprzem, łyżeczką cukru.
+* Dodać posiekaną papryczkę chili bez pestek i gotować przez ok. 10 minut pod przykryciem, rozgniatając w międzyczasie pomidory. Potem gotować jeszcze przez ok. 5 minut pod uchyloną pokrywą. Podawać w miseczce pośrodku wieńca tortilli.
+
+Przygotowanie - tortille:
+* Piekarnik nagrzać do 180 stopni C. Placki tortilli przekroić na pół. Przygotować warzywa: paprykę i cebulę pokroić w kosteczkę, papryczkę chili oraz rukolę posiekać, ser żółty zetrzeć na tarce o dużych oczkach.
+* Odłożyć ok. 1/4 sera żółtego do posypania po wierzchu i wymieszać go z mozzarellą w kulce, wyjętą z zalewy i odciśniętą w dłoni.
+* Na połówce tortilli, mniej więcej pośrodku, dać po ok. 2 łyżki sera żółtego, następnie ok. 2 łyżki sosu mięsnego, potem pokrojoną w kosteczkę cebulę, paprykę oraz chili, a na koniec posiekaną rukolę. Wszystkie składniki dzielimy mniej więcej na 8 części (tyle ile jest kawałków tortilli).
+* Zawinąć rulonik i ułożyć łączeniem do dołu na blaszce wyścielonej papierem do pieczenia. Powtórzyć z resztą tortilli, układając je w okrąg, pośrodku pozostawiając miejsce na miseczkę z sosem. Sposób zwijania ruloników pokazany jest na poniższych zdjęciach.
+* Rożki z tortilli posypać mieszanką sera żółtego i mozzarelli, wstawić do piekarnika i zapiekać ok. 15 minut.
