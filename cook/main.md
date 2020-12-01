@@ -770,3 +770,33 @@ Przygotowanie:
 * Na tę samą patelnię włożyć pokrojoną w drobną kosteczkę cebulę oraz drobno starty czosnek. Zmniejszyć ogień i mieszając podsmażać przez ok. 2 minuty.
 * Włożyć z powrotem mięso i wlać whisky. Patelnię ostrożnie odsunąć na bok i lekko ją przechylić aby płomień palnika zapalił alkohol (Uwaga bo płomień pojawi się nagle i będzie wysoki, ok 30 cm! należy się wcześniej upewnić czy możemy to bezpiecznie wykonać; alternatywnie można też odparować whisky z patelni gotując przez ok 1 min).
 * Zwiększyć ponownie ogień, wlać bulion i zagotować. Dodać śmietankę i wymieszać. Gotować przez chwilę aż sos zgęstnieje, energicznie poruszając patelnią w jedną i drugą stronę. W międzyczasie raz przewrócić mięso. Sprawdzić doprawienie solą i pieprzem, posypać posiekaną natką pietruszki.
+
+## [MEX] Meksykańska zapiekanka
+https://www.wellplated.com/mexican-casserole/ (mix)
+
+Składniki - sos pomidorowy:
+* 1 łyżka oliwy
+* 2 ząbki czosnku
+* 2 puszki pomidorów
+* 2 posiekane papryczki chilli
+
+Składniki - mięso:
+* 400g mięsa mielonego wołowego
+* 1/2 butelki wina wytrawnego
+* 1 cebula
+* Przyprawy
+
+Składniki - reszta:
+* 200g ryżu
+* 1 kostka sera mozarella
+* 1 kostka sera chedar
+* 2 papryki (czerwona, żółta)
+* Puszka kukurydzy
+
+Przygotowanie:
+* Weź dużą, głęboką patelnie. Pokrój cebulę na kosteczkę i podsmaż z oliwą na patelni. Dodaj starty czosnek. Dodaj mięso i podlewaj go winem aż do wchłonięcia około pół butelki (można trochę więcej). To długi proces, więc zacznij od tego.
+* Ugotuj ryż, nasmaruj naczynie żaroodporne oliwą i wyłóż ugotowany ryż równomiernie.
+* W garnku podgrzać oliwę ze startym czosnkiem. Gdy tylko zacznie się rumienić dodać pomidory z puszki i wymieszać. Doprawić solą, pieprzem, łyżeczką cukru. Dodać posiekaną papryczkę chili bez pestek i gotować przez ok. 10 minut pod przykryciem, rozgniatając w międzyczasie pomidory. Potem gotować jeszcze przez ok. 5 minut pod uchyloną pokrywą. Podawać w miseczce pośrodku wieńca tortilli.
+* Przygotuj resztę: pokrój paprykę, umyj kururydzę, zetrzyj ser.
+* Kiedy wszystko będzie gotowe, wróć do naczynia żaroodpornego. Ryż posmaruj połową sosu. Na to daj połowę startego sera. Następnie rożłóż mięso. Potem kolejno: papryka, kukurydza, druga połowa sera a na końcu druga połowa sosu.
+* Włóż do piekarnika na temperaturę 180C, termoobieg na około 30 minut (sprawdzaj czy się nie przypala).
