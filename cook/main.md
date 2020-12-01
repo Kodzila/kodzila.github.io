@@ -749,3 +749,24 @@ Przygotowanie - tortille:
 * Na połówce tortilli, mniej więcej pośrodku, dać po ok. 2 łyżki sera żółtego, następnie ok. 2 łyżki sosu mięsnego, potem pokrojoną w kosteczkę cebulę, paprykę oraz chili, a na koniec posiekaną rukolę. Wszystkie składniki dzielimy mniej więcej na 8 części (tyle ile jest kawałków tortilli).
 * Zawinąć rulonik i ułożyć łączeniem do dołu na blaszce wyścielonej papierem do pieczenia. Powtórzyć z resztą tortilli, układając je w okrąg, pośrodku pozostawiając miejsce na miseczkę z sosem. Sposób zwijania ruloników pokazany jest na poniższych zdjęciach.
 * Rożki z tortilli posypać mieszanką sera żółtego i mozzarelli, wstawić do piekarnika i zapiekać ok. 15 minut.
+
+## Polędwiczka wieprzowa w sosie whiskey
+https://www.kwestiasmaku.com/przepis/poledwiczka-wieprzowa-w-sosie-z-whisky
+
+Składniki:
+* 1 polędwica wieprzowa
+* sól, pieprz, 1 łyżka suszonego tymianku, 1/2 łyżeczki słodkiej papryki
+* 2 łyżki oliwy extra
+* 1 mała cebula
+* 2 ząbki czosnku
+* 30 ml whisky (ja dałem około 50ml, można nawet więcej)
+* 1/4 szklanki bulionu
+* 1/4 szklanki śmietanki 30%
+* łyżka posiekanej natki
+
+Przygotowanie:
+* Polędwicę pokroić na 2 cm plastry. Delikatnie rozbić tłuczkiem, doprawić solą, pieprzem, tymiankiem i papryką. Następnie natrzeć łyżką oliwy. Najlepiej odłożyć na kilka godzin do zamarynowania pod przykryciem (opcjonalne, dobrze smakuje i bez marynowania).
+* Rozgrzać patelnię z łyżką oliwy. Na dużym ogniu smażyć po ok. 2 minuty z każdej strony. Po obsmażeniu odłożyć na talerz.
+* Na tę samą patelnię włożyć pokrojoną w drobną kosteczkę cebulę oraz drobno starty czosnek. Zmniejszyć ogień i mieszając podsmażać przez ok. 2 minuty.
+* Włożyć z powrotem mięso i wlać whisky. Patelnię ostrożnie odsunąć na bok i lekko ją przechylić aby płomień palnika zapalił alkohol (Uwaga bo płomień pojawi się nagle i będzie wysoki, ok 30 cm! należy się wcześniej upewnić czy możemy to bezpiecznie wykonać; alternatywnie można też odparować whisky z patelni gotując przez ok 1 min).
+* Zwiększyć ponownie ogień, wlać bulion i zagotować. Dodać śmietankę i wymieszać. Gotować przez chwilę aż sos zgęstnieje, energicznie poruszając patelnią w jedną i drugą stronę. W międzyczasie raz przewrócić mięso. Sprawdzić doprawienie solą i pieprzem, posypać posiekaną natką pietruszki.
