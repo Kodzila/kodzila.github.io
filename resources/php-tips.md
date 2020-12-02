@@ -1,3 +1,6 @@
+# Project lead
+* [Leading project checklist](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+
 # Symfony
 * [Decorator: stack](https://symfony.com/blog/new-in-symfony-5-1-stack-decorators)
 * [Single command application](https://symfony.com/blog/new-in-symfony-5-1-single-command-applications)
