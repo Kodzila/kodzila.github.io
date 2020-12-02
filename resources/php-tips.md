@@ -1,5 +1,6 @@
 # Project lead
 * [Leading project checklist](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
+* [Tech lead expectations](../res/Tech Lead Expectations for Engineering Projects (Gergely Orosz @Uber).pdf ':include')
 
 # Symfony
 * [Decorator: stack](https://symfony.com/blog/new-in-symfony-5-1-stack-decorators)
