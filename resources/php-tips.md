@@ -21,6 +21,7 @@
 
 # General php
 * [Psalm examples](https://gist.github.com/Ocramius/4bd03ad4d545bb07164c133d4d2b3686)
+* [Installing stack on MAC](https://getgrav.org/blog/macos-bigsur-apache-multiple-php-versions)
 
 # API Platform
 * [Configuring serialization, input, output](https://medium.com/distant-horizons/blog-configuring-api-platform-resources-by-following-ddd-principles-b6d3de5d3984)
