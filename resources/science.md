@@ -4,3 +4,6 @@
 ## Politics
 * [Czemu wprowadzona ustawa niszczaca kompromis aborcyjny](https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26479043,dlaczego-teraz-wojna-o-aborcje-ludwik-dorn-jest-w-tym-logika.html)
 * [W pulapce korwinizmu - polski liberalizm ekonomiczny](https://bezprawnik.pl/w-pulapce-korwinizmu/)
+
+## Transhumanity
+* [Uploading human brain (science view) - Kurzgesagt](https://youtu.be/4b33NTAuF5E)
