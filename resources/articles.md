@@ -27,6 +27,7 @@
 * [PHP the right way](https://phptherightway.com)
 * [Language evolution forward](https://github.com/nikic/php-rfcs/blob/language-evolution/rfcs/0000-language-evolution.md)
 * [PHP type system](https://thephp.website/en/issue/php-type-system/)
+* [Vimeo - why static analysis is a gamechanger](https://medium.com/vimeo-engineering-blog/its-not-legacy-code-it-s-php-1f0ee0462580)
 
 ## GIT
 * [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
