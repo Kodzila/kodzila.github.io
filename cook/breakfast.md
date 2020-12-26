@@ -127,3 +127,18 @@ Przygotowanie:
 * Rozłożyć tosty na desce, na każdym ułożyć tarty ser. Na dwóch tostach położyć plasterek szynki. Podtrzymując szynkę palcami odwrócić tosty z szynką i ułożyć na tostach z samym serem. Lekko docisnąć.
 * W głębokim talerzu roztrzepać widelcem 1 jajko z dodatkiem mleka oraz szczypty soli. Maczać w tym tosty i kłaść na patelnię z podgrzanym masłem (najlepiej klarowanym).
 * Smażyć na umiarkowanym ogniu z dwóch stron na złoty kolor, po ok. 1,5 minuty z każdej strony. Oddzielnie usmażyć 2 jajka sadzone. Tosty przełożyć na talerze i przykryć jajkiem sadzonym.
+
+## Jajka zapiekane w formie na muffinki
+https://www.kwestiasmaku.com/przepis/jajka-zapiekane-w-tostach-w-formie-na-muffiny
+
+Składniki:
+* 50 g masła
+* 6 kromek pieczywa tostowego
+* 6 plasterków boczku (może być szynka szwardzwaldzka)
+* 6 jajek
+* natka pietruszki lub koperek
+
+Przygotowanie:
+* Piekarnik nagrzać do 200 stopni C. Odkroić skórkę z tostów. Roztopić masło, częścią wysmarować wgłębienia w formie na muffiny, resztą posmarować (np. pędzelkiem) jedną stronę tostów. Włożyć je do wgłębień posmarowaną stroną do dołu.
+* Plasterki boczku delikatnie obsmażyć na patelni i włożyć do tostów. W środek wbić jajko, doprawić je solą i pieprzem. Wstawić do nagrzanego piekarnika i piec przez ok. 15 - 17 minut aż białka będą ścięte a żółtka płynno-miękkie (lub takie jakie lubimy ;)
+* Posypać posiekaną natką, wyjąć na talerzyki i podawać np. z sałatką z pomidorów lub/i awokado.
