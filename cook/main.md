@@ -886,3 +886,60 @@ Na talerz wykładamy miseczkę z sosem tzatziki, obok układamy pokrojonego ogó
 **Propozycja podania:**
 
 Naciętą połówkę pity smarujemy od środka sosem tzatziki. Zdejmujemy mięso z dwóch patyczków do szaszłyków, mięso wkładamy do naciętych połówek pity, następnie pitę faszerujemy warzywami, posypujemy świeżą miętą, cały farsz polewamy ponownie sosem tzatziki.
+
+## [ITA] Cannelloni (włoska zapiekanka)
+https://kuchnialidla.pl/tradycyjne-cannelloni
+
+Składniki:
+* mniej więcej 20 rurek makaronu cannelloni
+* 100 g sera grana padano, startego
+
+Składniki - mięso:
+* 800 g mięsa mielonego, wołowego
+* 1 jajo, umyte
+* świeżo mielona sól
+* świeżo mielony pieprz
+* 2 ząbki czosnku, posiekane
+* 20 g masła
+* 1 duża lub 2 średnie cebule, posiekane
+
+Składniki - sos pomidorowy:
+* 2 łyżki oliwy z oliwek
+* 1 ząbek czosnku, posiekany
+* 1 duża cebula, pokrojona w kosteczkę
+* 1 gałązka selera naciowego, umyta i pokrojona wraz z liśćmi
+* garść świeżej bazylii, umytej i drobno pokrojonej
+* 2 puszki (800 g) pomidorów z czosnkiem i cebulą
+* 2 szczypty cukru
+* świeżo mielona sól
+* świeżo mielony pieprz
+
+Składniki - sos beszamelowy:
+* 70 g masła
+* 1 l mleka
+* 70 g mąki
+* 2 szczypty gałki muszkatołowej
+* świeżo mielony pieprz
+* świeżo mielona sól
+
+Przygotowanie:
+
+**Mięso:**
+Mięso przekładamy do miski i dodajemy 1 jajo, doprawiamy mielonym pieprzem. Całość mieszamy.
+
+Na rozgrzaną patelnię wrzucamy 20 g masła, szklimy cebulę i czosnek na patelni. Podsmażamy. Dodajemy mięso mielone i ugniatamy widelcem na patelni, podsmażając przez 5-6 minut, następnie zestawiamy z ognia i doprawiamy solą. Mieszamy. Odstawiamy.
+
+**Sos pomidorowy:**
+Do czystego garnka wlewamy 2 łyżki oliwy z oliwek i dodajemy czosnek. Szklimy. Dodajemy 1 dużą cebulę i seler naciowy. Smażymy na mocnym ogniu.
+
+Dodajemy pomidory z puszki, posiekaną bazylię, gotujemy. Dodajemy sól i pieprz oraz 2 szczypty cukru. Całość miksujemy za pomocą blendera. 1/2 sosu przelewamy do naczynia z mięsem mielonym, mieszamy mięso z sosem. Odstawiamy.
+
+**Sos beszamelowy:**
+W garnku rozpuszczamy 70 g masła. Dodajemy mąkę, podsmażamy i wlewamy mleko. Całość energicznie mieszamy i gotujemy przez mniej więcej 4 minuty.
+
+Na koniec dodajemy pieprz, gałkę muszkatołową i minimalną ilość soli, ponownie mieszamy.
+
+**Faszerowanie:**
+Pozostałą część sosu pomidorowego przekładamy na dno naczynia żaroodpornego i dokładnie rozprowadzamy. Faszerujemy mięsem wnętrze rurek makaronu. Makaron z farszem układamy na sosie w naczyniu żaroodpornym. Przygotowaną całość zalewamy ciepłym sosem beszamelowym i dokładnie rozprowadzamy, na wierzch ścieramy ser grana padano.
+
+Naczynie żaroodporne wkładamy do piekarnika rozgrzanego do temperatury 190°C z termoobiegiem (210°C bez termoobiegu) na 30-40 minut.
