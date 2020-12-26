@@ -800,3 +800,59 @@ Przygotowanie:
 * Przygotuj resztę: pokrój paprykę, umyj kururydzę, zetrzyj ser.
 * Kiedy wszystko będzie gotowe, wróć do naczynia żaroodpornego. Ryż posmaruj połową sosu. Na to daj połowę startego sera. Następnie rożłóż mięso. Potem kolejno: papryka, kukurydza, druga połowa sera a na końcu druga połowa sosu.
 * Włóż do piekarnika na temperaturę 180C, termoobieg na około 30 minut (sprawdzaj czy się nie przypala).
+
+## [GRE] Souvlaki po Grecku
+https://kuchnialidla.pl/prawdziwe-souvlaki-po-grecku
+
+!> Mięso trzeba zamarynować dzień wcześniej
+
+Składniki - pita:
+* 20 g drożdży, pokruszonych
+* 1 szklanka wody
+* 1 łyżeczka cukru
+* 0,5 kg mąki
+* 1 łyżka soli
+* 3 łyżki oliwy z oliwek (oraz niewielka ilość do posmarowania ciasta)
+* 2 łyżki suszonego oregano
+
+Składniki - Souvlaki:
+* 1/2 kg karkówki w plastrach, umytej i osuszonej, pokrojonej w grubsze plastry (można spokojnie 2x więcej)
+* zest i sok z 2 cytryn, sparzonych i wyszorowanych
+* 4 ząbki czosnku, posiekane
+* 100 ml czerwonego wina
+* 300 ml oliwy z oliwek
+* 1 łyżeczka papryki słodkiej w proszku
+* świeży tymianek, umyty, posiekany
+* świeża mięta, umyta, posiekana
+* świeżo mielony pieprz
+* świeżo mielona sól
+
+Składniki - tzatziki:
+* 500 g jogurtu greckiego
+* 2 posiekane ząbki czosnku
+* świeżo mielona sól
+* świeżo mielony pieprz
+* 1 łyżeczka oliwy z oliwek
+* szczypta łagodnej papryki w proszku
+* niewielka ilość świeżej mięty, umytej, posiekanej
+* 2 ogórki, umyte, starte na tarce o małych oczkach, następnie dobrze odciśnięte
+
+Składniki - warzywa:
+* 1 ogórek, umyty, pozbawiony gniazd nasiennych, pokrojony w grubsze paseczki (technika krojenia - juliene)
+* 250 g dojrzałych pomidorów, umytych, pokrojonych w talarki
+* niewielka ilość świeżej mięty, umytej, drobno pokrojonej
+
+Przygotowanie:
+
+Narzędzia:
+* lnianą ściereczkę
+* mikser
+* blachę do pieczenia
+* patyczki do szaszłyków wcześniej namoczone w wodzie
+* blache do marynowania souvlaków
+* 2 kawałki folii spożywczej
+* kawałek pergaminu do pieczenia
+* naczynie żaroodporne
+* kawałek ręcznika papierowego
+* Rozgrzej piekarnik do temperatury 180°C (termoobieg)
+
