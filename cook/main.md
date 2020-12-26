@@ -845,6 +845,7 @@ Składniki - warzywa:
 Przygotowanie:
 
 **Narzędzia:**
+
 * lnianą ściereczkę
 * mikser
 * blachę do pieczenia
@@ -857,6 +858,7 @@ Przygotowanie:
 * Rozgrzej piekarnik do temperatury 180°C (termoobieg)
 
 **Pita:**
+
 Drożdże przekładamy do miski, zalewamy je 1/4 szklanki wody i dodajemy 1 łyżeczkę cukru. Całość mieszamy do momentu całkowitego rozpuszczenia się drożdży. Miskę przykrywamy lnianą ściereczką i odstawiamy na 10 minut.
 
 Do miski przekładamy mąkę, sól i oliwę z oliwek oraz suszone oregano. Na końcu do składników dodajemy pozostałą część wody. Całość delikatnie miksujemy, gdy składniki połączą się, cały czas mieszając, dodajemy do nich rozczyn. Miksujemy przez 6-7 minut. Jeśli ciasto będzie miało zbyt płynną konsystencję, możemy do niego dodać 1-2 łyżki mąki. Wyrobione ciasto przekładamy do miski, smarujemy je niewielką ilością oliwy z oliwek. Ciasto w misce przykrywamy lnianą ściereczką i odstawiamy do wyrośnięcia w ciepłe miejsce na godzinę.
@@ -864,11 +866,13 @@ Do miski przekładamy mąkę, sól i oliwę z oliwek oraz suszone oregano. Na ko
 Po godzinie wyrośnięte ciasto wykładamy na deskę do krojenia, wcześniej oprószoną mąką. Ciastu nadajemy formę rulonu i dzielimy go na 4 równe części. Porcje ciasta ponownie wyrabiamy i formujemy z nich kuleczki, które układamy na blaszce oprószonej mąką. Kuleczki ponownie smarujemy oliwą z oliwek i odstawiamy, w ciepłe miejsce, przykryte ściereczką na 30 minut do wyrośnięcia.
 
 **Souvlaki:**
+
 Do naczynia żaroodpornego lub na blachę wrzucamy zest i sok z cytryn, posiekane ząbki czosnku, czerwone wino oraz oliwę z oliwek. Następnie dodajemy ostrą paprykę w proszku, niewielką ilość posiekanego tymianku i mięty. Marynatę doprawiamy pieprzem i solą. Mieszamy.
 
 Umyte i osuszone plastry karkówki pokrojone w grubsze paski nadziewamy na patyczki do szaszłyków (patyczki wcześniej moczymy minimum 30 minut w wodzie). Souvlaki wkładamy do marynaty, naczynie przykrywamy folią spożywczą i odstawiamy do lodówki na minimum godzinę, a najlepiej na całą noc.
 
 **Tzatziki:**
+
 Do miseczki przekładamy jogurt typu greckiego, posiekane ząbki czosnku. Jogurt doprawiamy solą i pieprzem, dodajemy oliwę z oliwek. Doprawiamy łagodną papryką w proszku oraz dodajemy niewielką ilość posiekanej mięty. Do składników dodajemy starty ogórek, dobrze odsączony z wody. Mieszamy. Sos przykrywamy folią spożywczą i wkładamy do lodówki.
 
 Na deskę do krojenia obsypaną mąką wykładamy pojedynczo kuleczki ciasta na pitę, delikatnie je rozwałkowujemy, przekładamy na papier pergaminowy i przykrywamy czystą lnianą ściereczką – odstawiamy na 10 minut.
@@ -880,4 +884,5 @@ Na czystą patelnię wylewamy oliwę z oliwek i rozsmarowujemy ręcznikiem papie
 Na talerz wykładamy miseczkę z sosem tzatziki, obok układamy pokrojonego ogórka i pomidory, posiekaną miętę, souvlaki oraz upieczone pity.
 
 **Propozycja podania:**
+
 Naciętą połówkę pity smarujemy od środka sosem tzatziki. Zdejmujemy mięso z dwóch patyczków do szaszłyków, mięso wkładamy do naciętych połówek pity, następnie pitę faszerujemy warzywami, posypujemy świeżą miętą, cały farsz polewamy ponownie sosem tzatziki.
