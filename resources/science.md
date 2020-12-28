@@ -1,5 +1,6 @@
 * [Studia wyzsze](https://plus.dziennikpolski24.pl/studia-wyzsze-dla-kazdego-tylko-po-co-je-dzis-konczyc/ar/c5-14453047)
 * [Buddhist index](https://en.wikipedia.org/wiki/Buddhist_philosophy)
+* [Czterodniowy tydzien pracy](https://next.gazeta.pl/next/7,151003,26630405,czterodniowy-tydzien-pracy-coraz-blizej-to-nieuniknione-choc.html)
 
 ## Politics
 * [Czemu wprowadzona ustawa niszczaca kompromis aborcyjny](https://wiadomosci.gazeta.pl/wiadomosci/7,114884,26479043,dlaczego-teraz-wojna-o-aborcje-ludwik-dorn-jest-w-tym-logika.html)
