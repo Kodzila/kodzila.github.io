@@ -138,6 +138,8 @@
 * [HTTPS](https://www.blinkingcaret.com/2017/01/18/brief-ish-explanation-of-how-https-works/)
 * [Cookies](https://web.dev/samesite-cookies-explained/)
 * [Dialects in code](https://www.rosstuck.com/dialects-in-code-part-1)
+* [Null types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
+* [CLI apps guideline](https://clig.dev)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
