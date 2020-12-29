@@ -10,6 +10,7 @@
 * [Optimizing symfony](https://jolicode.com/blog/battle-log-a-deep-dive-in-symfony-stack-in-search-of-optimizations-2-n?reddit)
 * [Configuring OPCache preloading](https://www.ibexa.co/blog/how-much-of-a-performance-boost-can-you-expect-for-a-symfony-5-app-with-php-opcache-preloading)
 * [Symfony preloading](https://symfony.com/blog/new-in-symfony-4-4-preloading-symfony-applications-in-php-7-4)
+* [Why cache is generated with tilde before env](https://github.com/symfony/symfony/issues/26219#issuecomment-369035021)
 
 # Composer
 * [Composer tips](https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/)
