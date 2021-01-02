@@ -947,3 +947,24 @@ Na koniec dodajemy pieprz, gałkę muszkatołową i minimalną ilość soli, pon
 Pozostałą część sosu pomidorowego przekładamy na dno naczynia żaroodpornego i dokładnie rozprowadzamy. Faszerujemy mięsem wnętrze rurek makaronu. Makaron z farszem układamy na sosie w naczyniu żaroodpornym. Przygotowaną całość zalewamy ciepłym sosem beszamelowym i dokładnie rozprowadzamy, na wierzch ścieramy ser grana padano.
 
 Naczynie żaroodporne wkładamy do piekarnika rozgrzanego do temperatury 190°C z termoobiegiem (210°C bez termoobiegu) na 30-40 minut.
+
+## [ITA] Spaghetti z krewetkami 10/10
+https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami-w-sosie-winno-maslanym
+
+!> Krewetki trzeba wcześniej rozmrozić
+
+Składniki (2 porcje):
+* 14+ krewetek
+* makaron spaghetti
+* * 1 ząbek czosnku (2, 3 spokojnie)
+* pół pęczka natki pietruszki
+* 1/2 szklanki białego wina
+* oliwa
+* 2 łyżki masła
+* 200 g pomidorków koktajlowych (może być też spokojnie ciut mniej)
+
+Przygotowanie:
+* Mrożone krewetki rozmrozić (np. w zimnej wodzie), następnie obrać z pancerzy pozostawiając ogonki. Naciąć pośrodku wypukły grzbiet krewetki i sprawdzić czy nie trzeba usunąć jelita (ciemna nitka ciągnąca się wzdłuż tułowia). Oczyszczone krewetki umyć i osuszyć na papierowych ręcznikach.
+* Zagotować wodę na makaron, posolić, wrzucić makaron i ugotować al dente, odcedzić zachowując 1/4 szklanki wody z makaronu.
+* Na patelni podgrzać olej lub oliwę, włożyć pokrojony na plasterki czosnek i lekko go zrumienić, dodać masło i krewetki, posolić, zwiększyć ogień i smażyć przez ok. 15 sekund z każdej strony. Wlać wino a po chwili dodać natkę pietruszki i pokrojone pomidorki koktajlowe. Co chwilę mieszając smażyć na większym ogniu przez ok. minutę aż pomidorki zmiękną (niektóre można rozgnieść widelcem aby uwolnić soki).
+* Włożyć ugotowany makaron wraz z odłożoną wodą i na większym ogniu zagotować, można 2-3 razy potrząsnąć patelnią tak aby delikatnie podrzucić makaron do góry i trochę go napowietrzyć. Doprawić świeżo zmielonym pieprzem i podawać.
