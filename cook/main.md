@@ -956,7 +956,7 @@ https://www.kwestiasmaku.com/przepis/makaron-z-krewetkami-w-sosie-winno-maslanym
 Składniki (2 porcje):
 * 14+ krewetek
 * makaron spaghetti
-* * 1 ząbek czosnku (2, 3 spokojnie)
+* 1 ząbek czosnku (2, 3 spokojnie)
 * pół pęczka natki pietruszki
 * 1/2 szklanki białego wina
 * oliwa
