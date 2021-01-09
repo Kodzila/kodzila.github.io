@@ -1009,5 +1009,7 @@ Przygotowanie:
 * Ziemniaki wyłożyć na talerz i uklepać. Wykroić 1/4 część ziemniaków, wyjąć je i odłożyć. W wolne miejsce wsypać mąkę ziemniaczaną, w takiej ilości ile wyjęliśmy ziemniaków.
 * Dodać jajko oraz odłożone ziemniaki, całość posolić i połączyć składniki w gładkie ciasto. W razie potrzeby podsypać dodatkową mąkę ziemniaczaną. Uformować kulę.
 * Odrywać po kawałku ciasta wielkości większego orzecha włoskiego i formować w dłoniach kulkę. Końcem drewnianej łyżki lub palcem zrobić małe wgłębienie w środku. * Gotowe kluseczki odkładać na bok.
-* Zagotować osoloną wodę w dużym garnku. Ugotować pierwszą partię (połowę) klusek w następujący sposób: zmniejszyć ogień pod garnkiem do minimum i włożyć kluski. * Trzymać je w gorącej wodzie na minimalnym ogniu przez ok. 10 - 12 minut, od czasu do czasu delikatnie zamieszać. Uważać aby woda się nie gotowała. Dzięki temu kluski będą miały gładką a nie poszarpaną powierzchnię.
-* Wyłowić je łyżką cedzakową na talerz. Powtórzyć z drugą połową klusek.
+* Teraz decyzja ile chemy naraz zrobić. Część spokojnie można zamrozić/dać do lodówki przed ugotowaniem.
+* Zagotuj wodę.
+* Wrzuć kluski.
+* Gotuj do kiedy nie wyjdą na górę + około 5 minut.
