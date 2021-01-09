@@ -994,3 +994,20 @@ Przygotowanie:
 Sosy:
 * sos czosnkowy: 200 g gęstej śmietany 12% + 2 łyżki majonezu + sól i pieprz + 1/2 ząbka czosnku przeciśniętego przez praskę
 * lub sos paprykowy: jak wyżej ale zamiast czosnku - 1 łyżeczka papryki w proszku + 1 łyżka ketchupu
+
+## [POL] Kluski śląskie
+https://www.kwestiasmaku.com/kuchnia_polska/kluski_slaskie/przepis.html
+
+Składniki (~18 klusków):
+* ok. 500 g ugotowanych ziemniaków
+* mąka ziemniaczana / skrobia ziemniaczana
+* 1 jajko
+* sól
+
+Przygotowanie:
+* Ziemniaki obrać, ugotować, odcedzić i od razu dokładnie rozgnieść praską lub zmielić w maszynce. Dokładnie ostudzić i odparować.
+* Ziemniaki wyłożyć na talerz i uklepać. Wykroić 1/4 część ziemniaków, wyjąć je i odłożyć. W wolne miejsce wsypać mąkę ziemniaczaną, w takiej ilości ile wyjęliśmy ziemniaków.
+* Dodać jajko oraz odłożone ziemniaki, całość posolić i połączyć składniki w gładkie ciasto. W razie potrzeby podsypać dodatkową mąkę ziemniaczaną. Uformować kulę.
+* Odrywać po kawałku ciasta wielkości większego orzecha włoskiego i formować w dłoniach kulkę. Końcem drewnianej łyżki lub palcem zrobić małe wgłębienie w środku. * Gotowe kluseczki odkładać na bok.
+* Zagotować osoloną wodę w dużym garnku. Ugotować pierwszą partię (połowę) klusek w następujący sposób: zmniejszyć ogień pod garnkiem do minimum i włożyć kluski. * Trzymać je w gorącej wodzie na minimalnym ogniu przez ok. 10 - 12 minut, od czasu do czasu delikatnie zamieszać. Uważać aby woda się nie gotowała. Dzięki temu kluski będą miały gładką a nie poszarpaną powierzchnię.
+* Wyłowić je łyżką cedzakową na talerz. Powtórzyć z drugą połową klusek.
