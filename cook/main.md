@@ -1013,3 +1013,32 @@ Przygotowanie:
 * Zagotuj wodę.
 * Wrzuć kluski.
 * Gotuj do kiedy nie wyjdą na górę + około 5 minut.
+
+## Pulpeciki w sosie koperkowym
+https://www.kwestiasmaku.com/kuchnia_polska/pulpeciki_w_sosie_koperkowym/przepis.html
+
+Składniki (4 porcje):
+* 1 mała czerstwa bułka (np. kajzerka)
+mleko lub woda do namoczenia bułki
+* 1/2 kg mięsa mielonego
+* 1 średnia cebula starta na tartce
+* 1 jajko
+* 1 łyżeczka soli + 1/2 łyżeczki czarnego pieprzu zmielonego
+* mąka pszenna do obtoczenia
+* olej do podsmażenia, około 1 - 2 łyżki
+
+Składniki - wywar:
+* około 400 - 500 ml wody (ważne by nie więcej! bo będzie krupnik...)
+* 1 średnia marchewka i 1 mała pietruszka, starte na tarce o większych oczkach
+* 1 łyżeczka masła
+* 1 - 2 małe łyżeczki mąki
+* 1 łyżka posiekanego koperku
+* Trochę bulionu w esencji
+
+Przygotowanie:
+* Bułkę zalać mlekiem lub wodą, odstawić do namoczenia na około 15 minut. Do większej miski włożyć zmielone mięso, cebulę, jajko, sól i pieprz oraz odciśniętą bułkę. Wszystko dobrze wymieszać, następnie uformować niewielkie kulki, otoczyć je w mące i krótko podsmażyć na oleju.
+* Po obsmażeniu kulki wrzucić na wrzący wywar. Wywar zaczynamy przygotowywać chwilkę wcześniej: w garnku zagotować wodę, dodać marchewkę, pietruszkę i lekko posolić (w razie potrzeby wywar można później jeszcze dosolić). Dodać łyżeczkę masła oraz włożyć usmażone pulpeciki. Zmniejszyć ogień do minimum i gotować powoli, na małym ogniu, przez około 20 minut.
+* Pod koniec gotowania można zagęścić sos mąką, którą przesiewamy przez sitko, po troszeczku, bezpośrednio do wywaru. Możemy też rozprowadzić mąkę najpierw z 2 łyżkami wody, później dodać kilka łyżek wywaru i po wymieszaniu wszystko wlać do garnka z pulpecikami, zagotować.
+* Na koniec dodać posiekany koperek i odstawić z ognia.
+
+Podawać np. z kluskami śląskimi lub ryżem.
