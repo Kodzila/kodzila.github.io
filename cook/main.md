@@ -968,3 +968,29 @@ Przygotowanie:
 * Zagotować wodę na makaron, posolić, wrzucić makaron i ugotować al dente, odcedzić zachowując 1/4 szklanki wody z makaronu.
 * Na patelni podgrzać olej lub oliwę, włożyć pokrojony na plasterki czosnek i lekko go zrumienić, dodać masło i krewetki, posolić, zwiększyć ogień i smażyć przez ok. 15 sekund z każdej strony. Wlać wino a po chwili dodać natkę pietruszki i pokrojone pomidorki koktajlowe. Co chwilę mieszając smażyć na większym ogniu przez ok. minutę aż pomidorki zmiękną (niektóre można rozgnieść widelcem aby uwolnić soki).
 * Włożyć ugotowany makaron wraz z odłożoną wodą i na większym ogniu zagotować, można 2-3 razy potrząsnąć patelnią tak aby delikatnie podrzucić makaron do góry i trochę go napowietrzyć. Doprawić świeżo zmielonym pieprzem i podawać.
+
+## [USA] Nuggetsy z kurczaka
+https://www.kwestiasmaku.com/przepis/pieczone-nuggetsy-z-kurczaka-w-platkach-kukurydzianych
+
+Składniki (2 porcje):
+* 2 pojedyncze filety z piersi kurczaka
+* 1 szklanka mleka
+* 1/2 szklanki mąki pszennej
+* 1 jajko
+* sól, pieprz
+* 1 i 1/2 łyżeczki słodkiej papryki w proszku
+* 1/2 łyżeczki ostrej papryki w proszku
+* 2 i 1/2 szklanki płatków kukurydzianych
+* 4 łyżki oliwy extra lub roztopionego masła
+
+Przygotowanie:
+* (Opcjonalnie mięso namoczyć wcześniej w masie)
+* Filety pokroić na ok. 2,5 cm kawałki, doprawić solą, pieprzem i wymieszać.
+* Płatki pokruszyć lub przez chwilę miksować w melakserze lub rozdrabniaczu.
+* W misce zmiksować na jednolitą masę mleko z mąką, jajkiem, solą i pieprzem oraz papryką. Filety włożyć do masy i wymieszać.
+* Piekarnik nagrzać do 200 stopni C. Dużą blachę wyłożyć papierem do pieczenia.
+* Wyjmować po kawałku mięsa z ciasta i obtaczać w płatkach, układać na blaszce do pieczenia. Posypać solą i skropić oliwą lub roztopionym masłem (za pomocą pojemnika z wąską końcówką lub posmarować pędzelkiem). Piec przez 15 minut.
+
+Sosy:
+* sos czosnkowy: 200 g gęstej śmietany 12% + 2 łyżki majonezu + sól i pieprz + 1/2 ząbka czosnku przeciśniętego przez praskę
+* lub sos paprykowy: jak wyżej ale zamiast czosnku - 1 łyżeczka papryki w proszku + 1 łyżka ketchupu
