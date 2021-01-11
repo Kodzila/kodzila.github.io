@@ -9,6 +9,7 @@
 * [Wywiad USA o stanie wojennym w PL](https://wiadomosci.gazeta.pl/wiadomosci/7,114883,26595507,przed-wprowadzeniem-stanu-wojennego-wywiad-usa-dwa-razy-podnosil.html)
 * [Swiat pachnie wojna - upadek megamocarstw](https://next.gazeta.pl/next/7,151003,26581259,gebert-swiat-pachnie-wojna-i-nie-chodzi-o-rope-tylko-kto.html)
 * [Rywale Moskwy: Warszawa i Ankara](https://wyborcza.pl/7,75399,26655046,imperialna-rywalizacja-moskwy-z-ankara-i-warszawa.html)
+* [Konto Trumpa zbanowane na mediach społecznościowych](https://sekurak.pl/konta-trumpa-zbanowane-we-wszystkich-istotnych-serwisach-spolecznosciowych-amazon-apple-google-blokuje-parlera-cenzura-na-niespotykana-dotad-skale-czy-normalnosc/)
 
 ## Transhumanity
 * [Uploading human brain (science view) - Kurzgesagt](https://youtu.be/4b33NTAuF5E)
