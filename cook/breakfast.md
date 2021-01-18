@@ -163,8 +163,7 @@ Składniki - pesto (można kupić gotowe):
 * pieprz
 
 Przygotowanie - pesto:
-
-Wszystkie składniki na pesto poza oliwą umieszczamy w blenderze i pulsacyjnie miksujemy. Dolewamy oliwę i miksujemy jeszcze przez chwilę.
+* Wszystkie składniki na pesto poza oliwą umieszczamy w blenderze i pulsacyjnie miksujemy. Dolewamy oliwę i miksujemy jeszcze przez chwilę.
 
 Przygotowanie:
 * Ciabattę kroimy wzdłuż na pół. Obie połówki smarujemy pesto. Układamy poszarpane wędliny, plastry pomidora, porwany ser mozzarella i kilka listków bazylii. Powtarzamy z drugą kanapką.
