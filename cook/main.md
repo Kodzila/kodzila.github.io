@@ -51,7 +51,7 @@ Przygotowanie:
 
 ## [ITA] Risotto z borowikami
 
-![risotto](res/risotto-z-kurkami.jpeg ':size=50x100')
+![risotto](res/risotto-z-kurkami.jpeg ':size=300x700')
 
 SKŁADNIKI
 * 500g borowików
