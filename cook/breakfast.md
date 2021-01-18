@@ -142,3 +142,31 @@ Przygotowanie:
 * Piekarnik nagrzać do 200 stopni C. Odkroić skórkę z tostów. Roztopić masło, częścią wysmarować wgłębienia w formie na muffiny, resztą posmarować (np. pędzelkiem) jedną stronę tostów. Włożyć je do wgłębień posmarowaną stroną do dołu.
 * Plasterki boczku delikatnie obsmażyć na patelni i włożyć do tostów. W środek wbić jajko, doprawić je solą i pieprzem. Wstawić do nagrzanego piekarnika i piec przez ok. 15 - 17 minut aż białka będą ścięte a żółtka płynno-miękkie (lub takie jakie lubimy ;)
 * Posypać posiekaną natką, wyjąć na talerzyki i podawać np. z sałatką z pomidorów lub/i awokado.
+
+## Włoskie grillowane panini
+http://www.lunchoteka.com/wloskie-panini-z-pesto-mozzarella-i-pomidorami/
+
+Składniki:
+* 2 ciabatty
+* 1 pomidor
+* 3 plasterki prosciutto crudo
+* mozarella 
+* (opcjonalnie) kilka listków bazylii
+
+Składniki - pesto (można kupić gotowe):
+* szklanka liści bazylii
+* 25 g startego parmezanu lub grana padano
+* 1 przeciśnięty ząbek czosnku
+* ok. 3 łyżki dobrej oliwy z oliwek
+* 1 łyżka orzeszków piniowych (lub innych orzechów)
+* szczypta soli
+* pieprz
+
+Przygotowanie - pesto:
+Wszystkie składniki na pesto poza oliwą umieszczamy w blenderze i pulsacyjnie miksujemy. Dolewamy oliwę i miksujemy jeszcze przez chwilę.
+
+Przygotowanie:
+* Ciabattę kroimy wzdłuż na pół. Obie połówki smarujemy pesto. Układamy poszarpane wędliny, plastry pomidora, porwany ser mozzarella i kilka listków bazylii. Powtarzamy z drugą kanapką.
+* Za pomocą opiekacza lub patelni grillowej zapiekamy kanapki. Ja użyłam patelni - dociskałam kanapkę naczyniem żaroodpornym, tak aby rozpuszczający się ser ją skleił. Po kilku minutach odwróciłam na drugą stronę.
+
+Przygotowanie:
