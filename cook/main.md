@@ -51,8 +51,6 @@ Przygotowanie:
 
 ## [ITA] Risotto z borowikami/kurkami
 
-![risotto](res/risotto-z-kurkami.jpeg ':size=300x700')
-
 SKŁADNIKI
 * 500g borowików (lub kurek)
 * risotto2 szklanki ryżu arborio
