@@ -163,6 +163,7 @@ Składniki - pesto (można kupić gotowe):
 * pieprz
 
 Przygotowanie - pesto:
+
 Wszystkie składniki na pesto poza oliwą umieszczamy w blenderze i pulsacyjnie miksujemy. Dolewamy oliwę i miksujemy jeszcze przez chwilę.
 
 Przygotowanie:
