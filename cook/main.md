@@ -50,6 +50,9 @@ Przygotowanie:
 * Stir for about 30 seconds until thickened.
 
 ## [ITA] Risotto z borowikami
+
+![risotto](res/risotto-z-kurkami.jpeg ':size=50x100')
+
 SKŁADNIKI
 * 500g borowików
 * risotto2 szklanki ryżu arborio
