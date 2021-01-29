@@ -1,6 +1,7 @@
 # Project lead
 * [Leading project checklist](https://blog.pragmaticengineer.com/how-to-lead-a-project-in-software-development/)
 * [Tech lead expectations PDF (from Uber)](../res/Tech_Lead_Expectations.pdf)
+* [Diagrams from text - mermaid](https://github.com/Leward/mermaid-docsify)
 
 # Symfony
 * [Decorator: stack](https://symfony.com/blog/new-in-symfony-5-1-stack-decorators)
