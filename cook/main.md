@@ -323,9 +323,9 @@ Sos beszamelowy:
 * Jajko
 
 ?> Nasze pro tipy:
-* Użyliśmy do sosu beszamelowego przepisu z Musaki. W takim wypadku trzeba zrobić 2x porcję.
-* Użyliśmy naszego naczynia żaroodpornego. Wychodzi wtedy 3 płaty makaronu na 1 warstwę.
-* Mięso gotowaliśmy na winie.
+?> Użyliśmy do sosu beszamelowego przepisu z Musaki. W takim wypadku trzeba zrobić 2x porcję.
+?> Użyliśmy naszego naczynia żaroodpornego. Wychodzi wtedy 3 płaty makaronu na 1 warstwę.
+?> Mięso gotowaliśmy na winie.
 
 Przygotowanie:
 Cebulę kroimy w kostkę, czosnek drobno siekamy. Na patelni rozgrzewamy oliwę, przesmażamy cebulę, a następnie mięso z czosnkiem, mieszając przez ok 10 - 15 min. Dodajemy pomidory. Doprawiamy solą, oregano, tymiankiem i bazylią.
