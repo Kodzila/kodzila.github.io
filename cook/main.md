@@ -323,9 +323,9 @@ Sos beszamelowy:
 * Jajko
 
 ?> Nasze pro tipy:
--> Użyliśmy do sosu beszamelowego przepisu z Musaki. W takim wypadku trzeba zrobić 2x porcję.
--> Użyliśmy naszego naczynia żaroodpornego. Wychodzi wtedy 3 płaty makaronu na 1 warstwę.
--> Mięso gotowaliśmy na winie.
+* Użyliśmy do sosu beszamelowego przepisu z Musaki. W takim wypadku trzeba zrobić 2x porcję.
+* Użyliśmy naszego naczynia żaroodpornego. Wychodzi wtedy 3 płaty makaronu na 1 warstwę.
+* Mięso gotowaliśmy na winie.
 
 Przygotowanie:
 Cebulę kroimy w kostkę, czosnek drobno siekamy. Na patelni rozgrzewamy oliwę, przesmażamy cebulę, a następnie mięso z czosnkiem, mieszając przez ok 10 - 15 min. Dodajemy pomidory. Doprawiamy solą, oregano, tymiankiem i bazylią.
@@ -343,15 +343,15 @@ _My pieklismy okolo 30 minut, bez termoobiegu przy 180 stopniach._
 Sos beszamelowy z Musaki:
 
 Składniki:
--> 30 g masła
--> 2 płaskie łyżki mąki (25 g)
--> 300 ml mleka
--> sól morska
--> szczypta gałki muszkatołowej
--> 1/2 szklanki tartego parmezanu
+* 30 g masła
+* 2 płaskie łyżki mąki (25 g)
+* 300 ml mleka
+* sól morska
+* szczypta gałki muszkatołowej
+* 1/2 szklanki tartego parmezanu
 
 Przygotowanie:
--> Roztopić masło na patelni lub w garnku, dodać mąkę i smażyć przez około 2 minuty na umiarkowanym ogniu ciągle mieszając. Stopniowo wlewać mleko cały czas mieszając aż sos zgęstnieje i będzie gładki. Doprawić solą, gałką muszkatołową, dodać połowę startego sera, wymieszać i podgrzać aż ser się rozpuści, odstawić z ognia.
+* Roztopić masło na patelni lub w garnku, dodać mąkę i smażyć przez około 2 minuty na umiarkowanym ogniu ciągle mieszając. Stopniowo wlewać mleko cały czas mieszając aż sos zgęstnieje i będzie gładki. Doprawić solą, gałką muszkatołową, dodać połowę startego sera, wymieszać i podgrzać aż ser się rozpuści, odstawić z ognia.
 ```
 
 ## Makaron ze szparagami i pieczarkami
