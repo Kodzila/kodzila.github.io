@@ -1063,3 +1063,22 @@ Przygotowanie:
 * Na koniec dodać posiekany koperek i odstawić z ognia.
 
 Podawać np. z kluskami śląskimi lub ryżem.
+
+## [ITA] Kurczak pesto
+
+Składniki (2 porcje):
+* 2 pojedyncze filety z piersi kurczaka
+* 80g mleka
+* Parmezan lub inny ser drobno posiekany
+* Łyżka masła
+* Makaron świderki lub inny mały
+* Olej
+* Zielone pesto ~3 łyżki
+
+Przygotowanie:
+* Kurczaka pokroić w małe paski. Posypać solą, pieprzem, oregano, czosnkiem.
+* Wstawić makaron.
+* Na patelni podsmażyć kurczaka około 2 minuty z każdej strony.
+* Wlać mleko oraz dodać masło.
+* Doprowadzić do zagotowania. 2 minuty przed wyjęciem makaronu dodać pesto.
+* Na talerz włożyć makaron, na to kurczak i polać sosem.
