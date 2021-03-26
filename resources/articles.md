@@ -127,6 +127,7 @@
 * [Rules of thumb for a 1x developer](https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html)
 * [CTO](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)
 * [Senior vs junior](https://medium.com/@jacobcomer/bridging-the-gap-between-junior-and-senior-engineers-571b2248fbb8)
+* [Salaries](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
@@ -142,6 +143,7 @@
 * [Dialects in code](https://www.rosstuck.com/dialects-in-code-part-1)
 * [Null types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
 * [CLI apps guideline](https://clig.dev)
+* [What color is your function - async programming](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
