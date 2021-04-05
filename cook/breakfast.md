@@ -170,3 +170,24 @@ Przygotowanie:
 * Za pomocą opiekacza lub patelni grillowej zapiekamy kanapki. Ja użyłam patelni - dociskałam kanapkę naczyniem żaroodpornym, tak aby rozpuszczający się ser ją skleił. Po kilku minutach odwróciłam na drugą stronę.
 
 Przygotowanie:
+
+## Zapiekane bułki z szynką i serem
+https://pysznosci.pl/przepisy/zapiekane-bulki-z-szynka-i-serem/
+
+Składniki:
+* 4 szt. bułki kajzerki
+* 200 g szynka
+* 200 g żółty ser
+* 2 szt. jajka
+* 1 łyżeczka słodka papryka
+* 1 szczypta sól
+* 1 szczypta pieprz
+* 1,5 łyżki oliwa z oliwek
+* 1/3 szkl. pietruszka posiekana
+* 2 ząbki czosnek
+
+Przygotowanie:
+* Ponacinaj bułkę w kilku miejscach. Tam gdzie bruzdy kajzerek.
+* Następnie przygotuj mieszankę z: jajek, soli, pieprzu, oliwy z oliwek, słodkiej papryki, czosnku i posiekanej pietruszki. Dokładnie wymieszaj.
+* Rozprowadź mieszankę na bułce.
+* W powstałych kieszonkach umieść szynkę i ser. Piecz bułeczki przez 10 minut w piekarniku (temp. 180 stopni Celsjusza).
