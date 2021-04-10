@@ -1143,3 +1143,25 @@ Przygotowanie pulpecików:
 Przygotowanie sosu:
 * Wymieszać składniki sosu i wlać do garnka z pulpetami. Po zagotowaniu gotować przez ok. 2 - 3 minuty delikatnie mieszając od czasu do czasu.
 * Podawać z ugotowanym ryżem, posypać uprażonym sezamem, szczypiorkiem oraz opcjonalnie posiekaną papryczką chili.
+
+## Makaron ryżowy z łososiem
+https://www.kuchniabazylii.pl/2021/02/makaron-ryzowy-z-lososiem-i-warzywami/
+
+Składniki:
+* 2 porcje fileta z łososia
+* 3 łyżki sosu teryiaki + sos do polania makaronu
+* 200 g makaronu ryżowego
+* pół długiego ogórka
+* marchewka
+* łyżka czarnego sezamu
+* 4 łyżki soku z limonki
+* łyżka oliwy z oliwek
+* garść kolendry
+* sól i pieprz
+
+Przygotowanie:
+* Z filetów łososia odcinamy skórę. Oprószamy go solą i pieprzem. Marynujemy w 3 łyżkach sosu teryiaki oraz 2 łyżkach soku z limonki, około 30 minut.
+* W międzyczasie przygotowujemy warzywa. Obieramy marchewkę, ogórka dokładnie myjemy. Z warzyw wycinamy obieraczką grube wstążki. Oprószamy delikatnie solą.
+* Następnie gotujemy makaron oraz smażymy łososia na oliwie z oliwek - około 5 minut z jednej strony. Ja lubię, kiedy łosoś nie jest zupełnie wysmażony.
+* Kiedy makaron się ugotuje, odcedzamy, przelewamy wodą, wykładamy na talerz. Następnie na talerz wykładamy warzywa oraz łososia.
+* Całość posypujemy czarnym sezamem, kolendrą oraz polewamy sosem teryiaki oraz sokiem z limonki. Ewentualnie doprawiamy solą i pieprzem do smaku.
