@@ -1201,3 +1201,31 @@ Przygotowaniee:
 * Dodaję pomidorki suszone.
 * Następnie dodaję mleczko kokosowe i już na małym ogniu redukuję około 7 minut.
 * Kasza wchłonie mleczko i nie będzie w nim pływać, ale będzie cudownie aksamitna w smaku.
+
+
+## Pieczone tofu z warzywami
+http://zdrowofit.pl/2020/02/29/pieczone-tofu-z-warzywami/
+
+Składniki:
+* 200 g tofu
+* 1 średni batat
+* 1 żółta papryka
+* 1 cebula
+* 1 marchewka
+* 1 cukinia
+* 1 kalafior
+* 100 g brukselki
+* Sól i pieprz
+* Pół łyżeczki papryki wędzonej
+* Pół łyżeczki kuminu
+* Odrobina sosu sojowego
+* 1 łyżeczka oleju rzepakowego
+
+Przygotowanie:
+* Tofu pokroiłam w kosteczkę.
+* Warzywa również.
+* Wszystko przełożyłam do naczynia i doprawiłam przyprawami .
+* Dodałam olej i sos sojowy.
+* Marynowałam przez godzinę.
+* Piekarnik rozgrzałam do 180 stopni.
+* Całość zapiekałam w naczyniu żaroodpornym przez około 40 minut.
