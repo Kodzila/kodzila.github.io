@@ -1165,3 +1165,39 @@ Przygotowanie:
 * Następnie gotujemy makaron oraz smażymy łososia na oliwie z oliwek - około 5 minut z jednej strony. Ja lubię, kiedy łosoś nie jest zupełnie wysmażony.
 * Kiedy makaron się ugotuje, odcedzamy, przelewamy wodą, wykładamy na talerz. Następnie na talerz wykładamy warzywa oraz łososia.
 * Całość posypujemy czarnym sezamem, kolendrą oraz polewamy sosem teryiaki oraz sokiem z limonki. Ewentualnie doprawiamy solą i pieprzem do smaku.
+
+## Kaszotto z kurczakiem i mango
+http://zdrowofit.pl/2019/10/29/kaszotto-z-kurczakiem-i-mango/
+
+?> Danie jest słabe na następny dzień. Rekomenduje robić 1/2 - 2/3 porcji na jeden dzień.
+
+Składniki:
+* 200 g kaszy pęczak
+* 2 piersi z kurczaka
+* 2 szkl wody
+* 100 ml białego wina ( można pominąć )
+* 1 cebula
+* 1 papryka
+* 6 pomidorków suszonych
+* 1/2 świeżego mango
+* Garść koperku
+* 1 łyżeczka oleju rzepakowego
+
+Składniki (marynata):
+* 2 ząbki czosnku
+* Szczypta zmielonego kardamonu, kuminu, imbiru, soli, pieprzu i papryki wędzonej
+* 2 łyżeczki oleju rzepakowego
+
+Przygotowaniee:
+* Filety z kurczaka kroję w kostkę.
+* Czosnek przeciskam przez praskę, dodaję do niego przyprawy i olej. Mieszam.
+* Kawałki kurczaka zanurzam w marynacie i odstawiam na 10 minut.
+* W tym czasie podsmażam pokrojoną w drobną kostkę cebulę.
+* Dodaję kurczaka.
+* Wsypuję kaszę pęczak i wlewam białe wino.
+* Czekam chwilę,aż wino odparuje i dolewam wodę.
+* Paprykę kroję na drobno i dodaję do całości.
+* Duszę pod przykryciem około 15 minut.
+* Dodaję pomidorki suszone.
+* Następnie dodaję mleczko kokosowe i już na małym ogniu redukuję około 7 minut.
+* Kasza wchłonie mleczko i nie będzie w nim pływać, ale będzie cudownie aksamitna w smaku.
