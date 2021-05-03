@@ -1229,3 +1229,38 @@ Przygotowanie:
 * Marynowałam przez godzinę.
 * Piekarnik rozgrzałam do 180 stopni.
 * Całość zapiekałam w naczyniu żaroodpornym przez około 40 minut.
+
+## Sałatka z chipsami i kurczakiem
+https://kulinarneprzeboje.pl/salatka-z-chipsami-i-kurczakiem/
+
+Składniki:
+* 1 podwójny filet z kurczaka – ok. 400 g
+* 1 czubata łyżka przyprawy gyros
+* 3 łyżki oliwy lub oleju rzepakowego
+* pół główki średniej kapusty pekińskiej – ok. 200 g po poszatkowaniu
+* 1 duży pomidor malinowy – ok. 150 g
+* 1 czerwona papryka  – ok. 200 g
+* 1 kawałek pora – ok. 100 g (tylko biała i jasnozielona część)
+* 3 średnie ogórki konserwowe – ok. 160 g
+* 5 łyżek kukurydzy konserwowej (odsączonej z zalewy)
+* 100 g chipsów karbowanych paprykowych
+* mały pęczek szczypiorku
+
+Składniki - sos:
+* 3 czubate łyżki gęstej kwaśnej śmietany 18%
+* 3 czubate łyżki majonezu
+* 2 duże ząbki czosnku
+* 1 czubata łyżeczka ziół prowansalskich
+* 1 łyżeczka soku z cytryny
+* sól i pieprz do smaku
+* ketchup pikantny
+
+Przygotowanie:
+* Kurczaka pokroić w kostkę, dodać 1 czubatą łyżkę przyprawy gyros i odstawić na ok. 20-30 minut, by mięso nieco się zamarynowało. Po tym czasie rozgrzać na patelni 3 łyżki oleju lub oliwy, podsmażyć kurczaka na średnim ogniu przez kilka minut, ale nie za długo, by mięso nie straciło za dużo soków i nie było twarde (pod koniec smażenia przykryć patelnię pokrywką, by mięso podusiło się przez minutę). Ostawić do ostudzenia.
+* Por (tylko białą i jasnozieloną część) pokroić na półplasterki. Wrzucić na sitko i przelać wrzątkiem, by por nieco stracił na ostrości. Odcedzić i ostudzić. Wrzucić do usmażonego kurczaka (już zdjętego z palnika)  i wymieszać.
+* Kapustę pekińską drobno poszatkować.
+* Paprykę pozbawić gniazda nasiennego, pokroić w kosteczkę.
+* Ogórki również pokroić w kosteczkę.
+* Szczypiorek posiekać.
+* Wszystkie składniki na sos (poza pikantnym ketchupem) wymieszać ze sobą razem do uzyskania jednolitej konsystencji.
+* W dużej misce układać kolejno: połowę poszatkowanej kapusty pekińskiej, połowę sosu czosnkowo-ziołowego, na to podsmażonego kurczaka wymieszanego z porem. Polać pikantnym ketchupem. Następnie wyłożyć 5 łyżek kukurydzy, a na to wymieszane ze sobą i pokrojone w kostkę pomidory, paprykę i ogórki konserwowe. Wylać pozostałą połowę sosu czosnkowego, a na to resztę kapusty pekińskiej. Na wierzch wysypać 100g chipsów paprykowych i oprószyć całość posiekanym szczypiorkiem. Odstawić sałatkę na ok. 30-40 minut, by smaki nieco się przegryzły. Smacznego!
