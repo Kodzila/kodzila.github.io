@@ -6,7 +6,15 @@
 * Cook
     * [Breakfast](cook/breakfast.md)
     * [Dessert](cook/dessert.md)
-    * [Main](cook/main.md)
+    * Main
+        * [Beef](cook/main/beef.md)
+        * [Chicken](cook/main/chicken.md)
+        * [Duck](cook/main/duck.md)
+        * [Fish](cook/main/fish.md)
+        * [Pork](cook/main/pork.md)
+        * [Soup](cook/main/soup.md)
+        * [Turkey](cook/main/turkey.md)
+        * [Vege](cook/main/vege.md)
 
 * Knowledge base
     * [Angular](knowledgebase/angular.md)
