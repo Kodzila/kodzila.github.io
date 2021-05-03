@@ -466,3 +466,25 @@ Przygotowanie:
 * W dużej misce układać kolejno: połowę poszatkowanej kapusty pekińskiej, połowę sosu czosnkowo-ziołowego, na to podsmażonego kurczaka wymieszanego z porem. Polać pikantnym ketchupem. Następnie wyłożyć 5 łyżek kukurydzy, a na to wymieszane ze sobą i pokrojone w kostkę pomidory, paprykę i ogórki konserwowe. Wylać pozostałą połowę sosu czosnkowego, a na to resztę kapusty pekińskiej. Na wierzch wysypać 100g chipsów paprykowych i oprószyć całość posiekanym szczypiorkiem. Odstawić sałatkę na ok. 30-40 minut, by smaki nieco się przegryzły. Smacznego!
 
 
+## [ITA] Kurczak w kremowym sosie z suszonymi pomidorami
+https://kulinarneprzeboje.pl/kurczak-w-kremowym-sosie-z-suszonymi-pomidorami/
+
+Składniki:
+* 1 duża pierś z kurczaka (ok. 350-400 g)
+* 3 łyżki oliwy z oliwek lub zalewy z pomidorów suszonych
+* 2 czubate łyżeczki przyprawy do kurczaka
+* 2 ząbki czosnku drobno posiekanego lub przeciśniętego przez praskę
+* 1 lekko czubata łyżeczka suszonej bazylii (lub świeżej, drobno posiekanej)
+* 1 lekko czubata łyżeczka suszonego oregano (lub świeżego, drobno posiekanego)
+* sól, pieprz do smaku
+* 250 g serka mascarpone
+* ok.200-250 ml bulionu (np. drobiowego z rosołu)
+* ok. 8-10 kawałków suszonych pomidorów
+* 50 g parmezanu
+* opcjonalnie ryż
+
+Wykonanie:
+* Piersi z kurczaka umyć, oszczyścić, pokroić na paseczki. Dodać przyprawę do kurczaka i oliwę z oliwek (lub zalewę z pomidorów suszonych). Dokładnie wymieszać. Rozgrzać patelnię, podsmażyć kawałki kurczaka z obu stron. Ściągnąć mięso z patelni.
+* Na tej samej patelni, na której smażył się kurczak podsmażyć czosnek i suszone pomidory pokrojone na mniejsze kawałeczki. Następnie dodać mascarpone i bulion, dokładnie wymieszać. Dodać bazylię, oregano i parmezan, ponownie wymieszać, by powstał jednolity sos.
+* Wrzucić do sosu wcześniej usmażone kawałki kurczaka i dusić całość do czasu aż sos nieco zgęstnieje. Pod koniec doprawić do smaku solą i pieprzem.
+* Podawać, np. z gotowanym ryżem.
