@@ -80,3 +80,24 @@ Przygotowanie:
 * Wytrzeć naczynie ręcznikiem papierowym, wlać mleko kokosowe, dodać pozostałą pastę curry, koncentrat pomidorowy oraz sos rybny i kafir. Gotować przez ok. 6 minut.
 * Dodać groszek lub pokrojoną fasolkę a także podsmażonego dorsza. Gotować przez ok. 5 minut.
 * Skropić sokiem z limonki i podawać z ryżem.
+
+
+## Dorsz w orzechach i winie
+
+Składniki:
+* Dorsz
+* Białe wino wytrawne
+* Orzechy włoskie (alternatywnie: mieszanka)
+* 1 cytryna
+* Masło
+* Przyprawy: bazylia, oregano, sól, pieprz
+* Ryż - ~90g na jedną osobę
+
+Przygotowanie:
+* Do naczynia żaroodpornego ułóż dorsza pokrojonego w paski. Pod niego włóż plasterki masła.
+* Przypraw rybęę.
+* Pokrusz orzechy i posyp dorsza.
+* Połóż trochę masła na dorsze.
+* Pokrój cytryny i połóż na dorsza (ostrożnie bo będzie za kwaśne). Wystarczą 2-3 plasterki.
+* Zalej naczynie winem, tak by ledwo co wystawały cytryny.
+* Piecz w piekarniku przez około 25 minut.
