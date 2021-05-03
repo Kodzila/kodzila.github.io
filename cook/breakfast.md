@@ -191,3 +191,22 @@ Przygotowanie:
 * Następnie przygotuj mieszankę z: jajek, soli, pieprzu, oliwy z oliwek, słodkiej papryki, czosnku i posiekanej pietruszki. Dokładnie wymieszaj.
 * Rozprowadź mieszankę na bułce.
 * W powstałych kieszonkach umieść szynkę i ser. Piecz bułeczki przez 10 minut w piekarniku (temp. 180 stopni Celsjusza).
+
+
+## Gofry
+
+Składniki:
+* 2 szklanki mąki
+* 2 szklanki mleka
+* 1 łyżeczka proszku do pieczenia
+* szczypta soli
+* 1/3 szklanki oleju
+* 2 jajka, żółtka oddzielone od białek
+* Szczypta cukru waniliowego
+
+Przygotowanie:
+* Rozgrzać gofrownice.
+* Wszystkie składniki oprócz białek ubić mikserem na gładką masę.
+* Białka ubić na sztywną pianę i delikatnie wymieszać z ciastem.
+* Piec w gofrownicy na rumiano około 2-3 minut.
+* Podawać z bitą śmietaną lub ulubionymi dodatkami.
