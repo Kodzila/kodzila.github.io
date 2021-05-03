@@ -24,30 +24,6 @@ PRZYGOTOWANIE
 * Zdejmujemy z ognia, przyprawiamy tymiankiem, solą i pieprzem. Dodajemy 2 łyżki masła, 2/3 parmezanu, mieszamy i przykrywamy na 3-4 minuty. Rozkładamy na głębokie talerze, posypujemy posiekaną natką i pozostałym parmezanem. Od razu podajemy.
 
 
-## [ITA] Kurczak w kremowym sosie z suszonymi pomidorami
-https://kulinarneprzeboje.pl/kurczak-w-kremowym-sosie-z-suszonymi-pomidorami/
-
-Składniki:
-* 1 duża pierś z kurczaka (ok. 350-400 g)
-* 3 łyżki oliwy z oliwek lub zalewy z pomidorów suszonych
-* 2 czubate łyżeczki przyprawy do kurczaka
-* 2 ząbki czosnku drobno posiekanego lub przeciśniętego przez praskę
-* 1 lekko czubata łyżeczka suszonej bazylii (lub świeżej, drobno posiekanej)
-* 1 lekko czubata łyżeczka suszonego oregano (lub świeżego, drobno posiekanego)
-* sól, pieprz do smaku
-* 250 g serka mascarpone
-* ok.200-250 ml bulionu (np. drobiowego z rosołu)
-* ok. 8-10 kawałków suszonych pomidorów
-* 50 g parmezanu
-* opcjonalnie ryż
-
-Wykonanie:
-* Piersi z kurczaka umyć, oszczyścić, pokroić na paseczki. Dodać przyprawę do kurczaka i oliwę z oliwek (lub zalewę z pomidorów suszonych). Dokładnie wymieszać. Rozgrzać patelnię, podsmażyć kawałki kurczaka z obu stron. Ściągnąć mięso z patelni.
-* Na tej samej patelni, na której smażył się kurczak podsmażyć czosnek i suszone pomidory pokrojone na mniejsze kawałeczki. Następnie dodać mascarpone i bulion, dokładnie wymieszać. Dodać bazylię, oregano i parmezan, ponownie wymieszać, by powstał jednolity sos.
-* Wrzucić do sosu wcześniej usmażone kawałki kurczaka i dusić całość do czasu aż sos nieco zgęstnieje. Pod koniec doprawić do smaku solą i pieprzem.
-* Podawać, np. z gotowanym ryżem.
-
-
 ## Makaron ze szparagami i pieczarkami
 https://www.kuchnia-domowa.pl/przepisy/dania-glowne/370-makaron-ze-szparagami-pieczarkami
 
