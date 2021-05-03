@@ -1264,3 +1264,33 @@ Przygotowanie:
 * Szczypiorek posiekać.
 * Wszystkie składniki na sos (poza pikantnym ketchupem) wymieszać ze sobą razem do uzyskania jednolitej konsystencji.
 * W dużej misce układać kolejno: połowę poszatkowanej kapusty pekińskiej, połowę sosu czosnkowo-ziołowego, na to podsmażonego kurczaka wymieszanego z porem. Polać pikantnym ketchupem. Następnie wyłożyć 5 łyżek kukurydzy, a na to wymieszane ze sobą i pokrojone w kostkę pomidory, paprykę i ogórki konserwowe. Wylać pozostałą połowę sosu czosnkowego, a na to resztę kapusty pekińskiej. Na wierzch wysypać 100g chipsów paprykowych i oprószyć całość posiekanym szczypiorkiem. Odstawić sałatkę na ok. 30-40 minut, by smaki nieco się przegryzły. Smacznego!
+
+
+## Spaghetti z pesto pistacjowym
+https://burczymiwbrzuchu.pl/przepisy/spaghetti-z-pesto-pistacjowym
+
+Składniki:
+* 150-200 g pełnoziarnistego spaghetti
+* kilka suszonych pomidorów
+* kilka łyżek świeżo tartego sera dojrzewającego np. parmezanu
+* łyżka oleju z suszonych pomidorów
+* 2 łyżki ziaren słonecznika
+* listki świeżego rozmarynu
+* [dodatkowo] 150g pomidorków koktajlowych
+
+Składniki - pesto:
+* 80 g obranych pistacji (w przypadku solonych, omijamy sól w przepisie)
+* 30 g sera dojrzewającego np. parmezan/cheddar/szafir
+* mały ząbek czosnku
+* łyżka soku z cytryny
+* 4-5 łyżek oliwy
+* szczypta gałki muszkatołowej
+* sól, świeżo mielony pieprz
+
+Przygotowanie:
+* W garnku gotujemy wodę z łyżeczką soli.
+* Na suchej patelni wrzucamy obrane pistacje i prażymy je przez ok. 3 minuty. Przerzucamy do wysokiego naczynia, dodajemy posiekany czosnek, tarty ser, gałkę muszkatołową, sól, pieprz i sok z cytryny. Zaczynamy miksować składniki blenderem, stopniowo wlewając oliwę. Miksujemy, aż postanie gładkie pesto.
+* Do garnka z gotującą się wodą wrzucamy makaron. Gotujemy, aby był „al dente” według wskazówek na opakowaniu.
+* Na patelnię wlewamy łyżkę zalewy z suszonych pomidorów, posiekane drobno pomidory oraz pesto pistacjowe.
+* Ugotowany makaron odsączamy i wrzucamy na patelnię razem z 3 łyżkami wody, w której się gotował. Dorzucamy ziarna słonecznika, chwilę podgrzewamy i mieszamy do połączenia składników.
+* Makaron podajemy ze świeżym rozmarynem, posiekanymi pistacjami, ziarnami słonecznika i świeżo startym serem (u mnie Szafir).
