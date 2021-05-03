@@ -1294,3 +1294,25 @@ Przygotowanie:
 * Na patelnię wlewamy łyżkę zalewy z suszonych pomidorów, posiekane drobno pomidory oraz pesto pistacjowe.
 * Ugotowany makaron odsączamy i wrzucamy na patelnię razem z 3 łyżkami wody, w której się gotował. Dorzucamy ziarna słonecznika, chwilę podgrzewamy i mieszamy do połączenia składników.
 * Makaron podajemy ze świeżym rozmarynem, posiekanymi pistacjami, ziarnami słonecznika i świeżo startym serem (u mnie Szafir).
+
+
+## Dorsz w sosie curry
+https://www.kwestiasmaku.com/przepis/dorsz-w-sosie-curry
+
+Składniki:
+* 400 g filetów dorsza (alternatywnie mintaj, halibut)
+* 1 łyżka czerwonej pasty curry
+* 1 łyżka oleju kokosowego
+* 200 ml mleka kokosowego
+* 2 łyżeczki koncentratu pomidorowego
+* 1 łyżka sosu rybnego
+* opcjonalnie: 2 liście limonki kafir*
+* 150 g groszku cukrowego lub fasolki szparagowej (mrożonej)
+* do podania: 200 g ryżu
+
+Przygotowanie:
+* Rybę pokroić na porcje, doprawić solą, pieprzem oraz natrzeć połową pasty curry.
+* Rozgrzać wok lub dużą patelnię i na oleju kokosowym obsmażyć z dwóch stron rybę, odłożyć na talerz.
+* Wytrzeć naczynie ręcznikiem papierowym, wlać mleko kokosowe, dodać pozostałą pastę curry, koncentrat pomidorowy oraz sos rybny i kafir. Gotować przez ok. 6 minut.
+* Dodać groszek lub pokrojoną fasolkę a także podsmażonego dorsza. Gotować przez ok. 5 minut.
+* Skropić sokiem z limonki i podawać z ryżem.
