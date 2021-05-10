@@ -488,3 +488,25 @@ Wykonanie:
 * Na tej samej patelni, na której smażył się kurczak podsmażyć czosnek i suszone pomidory pokrojone na mniejsze kawałeczki. Następnie dodać mascarpone i bulion, dokładnie wymieszać. Dodać bazylię, oregano i parmezan, ponownie wymieszać, by powstał jednolity sos.
 * Wrzucić do sosu wcześniej usmażone kawałki kurczaka i dusić całość do czasu aż sos nieco zgęstnieje. Pod koniec doprawić do smaku solą i pieprzem.
 * Podawać, np. z gotowanym ryżem.
+
+## Kurczak po toskańsku
+https://www.kwestiasmaku.com/przepis/kurczak-po-toskansku
+
+Składniki:
+* 500 g filetów z kurczaka
+* 2 ząbki czosnku
+* 1 łyżeczka suszonego oregano
+* 200 ml bulionu drobiowego
+* 200 ml śmietanki 18% do zup i sosów 
+* ok. 10 kawałków suszonych pomidorów
+* 125 g szpinaku
+* sól, pieprz, oliwa, mąka pszenna
+* tarty parmezan lub grana padano
+
+Przygotowanie:
+* Filety umyć, osuszyć, oczyścić z błonek i kostek. Przekroić wzdłuż na 2 cieńsze filety, odciąć polędwiczki.
+* Całe mięso doprawić solą, pieprzem, oregano, natrzeć startym czosnkiem i wysmarować łyżką oliwy. Na tym etapie kurczaka można odstawić do zamarynowania (jeśli mamy czas).
+* Mięso obtoczyć w mące, następnie kłaść na rozgrzaną dużą patelnię z 2 łyżkami oliwy i smażyć po ok. 3,5 minuty z każdej strony, aż kurczak ładnie się zrumieni. W razie potrzeby obsmażać na raty.
+* Zdjąć kurczaka z patelni i odłożyć na talerz. Na tę samą patelnię wlać bulion i zagotować. Włożyć mięso i obłożyć pokrojonymi suszonymi pomidorami wyjętymi z zalewy. Gotować przez ok. 1 minutę, przewrócić na drugą stronę i powtórzyć gotowanie.
+* Wlać śmietankę i zagotować. Posypać szpinakiem i wcisnąć go w sos aby listki zwiędły. Po ok. 1 - 2 minutach gotowania, gdy sos będzie już gęsty, odstawić danie z patelni.
+* Podawać z wybranym dodatkiem posypując tartym serem.
