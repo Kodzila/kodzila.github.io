@@ -36,4 +36,25 @@ Przygotowanie sosu:
 * Wymieszać składniki sosu i wlać do garnka z pulpetami. Po zagotowaniu gotować przez ok. 2 - 3 minuty delikatnie mieszając od czasu do czasu.
 * Podawać z ugotowanym ryżem, posypać uprażonym sezamem, szczypiorkiem oraz opcjonalnie posiekaną papryczką chili.
 
+## Pęczotto z indykiem i szparagami
+https://www.kwestiasmaku.com/zielony_srodek/kapusta/peczotto_mloda_kapusta_indyk_szparagi/przepis.html
 
+Składniki:
+* 1/3 szklanki kaszy pęczak
+* 3 łyżki oliwy extra vergine
+* 1 cebula
+* 1 por
+* 1 łyżka suszonych ziół prowansalskich
+* 300 g piersi indyka
+* 3 łyżki sosu sojowego
+* 1/3 szklanki białego wina (można zastąpić bulionem jeśli nie mamy)
+* 1 szklanka bulionu drobiowego lub rosołu
+* 1/3 główki młodej kapusty (2 szklanki poszatkowanej)
+* 1/2 pęczka szparagów
+* 3 łyżki posiekanej trybulki (młodego szczypiorku)
+
+Przygotowanie:
+* Na dużą patelnię wlać łyżkę oliwy, wsypać kaszę i podsmażać ją, od czasu do czasu zamieszać. Dodać pokrojoną w kosteczkę cebulę i zeszklić ją (ok. 3 minuty). Odciąć zielone końce pora, białą i jasnozieloną część dokładnie opłukać, przekroić wzdłuż na pół i dalej pokroić w poprzek na półplasterki. Dodać na patelnię, wlać drugą łyżkę oliwy, zioła prowansalskie i wymieszać. Smażyć przez ok. 3 minuty.
+* Przesunąć składniki na bok patelni, w wolne miejsce wlać trzecią łyżkę oliwy, włożyć posiekaną na kawałeczki pierś indyka. Doprawić pieprzem i obsmażać przez ok. 3 minuty. Mięso skropić sosem sojowym i jeszcze przez chwilę razem podsmażać. W tym czasie składniki odsunięte na obok 1-2 razy przemieszać. Wlać białe wino, gotować 2-3 minuty aż odparuje. Wymieszać składniki na patelni i wlać gorący bulion. Po zagotowaniu przykryć pokrywą i gotować przez ok. 20 minut.
+* Kapustę umyć i posiekać na cienkie paseczki. Włożyć na patelnię, wymieszać, przykryć i gotować przez 2 minuty.
+* Szparagi umyć, odłamać twarde i grubsze końce, łodyżki pokroić na ukos na ok. 2 mm plasterki, główki zachować w całości. Dodać do potrawy, wymieszać, przykryć i gotować przez ok. 3 minuty. Zdjąć pokrywę i podgrzewać jeszcze bez przykrycia przez ok. 2 - 3 minuty. Posypać szczypiorkiem.
