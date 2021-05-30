@@ -101,3 +101,26 @@ Przygotowanie:
 * Pokrój cytryny i połóż na dorsza (ostrożnie bo będzie za kwaśne). Wystarczą 2-3 plasterki.
 * Zalej naczynie winem, tak by ledwo co wystawały cytryny.
 * Piecz w piekarniku przez około 25 minut.
+
+
+## Makaron ze szparagami i krewetkami
+https://www.kwestiasmaku.com/przepis/makaron-ze-szparagami-i-krewetkami
+
+Składniki:
+* ok. 200 g mrożonych krewetek
+* 1/2 pęczka zielonych szparagów
+* 125 g makaronu np. tagliatelle
+* 2 łyżki oliwy extra
+* 1/2 łyżki masła
+* 2 ząbki czosnku
+* 2 łyżki białego wina (opcjonalnie)
+* 1/2 łyżki posiekanej natki
+* 125 ml śmietanki 30%
+
+Przygotowanie:
+* Krewetki rozmrozić, oczyścić jeśli jest konieczność, oderwać ogonki, opłukać i osuszyć.
+* Szparagi umyć, odłamać twarde i zdrewniałe końce (same złamią się w odpowiednim miejscu). Zielone łodyżki pokroić na kawałki.
+* Makaron wrzucić na osolony wrzątek w dużym garnku i ugotować godnie z instrukcją na opakowaniu. Na 2 - 3 minuty przed końcem gotowania dodać do garnka szparagi. * Całość odcedzić i włożyć z powrotem do garnka, wymieszać z 1 łyżką oliwy.
+* Na dużej patelni na maśle i 1 łyżce oliwy chwilę podsmażyć drobno starty czosnek. Dodać krewetki i smażyć na większym ogniu przez ok. 1 minutę co chwilę mieszając, doprawić solą, opcjonalnie skropić białym winem (lub łyżeczką soku z cytryny).
+* Wlać śmietankę i zagotować. Dodać makaron z wraz ze szparagami i wymieszać. Gotować przez ok. 1 minutę aż sos zgęstnieje, w międzyczasie dodać natkę pietruszki.
+* W razie potrzeby można doprawić świeżo zmielonym pieprzem oraz solą.
