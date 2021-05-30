@@ -58,3 +58,28 @@ Przygotowanie:
 * Przesunąć składniki na bok patelni, w wolne miejsce wlać trzecią łyżkę oliwy, włożyć posiekaną na kawałeczki pierś indyka. Doprawić pieprzem i obsmażać przez ok. 3 minuty. Mięso skropić sosem sojowym i jeszcze przez chwilę razem podsmażać. W tym czasie składniki odsunięte na obok 1-2 razy przemieszać. Wlać białe wino, gotować 2-3 minuty aż odparuje. Wymieszać składniki na patelni i wlać gorący bulion. Po zagotowaniu przykryć pokrywą i gotować przez ok. 20 minut.
 * Kapustę umyć i posiekać na cienkie paseczki. Włożyć na patelnię, wymieszać, przykryć i gotować przez 2 minuty.
 * Szparagi umyć, odłamać twarde i grubsze końce, łodyżki pokroić na ukos na ok. 2 mm plasterki, główki zachować w całości. Dodać do potrawy, wymieszać, przykryć i gotować przez ok. 3 minuty. Zdjąć pokrywę i podgrzewać jeszcze bez przykrycia przez ok. 2 - 3 minuty. Posypać szczypiorkiem.
+
+## Roladki z indyka
+https://aniagotuje.pl/przepis/roladki-z-indyka
+
+Składniki:
+* filet z indyka około 500g
+* 1 łyżka dobrego majonezu - około 25 g
+* 1 łyżka ulubionej musztardy - około 25 g
+* żółty ser - około 150 g
+* garść świeżego szpinaku baby - około 20 g
+* 2 małe ogórki kiszone / korniszony - około 60 g
+* pół czerwonej papryki - około 100 g
+* 8 płaskich łyżek bułki tartej - około 70 g
+* 2 średnie lub większe jajka
+* około 50 ml oleju rzepakowego do smażenia
+* przyprawy: płaska łyżeczka soli, pół płaskiej łyżeczki pieprzu
+
+Przygotowanie:
+* Przygotuj sobie fiolet/piersi z indyka. Filet oczyść z ewentualnych żyłek i pokrój na osiem płaskich i kształtnych kotletów. Każdą sztukę rozbij przy pomocy tłuczka. Aby to zrobić, na blacie połóż złożoną na pół ściereczkę lub materiałową łapkę kuchenną. Na ścierce połóż deskę drewnianą. Na desce kładź po kolei kotlety i ubijaj tłuczkiem do mięsa, aż rozpłaszczą się do około 5-7 mm grubości.  Pamiętaj, by przed ubijaniem kotleta położyć najpierw na niego woreczek śniadaniowy i dopiero ubijać. Ubijając kotlety przez woreczek unikniesz pryskania wody z kotletów na całą kuchnię, a do tego delikatne mięso nie będzie się szarpało. Każdego ubitego kotleta osusz w razie potrzeby kawałkiem ręcznika papierowego i posyp z obu stron solą i pieprzem (łącznie nie więcej niż płaska łyżeczka soli oraz pół płaskiej łyżeczki pieprzu). 
+* Wymieszaj ze sobą łyżkę ulubionego majonezu oraz łyżkę musztardy (u mnie Dijon). Taką mieszankę rozsmarowuj na jednej stronie każdego rozbitego kotleta. Kolejno wyłóż plaster żółtego sera (u mnie dla wygody przekrojony na pół). Następnie wyłóż po trzy listki umytego i osuszonego szpinaku baby. Po jednej stronie kładź też po kawałku ogórka kiszonego (przekrojony wzdłuż na cztery) oraz po jednym kawałku umytej, osuszonej i oczyszczonej z gniada nasiennego czerwonej papryki. Każdego kotleta zwijaj ścisło w roladkę.  
+* Dwa jajka wbij do jednej, szerszej miseczki i bardzo dokładnie ubij je przy pomocy trzepaczki lub miksera na średnich obrotach. Ma Ci powstać idealnie gładki płyn jajeczny z pianką na górze. Dzięki temu cała panierka lepiej się trzyma. Do drugiej miseczki wsyp około 70 gramów bardzo dobrej jakości bułki tartej (może być też bułka tarta bezglutenowa).  
+* Nagrzej średnią lub dużą patelnię z grubym dnem. Na patelnię wylej około 50 ml oleju rzepakowego. Ustaw trochę niższą niż średnia moc palnika i poczekaj chwilę, aż olej dobrze się nagrzeje. Na patelnię z olejem kładź po 3-4 roladki na raz (w zależności od wielkości patelni). Nie upychaj ich jednak za dużo, by roladki mogły się swobodnie podsmażać i rumienić, a nie gotować jedna obok drugiej. Przez umieszczenie na raz, na patelni zbyt dużej ilości roladek, gwałtownie spada temperatura tłuszczu i roladki nie będą się smażyły, a zaczną się dusić. Prowadzi to do strzelania zawartości patelni, zaparowania i odpadania panierki.  
+* Roladki smaż orientacyjnie, po kilka minut na stronę (do 3 minut). Przewracaj je na druga stronę, gdy zrobią się od spodu rumiane. Jeśli rumienią się za szybko, to zmniejsz moc palnika. Jeśli po kilku minutach są nadal dość blade, to zwiększ moc palnika. To jak długo będą się smażyły zależy od patelni, mocy palnika i grubości roladek. Nie smaż ich jednak za krótko, by mięso nie pozostało w środku surowe. Chociaż i na to jest sposób i rumiane roladki można po usmażeniu dopiec chwilę w piekarniku, co opisze jeszcze za chwilę. 
+* W ten sposób usmaż wszystkie roladki z indyka. Usmażone roladki odkładaj na arkusz papieru do pieczenia (ewentualny nadmiar tłuszczu wsiąka w papier, a roladki nie "pocą" się od spodu).  
+* Usmażone roladki warto dodatkowo zapiec w piekarniku. Jest to sposób na ewentualne dopieczenia mięsa. Roladki ułóż obok siebie w dowolnym naczyniu żaroodpornym lub na blaszce do pieczenia. Umieść je w piekarniku nagrzanym do 180 stopni (opcja pieczenia góra/dół) i podpiekaj przez 15 minut na środkowej półce piekarnika. Ja podpiekam swoje roladki pod przykryciem.  
