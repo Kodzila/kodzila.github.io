@@ -29,6 +29,7 @@
 * [PHP type system](https://thephp.website/en/issue/php-type-system/)
 * [Vimeo - why static analysis is a gamechanger](https://medium.com/vimeo-engineering-blog/its-not-legacy-code-it-s-php-1f0ee0462580)
 * [PHP Unit tests good practices](https://github.com/sarven/unit-testing-tips)
+* [Pipes and function partial application](https://peakd.com/hive-168588/@crell/the-case-for-partials-and-pipes-in-php)
 
 ## GIT
 * [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
