@@ -173,6 +173,7 @@
 * [OWASP TOP 10](https://resources.whitesourcesoftware.com/blog-whitesource/owasp-top-10-vulnerabilities)
 * [API security](https://expeditedsecurity.com/api-security-best-practices-megaguide/)
 * [Symfony security](https://nicwortel.nl/blog/2020/06/07/protect-symfony-application-against-owasp-top-10-security-risks)
+* [Security scanner](https://pentest-tools.com/website-vulnerability-scanning/website-scanner)
 
 ## Angular
 * [Angular best practices](https://angular-academy.com/angular-architecture-best-practices/)
