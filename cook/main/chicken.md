@@ -580,3 +580,29 @@ Podsmażamy kurczaka, aż woda odparuje, a mięso będzie miało piękny, apetyc
 * Na sos wykładamy resztę ryżu (pozostałe 1,5 torebki) i leciutko dociskamy, żeby wyrównać powierzchnię zapiekanki.
 * W ostatniej kolejności posypujemy zapiekankę startym, żółtym serem.
 * Pieczemy w 180 stopniach około 20-30 minut. Po tym czasie zdejmujemy pokrywę naczynia żaroodpornego i dopiekamy jeszcze kilka minut, aż ser ładnie się zrumieni.
+
+
+## Makaron z kurczakiem, szparagami i szpinakiem
+https://extradania.pl/makaron-z-kurczakiem-szparagami-i-szpinakiem/
+
+Składniki:
+* 2 piersi z kurczaka
+* pęczek zielonych szparagów
+* spora garść świeżego szpinaku
+* 2 ząbki czosnu
+* 150 ml słodkiej śmetany
+* 2 łyżki oliwy z oliwek
+* szczypta słodkiej papryki
+* sól i pieprz
+* tarty parmezan
+* 200 g makaronu
+
+Przygotowanie:
+* Szparagi umyć, usunąć stwardniałe końcówki i pokroić na kawałki szerokości ok. 2 cm. 
+* Na patelni rozgrzać oliwę, wrzucić pokrojone szparagi, zostawiając tylko główki. 
+* Piersi umyć, pokroić w kostkę i dodać do szparagów. 
+* Wsypać przyprawy i rozgniecione ząbki czosnku i dusić ok. 10 minut pod przykryciem. 
+* Pod koniec duszenia dorzucić główki szparagów i szpinak oraz wlać śmietankę. 
+* Makaron ugotować al dente. 
+* Wymieszać z sosem. 
+* Podawać posypany parmezanem i świeżo zmielonym pieprzem.
