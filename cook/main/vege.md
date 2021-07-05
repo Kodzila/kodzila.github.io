@@ -168,3 +168,23 @@ Przygotowanie:
 * Makaron podajemy ze świeżym rozmarynem, posiekanymi pistacjami, ziarnami słonecznika i świeżo startym serem (u mnie Szafir).
 
 
+## Tofu parmigiana
+https://ervegan.com/2021/06/tofu-parmigiana/
+
+Składniki:
+* 1–2 kostki tofu naturalnego lub bazyliowego 
+* 1½ szklanki passaty pomidorowej LUB 4 pomidory
+* 2 łyżki ziół prowansalskich 
+* 1 mała biała cebula 
+* 2 ząbki czosnku 
+* 1 łyżka oliwy z oliwek 
+* ser tarty
+* jajko oraz bułka tarta
+* świeża bazylia 
+* sól, pieprz 
+
+Przygotowanie:
+* Tofu odciśnij lekko z wody ręcznikami papierowymi i przekrój je wszerz na pół, na dwa cieńsze duże prostokąty. Obtocz tofu w jajku a potem bułce. Smaż je na suchej patelni, aby lekko się ścięły. 
+* W międzyczasie w rondlu rozgrzej oliwę i podsmaż na niej posiekaną cebulę i czosnek. Dodaj passatę i duś na lekkim ogniu przez 15 minut. Dodaj zioła prowansalskie oraz sól i pieprz do smaku. 
+* Tofu przełóż do lekko naoliwionego naczynia żaroodpornego, zalej sosem pomidorowym i posyp na koniec serem. Całość piecz w piekarniku nagrzanym do 190°C przez około 20–30 minut, aż sos trochę wybulgocze i ser ładnie się stopi. 
+* Tofu parmigianę podawaj ze świeżą bazylią i dowolną bazą: makaronem, focaccią lub po prostu z piekarnika.
