@@ -510,3 +510,32 @@ Przygotowanie:
 * Zdjąć kurczaka z patelni i odłożyć na talerz. Na tę samą patelnię wlać bulion i zagotować. Włożyć mięso i obłożyć pokrojonymi suszonymi pomidorami wyjętymi z zalewy. Gotować przez ok. 1 minutę, przewrócić na drugą stronę i powtórzyć gotowanie.
 * Wlać śmietankę i zagotować. Posypać szpinakiem i wcisnąć go w sos aby listki zwiędły. Po ok. 1 - 2 minutach gotowania, gdy sos będzie już gęsty, odstawić danie z patelni.
 * Podawać z wybranym dodatkiem posypując tartym serem.
+
+
+## Grillowana pierś z kurczaka z sosem pietruszkowo-kolendrowym
+https://whiteplate.com/2021/06/na-lato-grillowana-piers-kurczaka-z-sosem-pietruszkowo-kolendrowym-bardzo-latwy-przepis/
+
+Składniki:
+* 20 g listków świeżej kolendry (to około garść)
+* 20 g listków świeżej natki pietruszki
+* 1 ząbek czosnku
+* 2 malutkie dymki albo szalotki (bez szczypioru)
+* niepełna łyżeczka soli morskiej
+* szczypta świeżo mielonego pieprzu
+* szczypta mielonej papryki
+* 1/2 łyżeczki świeżo mielonego kuminu
+* szczypta cynamonu
+* 1 malutka marynowana cytryna (do kupienia w sklepach z żywnością arabską. Jeśli nie znajdziesz – spokojnie możesz pominąć)
+* 1-2 łyżki świeżo wyciśniętego soku z cytryny
+* ok. 100-120 ml oleju rzepakowego (to za dużo! mniej koniecznie)
+* 1 średniej wielkości pierś kurza, delikatnie rozpłaszczona
+* odrobina oleju rzepakowego do posmarowania patelni grillowej
+* sól i pieprz do smaku
+
+Przygotowanie:
+* Marynata: Będziesz potrzebować miksera z ostrym ostrzem (ja używam ręcznego blendera) i dosyć wysokiego naczynia. Jeśli nie masz miksera – możesz wszystko utrzeć w ceramicznym lub kamiennym moździerzu.
+* Posiekaną kolendrę, posiekaną natkę, zmiażdżony czosnek, dymkę, sól, pieprz, paprykę, kumin, cynamon, połowę drobno posiekanej cytryny marynowanej, sok z cytryny umieść w naczyniu, wlej 2-3 łyżki oleju i zacznij miksować. Kiedy sos staje się gładki, powoli dolewaj pozostały olej. Rób to naprawdę delikatnie, dzięki temu sos będzie powoli gęstniał i zmieniał kolor na bardziej jasny. To od Ciebie zależy, jak gęsty będzie sos – jeśli chcesz, możesz dodać więcej oleju.
+* Teraz do szklanego naczynia włóż mięso, nasmaruj je połową marynaty – staraj się to zrobić jak najdokładniej. Na wierzchu ułóż resztę marynowanej cytryny, jeśli jej używasz. Przykryj naczynie i schowaj mięso do lodówki.
+* Do pozostałej marynaty dodaj 1-2 łyżeczki świeżo wyciśniętego soku z cytryny, dzięki temu nie zmieni koloru.
+* Kiedy mięso się zamarynuje, rozgrzej patelnię grillową – ja rozgrzewam ją przez kilka minut do czasu, aż mam pewność, że jest porządnie rozgrzana, posmaruj delikatnie (1-2 łyżeczki) olejem rzepakowym i włóż mięso. Smaż je kilka minut (3-4, w zależności od grubości mięsa) z każdej strony.
+* Przełóż na talerz, podaj z pozostałą marynatą, ziemniakami, warzywami, chlebem, czym lubisz 
