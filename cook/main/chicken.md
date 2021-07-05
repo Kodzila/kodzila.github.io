@@ -539,3 +539,44 @@ Przygotowanie:
 * Do pozostałej marynaty dodaj 1-2 łyżeczki świeżo wyciśniętego soku z cytryny, dzięki temu nie zmieni koloru.
 * Kiedy mięso się zamarynuje, rozgrzej patelnię grillową – ja rozgrzewam ją przez kilka minut do czasu, aż mam pewność, że jest porządnie rozgrzana, posmaruj delikatnie (1-2 łyżeczki) olejem rzepakowym i włóż mięso. Smaż je kilka minut (3-4, w zależności od grubości mięsa) z każdej strony.
 * Przełóż na talerz, podaj z pozostałą marynatą, ziemniakami, warzywami, chlebem, czym lubisz 
+
+
+## Zapiekanka gyros z ryżem i pieczarkami
+https://www.przyslijprzepis.pl/przepis/zapiekanka-gyros-z-ryzem-i-pieczarkami
+
+Składniki:
+* 200g ryżu
+* podwójną pierś z kurczaka
+* 1 puszkę kukurydzy (można mniej, ale my lubimy)
+* 1 duża czerwona papryka
+* 1 duża lub 2 mniejsze cebule
+* 150g pieczarek
+* 1 łyżeczka curry
+* przyprawa gyros
+* 1 łyżeczka suszonego czosnku
+* 3 łyżki jogurtu naturalnego
+* 2 łyżki majonezu (może być light)
+* 3 łyżki pikantnego keczupu
+* 2 łyżki soku z cytryny
+* 150g żółtego sera
+* 2 łyżki oleju
+* masło klarowane do smażenia
+
+Przygotowanie:
+* Ryż gotujemy w osolonym wrzątku według wskazań producenta.
+Kurczaka kroimy w kostkę, przyprawiamy solą, pieprzem, curry i przyprawą gyros. Dodajemy 2 łyżki oleju, mieszamy i odstawiamy na kilka minut.
+Cebulę obieramy i kroimy w półplasterki. Szklimy ze szczyptą soli na łyżeczce masła klarowanego. Odkładamy do miseczki, tłuszcz zostawiamy na patelni.
+* Paprykę kroimy w paseczki i podsmażamy kilka minut na tłuszczu, który pozostał po cebuli. Smażymy ze szczyptą soli do chwili, aż papryka zmięknie i ładnie się zrumieni.
+Podsmażoną odkładamy do miseczki.
+* Pieczarki kroimy w półplasterki i podsmażamy na patelni po papryce. W razie potrzeby dodajemy odrobinkę masła klarowanego. Usmażone, przekładamy do miseczki.
+Jeśli został tłuszcz, to nie wylewamy go.
+* Na patelni podsmażamy kurczaka. Jeśli został nam tłuszcz po pieczarkach, to smażymy na nim. Jeśli nie został, nie szkodzi - dodaliśmy do kurczaka odrobinę oleju, wystarczy.
+Podsmażamy kurczaka, aż woda odparuje, a mięso będzie miało piękny, apetyczny, złoty kolor.
+* Przygotowujemy sos: do dużego kubka wrzucamy jogurt, majonez, keczup, sok z cytryny, suszony czosnek, sól i pieprz. Całość starannie mieszamy.
+* Na dno naczynia żaroodpornego wykładamy połowę ryżu (1,5 torebki) i posypujemy lekko curry.
+* Na ryż wykładamy połowę kukurydzy i połowę papryki. Na to wykładamy całe mięso z piersi kurczaka.
+* Na kurczaka wykładamy pieczarki, resztę kukurydzy, papryki i cebulę.
+* Na tym rozprowadzamy wcześniej przygotowany sos.
+* Na sos wykładamy resztę ryżu (pozostałe 1,5 torebki) i leciutko dociskamy, żeby wyrównać powierzchnię zapiekanki.
+* W ostatniej kolejności posypujemy zapiekankę startym, żółtym serem.
+* Pieczemy w 180 stopniach około 20-30 minut. Po tym czasie zdejmujemy pokrywę naczynia żaroodpornego i dopiekamy jeszcze kilka minut, aż ser ładnie się zrumieni.
