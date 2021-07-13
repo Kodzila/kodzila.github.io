@@ -606,3 +606,31 @@ Przygotowanie:
 * Makaron ugotować al dente. 
 * Wymieszać z sosem. 
 * Podawać posypany parmezanem i świeżo zmielonym pieprzem.
+
+## Makaron z kurczakiem, cukinią i sosem alfredo
+https://www.kwestiasmaku.com/przepis/makaron-z-kurczakiem-cukinia-i-sosem-alfredo
+
+Porcje: ~3
+
+Składniki:
+* 2 piersi z kurczaka ~400g
+* sól i biały pieprz (po 1/3 łyżeczki)
+* 2 ząbki czosnku
+* 1 łyżka oliwy
+* 1/3 szklanki tartego parmezanu lub grana padano
+* 1/3 łyżeczki tartej gałki muszkatołowej
+* 2 łyżki posiekanej natki pietruszki
+* 1 łyżka masła
+* 250 g cukinii (1 mała)
+* 125 ml śmietanki 30%
+* 1 żółtko
+* szczypta kurkumy (opcjonalnie)
+
+Przygotowanie:
+* Makaron nastawić do ugotowania w osolonej wodzie. Filet z kurczaka oczyścić z błonek i kostek, przekroić wzdłuż na pół, następnie w poprzek na wąskie paseczki. * * Doprawić solą i białym pieprzem, natrzeć startym czosnkiem i obtoczyć w oliwie.
+* Zetrzeć parmezan, dodać do niego startą gałkę muszkatołową i posiekaną natkę pietruszki, wymieszać i odłożyć.
+* Cukinię umyć, osuszyć, odciąć końce, pokroić w małą kosteczkę. Na patelni rozgrzać masło, dodać cukinię i co chwilę mieszając smażyć przez ok. 4 miniuty aż się zrumieni, pod koniec doprawić solą. Zdjąć na talerz.
+* Na tę samą patelnię włożyć kurczaka i na dużym ogniu obsmażyć go z każdej strony.
+* Zmniejszyć ogień, przesunąć kurczaka na bok patelni, w wolne miejsce wlać śmietankę i dodać żółtko oraz kurkumę. Energicznie wymieszać rózgą, następnie połączyć z kurczakiem.
+* Dodać podsmażoną cukinię, starty parmezan z gałką muszkatołową i natką. Wszystko wymieszać.
+* Dodać odcedzony makaron i podgrzewać na małym ogniu mieszając przez ok. pół minuty.
