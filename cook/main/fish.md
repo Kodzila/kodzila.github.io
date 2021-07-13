@@ -124,3 +124,33 @@ Przygotowanie:
 * Na dużej patelni na maśle i 1 łyżce oliwy chwilę podsmażyć drobno starty czosnek. Dodać krewetki i smażyć na większym ogniu przez ok. 1 minutę co chwilę mieszając, doprawić solą, opcjonalnie skropić białym winem (lub łyżeczką soku z cytryny).
 * Wlać śmietankę i zagotować. Dodać makaron z wraz ze szparagami i wymieszać. Gotować przez ok. 1 minutę aż sos zgęstnieje, w międzyczasie dodać natkę pietruszki.
 * W razie potrzeby można doprawić świeżo zmielonym pieprzem oraz solą.
+
+
+## Ryba z pieca z brokułami i sosem beszamelowym
+https://www.kwestiasmaku.com/przepis/ryba-z-pieca-z-brokulami
+
+Składniki:
+* 500 g filetów białej ryby (np. dorsz, morszczuk, mintaj)
+* po 1/3 łyżeczki soli, pieprzu, czosnku, kurkumy, papryki
+* 1 łyżka oliwy
+* 1 łyżka mąki pszennej
+* 1/2 brokuła
+* 50 g płatków migdaów
+
+Składniki - sos:
+* 2 łyżki mąki pszennej
+* 2 łyżki masła
+* 200 ml bulionu
+* 100 ml śmietanki 30%
+* po szczypcie soli, gałki muszkatołowej i pieprzu
+* 3 łyżki tartego parmezanu
+
+?> Dla mnie ten sos był zbyt męczący - dla połowy porcji polać tym sosem tylko odrobinę.
+
+Przygotowanie:
+* Filety opłukać i dokładnie osuszyć papierowymi ręcznikami. Doprawić solą, pieprzem, czosnkiem, kurkumą i papryką. Na koniec wysmarować oliwą i obtoczyć w mące.
+* Ułożyć na blaszce do pieczenia z zachowaniem odstępów. Piekarnik nagrzać do 180 stopni C.
+* Odciać różyczki brokuła i pokroić je na drobniejsze kawałeczki. Wrzucić na wrzątek i po ponownym zagotowaniu się wody gotować przez ok. 2 minuty, odcedzić na sitku oraz doprawić solą.
+* Sos: na patelnię wsypać mąkę i podgrzać ją. Mieszając drewnianą łyżką smażyć ok. 1 - 2 minuty. Dodać masło, roztopić i mieszając zagotować. 
+* Stopniowo wlewać bulion, a potem śmietankę, cały czas energicznie mieszając rózgą aż sos będzie gładki. Pod koniec doprawić solą oraz gałką muszkatołową i wymieszać z parmezanem.
+* Na rybę wyłożyć brokuły a następnie sos. Posypać płatkami migdałów i wstawić do nagrzanego piekarnika. Piec przez ok. 30 minut.
