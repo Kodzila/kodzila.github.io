@@ -189,3 +189,6 @@
 ## Cases
 * [ZUS integration](http://problemypolskiejbranzy.it/felieton/krew-pot-i-wdrozenie-czyli-co-sie-w-zusie-odassecowalo/)
 * [Modern shop example](https://www.c-sharpcorner.com/article/modern-architecture-shop/)
+
+## Search
+* [Google query language](https://ahrefs.com/blog/google-advanced-search-operators/)
