@@ -634,3 +634,30 @@ Przygotowanie:
 * Zmniejszyć ogień, przesunąć kurczaka na bok patelni, w wolne miejsce wlać śmietankę i dodać żółtko oraz kurkumę. Energicznie wymieszać rózgą, następnie połączyć z kurczakiem.
 * Dodać podsmażoną cukinię, starty parmezan z gałką muszkatołową i natką. Wszystko wymieszać.
 * Dodać odcedzony makaron i podgrzewać na małym ogniu mieszając przez ok. pół minuty.
+
+
+## Risotto z kurczakiem i dynią
+https://www.kwestiasmaku.com/przepis/risotto-z-kurczakiem-i-dynia
+
+Porcje: 2
+
+Składniki:
+* 200 g filetu z kurczaka
+* 1 szklanka obranej i pokrojonej w kosteczkę dyni
+* ok. 500 ml bulionu drobiowego
+* 200 ml mleka
+* 2 łyżki masła
+* 1 cebulka szalotka
+* 100 g ryżu do risotto (arborio)
+* 1 łyżeczka przyprawy curry w proszku
+* 1/2 łyżeczki kurkumy
+* 1/4 szklanki białego wina
+* 25 g tartego parmezanu lub grana padano
+* 4 łyżki posiekanych listków bazylii
+
+Przygotowanie:
+* Filet z kurczaka pokroić w kosteczkę. Przygotować dynię (obrać i pokroić w kostkę). Zagotować bulion i trzymać na małym ogniu. Mleko podgrzać.
+* Roztopić 1 łyżkę masła w szerokim garnku lub na patelni i dodać pokrojoną w kosteczkę cebulę. Smażyć na małym ogniu co chwilę mieszając aż cebulka się zeszkli, ale nie będzie zrumieniona, przez około 5 minut.
+* Dodać kurczaka, posolić go i obsmażyć z każdej strony. Dodać pokrojoną w kosteczkę dynię, wymieszać i smażyć przez ok. 1 minutę. Następnie dodać ryż i mieszając podsmażać przez ok. 1 - 2 minuty.
+* Dodać przyprawę curry oraz kurkumę, wlać wino i odparować. Zacząć stopniowo wlewać mleko, a później bulion, po około pół szklanki, za każdym razem mieszając. Kiedy ryż wchłonie całkowicie jedną porcja płynu, wtedy dodać kolejną. Gotować w ten sposób risotto przez ok. 15 - 17 minut, wlewając kolejne porcje płynu i co chwilę mieszając. Na koniec ryż ma być ugotowany al dente i może pozostać trochę niewykorzystanego bulionu.
+* Odstawić z ognia, przykryć i odczekać 1 minutę. Dodać pozostałą łyżkę masła, większość parmezanu i połowę posiekanej bazylii, wymieszać. W razie potrzeby doprawić solą. Wyłożyć do talerzy, posypać resztą parmezanu i bazylii.
