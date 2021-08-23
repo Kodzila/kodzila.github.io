@@ -139,3 +139,39 @@ Przygotowanie:
 Podawać np. z kluskami śląskimi lub ryżem.
 
 
+## Jabalaya z kiełbasą i krewetkami
+https://www.stonerchef.pl/jambalaya-z-krewetkami-ostro/
+
+Składniki (4 porcje):
+* 250g krewetek
+* 250g pieczonej kiełbasy pokrojonej w plastry
+* 4 szalotki pokrojone w kostkę (może być cebula)
+* 2 łodygi selera pokrojone w kostkę
+* 1 żółta papryka pokrojona w kostkę
+* 800g pomidorów z puszki
+* 500ml bulionu warzywnego
+* 200g ryżu parboiled (może być zwykły)
+* 2 ząbki czosnku, posiekane
+* 2 liście laurowe
+* 1 łyżeczka sosu Worcrstershire
+* 4 łodygi szczypiorku, posiekane
+* 1 łyżka masła do smażenia
+* Sól, pieprz i chilli cayenne do smaku
+* Ostry sos (np. tabasco, louisiana gold, habanero, sriracha) do końcowego doprawienia
+* 3 łyżeczki słodkiej papryki
+* 1 łyżeczka oregano
+* 2 łyżeczki soli
+* 1 łyżeczka mielonego czosnku
+* 1 łyżeczka mielonej cebuli
+* 1 łyżeczka chili cayenne
+* 1 łyżeczka czarnego pieprzu
+* 1 łyżeczka tymianku
+* [Opcjonalnie] parmezan
+
+Przygotowanie:
+* Jeśli macie gdzieś pod ręką wok albo inną głęboką patelnię, to nie zwlekajcie i połóżcie ją a duży palnik. Kiedy patelnia jest już na właściwym stanowisku, rozgrzewamy na niej masło na średnim/dużym ogniu. Następnie wrzucamy kiełbasę i tam podsmażamy ją, cały czas mieszając, ok. 5 minut, aż ta zarumieni się z każdej strony.
+* W następnej kolejności dodajemy szalotkę, paprykę i seler, po czym smażymy całość 5 do 8 minut, aż warzywa staną się miękkie, pamiętając o regularnym mieszaniu. Zanim w patelnii wylądują płyny, wsypujemy jeszcze kreolską mieszankę przyprawe wraz z posiekanym czosnkiem i przesmażamy je z pozostałą zawartością ok. 1 minutę.
+* Teraz pora na dodanie bulionu, pomidorów z puszki wraz z sosem Worcestershire, ryżu i listków laurowych. Całość mieszamy bardzo dokładnie i doprowadzamy do zagotowania.
+* Zmniejszamy ogień i gotujemy Jambalayę przez ok. 40 minut, a ryż będzie miękki, a sos zgęstnieje do pożądanej konsystencji. Pod koniec wrzucamy do woka krewetki.
+* Nasze owoce morza przykrywamy sosem i kontynuujemy gotowanie ok. 3 minuty. Na koniec doprawiamy całość solą i pieprzem do smaku.
+* Wykładamy talerze, przenosimy na nie Jambalayę, po czym posypujemy danie szczypiorkiem i polewamy uprzednio wybranym ostrym sosem.
