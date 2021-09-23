@@ -154,3 +154,26 @@ Przygotowanie:
 * Sos: na patelnię wsypać mąkę i podgrzać ją. Mieszając drewnianą łyżką smażyć ok. 1 - 2 minuty. Dodać masło, roztopić i mieszając zagotować. 
 * Stopniowo wlewać bulion, a potem śmietankę, cały czas energicznie mieszając rózgą aż sos będzie gładki. Pod koniec doprawić solą oraz gałką muszkatołową i wymieszać z parmezanem.
 * Na rybę wyłożyć brokuły a następnie sos. Posypać płatkami migdałów i wstawić do nagrzanego piekarnika. Piec przez ok. 30 minut.
+
+## Makaron z tuńczykiem
+
+Składniki:
+* 1 mała żólta cebula
+* 1 mała czerwona cebula
+* 3 ząbki czosnku
+* 1 mała cukinia
+* 6-7 suszonych pomidorów w zalewie
+* 2 łyżki soku z cytryny
+* puszka tuńczyka
+* pół śmietany 30%
+* makaron tagiatele
+* słonecznik
+* ser parmezan
+
+Przygotowanie:
+* Cebulki posiekać, czosnek przecisnąc przez praskę oraz podsmażyć na patelni.
+* Cukinie pokroić w kostkę, pomidory pokroić na kawałki, dodać do patelni.
+* Tuńczyka odsączyć z zalewy, pozostawić na sitku.
+* Na patelnie dodać śmietanę i sok z cytryny. Poddusić.
+* Ugotować makaron. Pod koniec gotowania makaronu na patelnie dorzucić tuńczyka.
+* Pestki słonecznika uprażyć - posypać danie przez podaniem, razem z parmezanem.
