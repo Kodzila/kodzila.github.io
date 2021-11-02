@@ -209,4 +209,10 @@ Przygotowanie:
 * Wszystkie składniki oprócz białek ubić mikserem na gładką masę.
 * Białka ubić na sztywną pianę i delikatnie wymieszać z ciastem.
 * Piec w gofrownicy na rumiano około 2-3 minut.
+
+Wersja na słodko;
 * Podawać z bitą śmietaną lub ulubionymi dodatkami.
+
+Wersja na wytrawnie:
+* Podawać z jajkiem sadzonym, bekonem oraz sosem daktylowym / miodem / sosem klonowym
+
