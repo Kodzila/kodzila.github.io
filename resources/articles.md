@@ -103,6 +103,7 @@
 * [Evolution of Command pattern](https://www.lvguowei.me/post/the-evolution-of-command-pattern-3/)
 * [Guide in PHP](https://github.com/kamranahmedse/design-patterns-for-humans)
 * [Final classes](https://medium.com/swlh/final-classes-in-php-9174e3e2747e)
+* [REST API cheatsheet](https://zonito.medium.com/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f)
 
 ## Good practices
 * [Pasword reset functionality](https://postmarkapp.com/guides/password-reset-email-best-practices)
