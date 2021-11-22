@@ -86,3 +86,29 @@ Przygotowanie:
 * Wymieszać i gotować przez 5 minut, do miękkości warzyw. Zmiksować w blenderze z dodatkiem mleka.
 
 
+## Zupa krem z pieczonej papryki
+https://www.kwestiasmaku.com/przepis/zupa-krem-z-pieczonej-papryki
+
+2-3 porcje
+
+Składniki:
+* 1 kg czerwonej papryki
+* 2 łyżki oliwy extra
+* 1 cebula
+* 2 ząbki czosnku
+* 1 por
+* 1 łyżka masła
+* 1 litr bulionu warzywnego
+* przyprawy: 2 łyżeczki słodkiej papryki w proszku, 1/2 łyżeczki ostrej lub płatków chili, 1 łyżka listków świeżego tymianku lub 1 łyżeczka suszonego
+* 100 g serka topionego (śmietankowego)
+* 60 ml śmietanki 30% lub 18% do zup i sosów
+* do podania grzanki z serem
+
+Przygotowanie:
+* Paprykę umyć, położyć na blaszce do pieczenia i wstawić do piekarnika nagrzanego do 190 stopni C na środkową półkę. Piec przez ok. 50 minut. W trakcie pieczenia paprykę przewracać na inną stronę (2 - 3 razy). Podczas pieczenia skórka papryki może poczernieć.
+* Upieczoną paprykę od razu wyjąć z piekarnika i włożyć do miski. Przykryć i zostawić pod przykryciem na ok. 15 minut.
+* Następnie obrać paprykę ze skórki odrzucając również niejadalen części (nasiona i szypułki). Miąższ z papryki odłożyć.
+* Do garnka wlać oliwę, dodać pokrojoną w kostkę cebulę oraz obrany i przepołowione ząbki czosnku. Mieszając co chwilę łyżką smażyć przez ok. 5 minut.
+* Dodać masło oraz dokładnie umytego i pokrojonego pora (białe i jasnozielone części) i smażyć przez ok. 5 minut.
+* Wlać bulion i zagotować. Gotować przez ok. 5 minut, następnie dodać miąższ papryki oraz przyprawy. Doprawić zmielonym pieprzem oraz w razie potrzeby solą.
+* Zagotować z rozdrobnionym serkiem topionym, co chwilę mieszając. Zmiksować na krem z dodatkiem śmietanki.
