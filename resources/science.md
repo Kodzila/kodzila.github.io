@@ -11,6 +11,7 @@
 * [Swiat pachnie wojna - upadek megamocarstw](https://next.gazeta.pl/next/7,151003,26581259,gebert-swiat-pachnie-wojna-i-nie-chodzi-o-rope-tylko-kto.html)
 * [Rywale Moskwy: Warszawa i Ankara](https://wyborcza.pl/7,75399,26655046,imperialna-rywalizacja-moskwy-z-ankara-i-warszawa.html)
 * [Konto Trumpa zbanowane na mediach społecznościowych](https://sekurak.pl/konta-trumpa-zbanowane-we-wszystkich-istotnych-serwisach-spolecznosciowych-amazon-apple-google-blokuje-parlera-cenzura-na-niespotykana-dotad-skale-czy-normalnosc/)
+* [O inflacji](https://www.money.pl/gospodarka/nadchodzi-najwiekszy-koszmar-premiera-morawieckiego-to-wielki-problem-dla-calego-pis-6705389309500384a.html)
 
 ## Transhumanity
 * [Uploading human brain (science view) - Kurzgesagt](https://youtu.be/4b33NTAuF5E)
