@@ -7,6 +7,7 @@
         * [Duck](cook/main/duck.md)
         * [Fish](cook/main/fish.md)
         * [Pork](cook/main/pork.md)
+        * [Salad](cook/main/salad.md)
         * [Soup](cook/main/soup.md)
         * [Turkey](cook/main/turkey.md)
         * [Vege](cook/main/vege.md)
