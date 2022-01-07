@@ -175,3 +175,35 @@ Przygotowanie:
 * Zmniejszamy ogień i gotujemy Jambalayę przez ok. 40 minut, a ryż będzie miękki, a sos zgęstnieje do pożądanej konsystencji. Pod koniec wrzucamy do woka krewetki.
 * Nasze owoce morza przykrywamy sosem i kontynuujemy gotowanie ok. 3 minuty. Na koniec doprawiamy całość solą i pieprzem do smaku.
 * Wykładamy talerze, przenosimy na nie Jambalayę, po czym posypujemy danie szczypiorkiem i polewamy uprzednio wybranym ostrym sosem.
+
+
+## Polędwiczka z pieczarkami i potem po chińsku
+https://www.kwestiasmaku.com/przepis/poledwiczka-z-pieczarkami-i-porem
+
+Procje: 2
+
+Składniki:
+* 1 polędwica wieprzowa, ok. 400 g
+* 2 ząbki czosnku
+* sól, pieprz
+* 1 płaska łyżka skrobi ziemniaczanej
+* 3 łyżki oleju roślinnego
+* 3 cm kawałek imbiru
+* 1 mały por
+* 200 g małych pieczarek
+
+Składniki - sos:
+* 3 łyżki octu ryżowego (lub sok wyciśnięty z 1/2 cytryny)
+* 3 łyżki wody
+* 5 łyżek sosu sojowego
+* 2 łyżki cukru (np. trzcinowego)
+* opcjonalnie - 1 łyżka sosu ostrygowego
+
+Przygotowanie:
+* Polędwicę umyć, osuszyć, odciąć białą błonę, następnie pokroić ukośnie na plastry o grubości 2,5 cm. 
+* Rozbić je płaskim tłuczkiem i natrzeć czosnkiem przeciśniętym przez praskę. Włożyć do lodówki na ok. 1 godzinę (jeśli mamy czas).
+* Doprawić solą i pieprzem a następnie delikatnie oprószyć skrobią ziemniaczaną.
+* Rozgrzać dużą patelnię z 2 łyżkami oleju. Obsmażyć polędwiczki po około 2,5 minuty z każdej strony. Odłożyć na talerz.
+* Na tę samą patelnię wlać pozostałą łyżkę oleju, dodać posiekanego pora, obrany i starty imbir i umyte pieczarki (większe można pokroić). Smażyć przez około 3 - 5 minut co chwilę mieszając (jeśli za bardzo się przypala można skropić patelnię wodą).
+* Włożyć z powrotem mięso na patelnię z warzywami i po chwili wlać sos (wymieszane składniki).
+* Gotować przez około 2 minuty aż sos zgęstnieje, w międzyczasie co chwilę zamieszać (potrząsnąć patelnią, przewrócić mięso na drugą stronę).
