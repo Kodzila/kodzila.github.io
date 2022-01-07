@@ -661,3 +661,52 @@ Przygotowanie:
 * Dodać kurczaka, posolić go i obsmażyć z każdej strony. Dodać pokrojoną w kosteczkę dynię, wymieszać i smażyć przez ok. 1 minutę. Następnie dodać ryż i mieszając podsmażać przez ok. 1 - 2 minuty.
 * Dodać przyprawę curry oraz kurkumę, wlać wino i odparować. Zacząć stopniowo wlewać mleko, a później bulion, po około pół szklanki, za każdym razem mieszając. Kiedy ryż wchłonie całkowicie jedną porcja płynu, wtedy dodać kolejną. Gotować w ten sposób risotto przez ok. 15 - 17 minut, wlewając kolejne porcje płynu i co chwilę mieszając. Na koniec ryż ma być ugotowany al dente i może pozostać trochę niewykorzystanego bulionu.
 * Odstawić z ognia, przykryć i odczekać 1 minutę. Dodać pozostałą łyżkę masła, większość parmezanu i połowę posiekanej bazylii, wymieszać. W razie potrzeby doprawić solą. Wyłożyć do talerzy, posypać resztą parmezanu i bazylii.
+
+
+## Quesadilla z kurczakiem i warzywami
+https://www.kwestiasmaku.com/przepis/quesadilla-z-kurczakiem-i-warzywami
+https://www.kwestiasmaku.com/przepis/salsa-pomidorowa-do-nachos
+
+Porcje: 4
+
+Składniki:
+* 300 g filetu z kurczaka
+* 2 łyżki oliwy
+* 1 cebula
+* 1 papryka
+* mała puszka (200 g) kukurydzy
+* 300 g tartej mozzarelli (twardszej i żółtej, nie białej z zalewy)
+* 2 łyżeczki masła
+* 4 duże tortille (śr. 25 cm)
+
+Składniki - kurczak:
+* 2 ząbki czosnku, starte
+* 1/2 łyżeczki ostrej papryki
+* 1 łyżeczka słodkiej papryki
+* 1 łyżeczka kuminu
+* 1/2 łyżeczki suszonego oregano
+* 1 łyżeczka płatków chili
+
+Składniki - salsa:
+* 400 g puszka krojonych pomidorów
+* 1/4 zielonej papryki
+* kilka kawałków (ok. 2 łyżki) marynowanej papryczki jalapeño (np. TAKIEJ)
+* 1/2 łyżeczki sproszkowanego czosnku
+* sól i pieprz
+* 2 łyżki cukru
+* 3 łyżki octu spirytusowego
+* 2 cebulki szalotki
+* 1 łyżeczka mąki ziemniaczanej
+* opcjonalnie: łyżka posiekanej kolendry
+
+Przygotowanie:
+* Kurczaka pokroić na wąskie paski dł. ok. 2 cm. Doprawić solą, pieprzem oraz wszystkimi przyprawami. Polać łyżką oleju roślinnego i dokładnie wymieszać, odstawić.
+* Cebulę pokroić w piórka, paprykę - podobnie jak kurczaka - na wąskie paski dł. ok. 2 cm. Doprawić solą i zeszklić na patelni na łyżce oleju, odłożyć na talerz.
+* Na rozgrzaną patelnię włożyć kurczaka i obsmażyć przez ok. 4 minuty. Przełożyć na oddzielny talerz.
+* Na dużej patelni rozgrzać i rozprowadzić łyżeczkę masła. Położyć placek tortilli i wyłożyć na niego połowę wszystkich składników farszu - kurczaka (bez soków z mięsa), podsmażone warzywa, kukurydzę i tarty ser. Przykryć drugim plackiem tortilli i podsmażać na małym ogniu ok. 2 minuty, aż tortilla na spodzie się zrumieni.
+* Podgrzaną z jednej strony quesadillę przełożyć na drugą stronę* i ponownie podsmażyć na maśle do zrumienienia. Powtórzyć z pozostałymi dwoma plackami tortilli i drugą połową farszu.
+* Podgrzane quesadille kroić nożem na kawałki jak pizzę, podawać z wybranymi dodatkami.
+
+Przygotowanie - salsa:
+* Do rondelka włożyć pomidory z puszki wraz z całą zalewą, dodać pokrojoną w małą kosteczkę zieloną paprykę, odcedzoną i posiekaną jalapeño, czosnek, szczyptę soli i szczyptę pieprzu, cukier oraz ocet. Zagotować, następnie gotować bez przykrycia przez ok. 10 minut, co chwilę mieszając.
+* Dodać obraną i drobno posiekaną cebulkę i gotować jeszcze przez ok. 2 minuty. Na koniec dodać mąkę ziemniaczaną (przez sitko), wymieszać i zagotować. Ostudzić przed podaniem. Opcjonalnie dodać kolendrę. Można przygotować wcześniej i trzymać w lodówce.
