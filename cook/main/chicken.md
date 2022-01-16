@@ -710,3 +710,32 @@ Przygotowanie:
 Przygotowanie - salsa:
 * Do rondelka włożyć pomidory z puszki wraz z całą zalewą, dodać pokrojoną w małą kosteczkę zieloną paprykę, odcedzoną i posiekaną jalapeño, czosnek, szczyptę soli i szczyptę pieprzu, cukier oraz ocet. Zagotować, następnie gotować bez przykrycia przez ok. 10 minut, co chwilę mieszając.
 * Dodać obraną i drobno posiekaną cebulkę i gotować jeszcze przez ok. 2 minuty. Na koniec dodać mąkę ziemniaczaną (przez sitko), wymieszać i zagotować. Ostudzić przed podaniem. Opcjonalnie dodać kolendrę. Można przygotować wcześniej i trzymać w lodówce.
+
+
+## Makaron z kurczakiem i pieczarkami
+https://www.kwestiasmaku.com/przepis/makaron-z-pieczarkami-kurczakiem-i-szpinakiem
+
+Porcje: 2
+
+Składniki:
+* 180g g krótkiego makaronu (np. penne, kokardki)
+* 1 filet z kurczaka (ok. 250 g)
+* 1 łyżeczka mąki pszennej
+* 1/3 cebuli
+* 150 g pieczarek
+* 2 ząbki czosnku
+* 100 g szpinaku
+* 125 ml śmietanki 30% lub 18% (z kartonika, do zup i sosów)
+* 1 łyżeczka suszonego oregano lub ziół prowansalskich
+* opcjonalnie szczypta chili
+* oliwa, masło
+* natka pietruszki
+
+Przygotowanie:
+* Makaron ugotować w osolonej wodzie.
+* Filet z kurczaka pokroić w kostkę, doprawić solą, pieprzem i obtoczyć w mące. Rozgrzać patelnię z łyżką oliwy i włożyć kurczaka, obsmażyć, następnie zdjąć z patelni i odłożyć na talerz.
+* Na tę samą patelnię włożyć pokrojoną w kosteczkę cebulę, dodać łyżkę oliwy i smażyć przez ok. 2 minuty często mieszając.
+* Dodać pokrojone na plasterki umyte i osuszone pieczarki i smażyć przez ok. 10 minut aż odparują a następnie zaczną się rumienić.
+* Wówczas dodać do nich masło (1 - 2 łyżki) oraz starty na tarce czosnek, suszone oregano oraz opcjonalnie szczyptę chili, chwilę razem podsmażyć.
+* Dodać odłożonego kurczaka i razem podgrzać, dodać opłukane i osuszone liście szpinaku i mieszając podgrzewać aż szpinak zwiędnie.
+* Dodać odcedzony makaron i wymieszać. Gdy całość się podgrzeje, wlać śmietankę, doprawić solą oraz pieprzem i zagotować. Trzymać na ogniu jeszcze przez chwilę mieszając, aż sos zgęstnieje. Posypać obficie natką pietruszki.
