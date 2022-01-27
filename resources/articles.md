@@ -33,6 +33,7 @@
 
 ## GIT
 * [Git concepts](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc)
+* [Conventional comments on CR](https://conventionalcomments.org/)
 
 
 ## Testing
