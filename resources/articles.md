@@ -148,6 +148,7 @@
 * [Null types](https://medium.com/dartlang/why-nullable-types-7dd93c28c87a)
 * [CLI apps guideline](https://clig.dev)
 * [What color is your function - async programming](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+* [Bash quirks](https://blog.djy.io/10-bash-quirks-and-how-to-live-with-them/)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
