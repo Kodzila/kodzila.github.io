@@ -87,6 +87,7 @@
 * [Putting all architectures together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 * [Caching overview](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 * [Components in system design](https://bigtech.coach/blog/system-design-interview-questions-components-you-should-know/)
+* [Modular monolith DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
 ## Design patterns
 * [Easy examples](https://github.com/kamranahmedse/design-patterns-for-humans)
