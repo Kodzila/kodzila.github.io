@@ -19,6 +19,7 @@
 
 ## Frontend
 * [Indepth](https://indepth.dev)
+* [React blog Josh](https://www.joshwcomeau.com/)
 
 ## Security
 * [Sekurak](https://sekurak.pl)
