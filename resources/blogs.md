@@ -20,6 +20,8 @@
 ## Frontend
 * [Indepth](https://indepth.dev)
 * [React blog Josh](https://www.joshwcomeau.com/)
+* [React blog Robin](https://www.robinwieruch.de/blog/)
+* [React blogs list](https://bloggingfordevs.com/react-blogs/)
 
 ## Security
 * [Sekurak](https://sekurak.pl)
