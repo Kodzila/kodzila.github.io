@@ -21,6 +21,7 @@
 * [Indepth](https://indepth.dev)
 * [React blog Josh](https://www.joshwcomeau.com/)
 * [React blog Robin](https://www.robinwieruch.de/blog/)
+* [React weekly](https://www.getrevue.co/profile/thisweekinreact)
 * [React blogs list](https://bloggingfordevs.com/react-blogs/)
 
 ## Security
