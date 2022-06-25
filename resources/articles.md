@@ -190,6 +190,9 @@
 * [Mixin (traits)](https://medium.com/javascript-in-plain-english/harnessing-the-power-of-mixins-in-angular-f2faa432add2)
 * [Presenters - extracting logic from framework](https://indepth.dev/presenters-with-angular/)
 
+## React
+* [Bulletproof react](https://github.com/alan2207/bulletproof-react/blob/master/docs/components-and-styling.md)
+
 ## Javascript
 * [Full guide of Javascript](https://javascript.info/)
 * [ESLint](https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/)
