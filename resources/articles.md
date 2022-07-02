@@ -192,6 +192,7 @@
 
 ## React
 * [Bulletproof react](https://github.com/alan2207/bulletproof-react/blob/master/docs/components-and-styling.md)
+* [Why react hooks](https://ui.dev/why-react-hooks)
 
 ## Javascript
 * [Full guide of Javascript](https://javascript.info/)
