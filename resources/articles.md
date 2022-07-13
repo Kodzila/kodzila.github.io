@@ -122,6 +122,7 @@
 * [Relying on the database to validate your data](https://matthiasnoback.nl/2020/07/relying-on-the-database-to-validate-your-data/)
 * [Context passing: current user](https://matthiasnoback.nl/2018/04/context-passing/)
 * [UUID vs ID](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+* [API error codes](https://www.alibabacloud.com/blog/tips-for-designing-error-codes-in-java_598980)
 
 ## Soft skill
 * [Traits of good leader](https://itsyourturnblog.com/should-your-engineering-lead-be-fired-9f43314863d3)
