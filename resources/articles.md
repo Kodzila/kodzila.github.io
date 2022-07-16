@@ -207,3 +207,7 @@
 
 ## Search
 * [Google query language](https://ahrefs.com/blog/google-advanced-search-operators/)
+
+## Docker
+* [Best practices for production docker compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
+* [Docker frontend and backend - proxy pass](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/)
