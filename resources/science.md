@@ -15,3 +15,6 @@
 
 ## Transhumanity
 * [Uploading human brain (science view) - Kurzgesagt](https://youtu.be/4b33NTAuF5E)
+
+## Finance
+* [Siedem poziomow swobody finansowej](https://www.money.pl/pieniadze/siedem-poziomow-swobody-finansowej-wielu-polakow-nie-osiaga-nawet-trzeciego-6790841253231360a.html)
