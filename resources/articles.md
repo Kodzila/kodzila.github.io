@@ -215,3 +215,6 @@
 * [Best practices for production docker compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
 * [Docker frontend and backend - proxy pass](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/)
 * [Deploy Node.js app with docker](https://dev.to/arnu515/deploy-your-nodejs-app-to-a-server-with-docker-1hcd)
+
+# MySQL
+* [Count start vs count id](https://aaronfrancis.com/2022/mysql-count-star-vs-count-id)
