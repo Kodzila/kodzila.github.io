@@ -72,6 +72,7 @@
 * [Building blocks in polish](https://bottega.com.pl/pdf/materialy/ddd/ddd1.pdf)
 * [Building blocks in polish pt2](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 * [Emitting domain events in Doctrine](https://beberlei.de/2013/07/24/doctrine_and_domainevents.html)
+* [Aggregate design canvas](https://github.com/ddd-crew/aggregate-design-canvas)
 
 ## Architecture
 * [Diagram tool](https://terrastruct.com)
@@ -195,6 +196,7 @@
 * [Bulletproof react](https://github.com/alan2207/bulletproof-react/blob/master/docs/components-and-styling.md)
 * [Why react hooks](https://ui.dev/why-react-hooks)
 * [React router complete guide](https://ui.dev/react-router-tutorial)
+* [Really, why React?](https://dev.to/jfbrennan/really-why-react-5958)
 
 ## Javascript
 * [Full guide of Javascript](https://javascript.info/)
@@ -204,6 +206,7 @@
 ## Cases
 * [ZUS integration](http://problemypolskiejbranzy.it/felieton/krew-pot-i-wdrozenie-czyli-co-sie-w-zusie-odassecowalo/)
 * [Modern shop example](https://www.c-sharpcorner.com/article/modern-architecture-shop/)
+* [Software agency problems - I regret my Website redesign](https://mtlynch.io/tinypilot-redesign/)
 
 ## Search
 * [Google query language](https://ahrefs.com/blog/google-advanced-search-operators/)
@@ -211,3 +214,4 @@
 ## Docker
 * [Best practices for production docker compose](https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose)
 * [Docker frontend and backend - proxy pass](https://www.section.io/engineering-education/build-and-dockerize-a-full-stack-react-app-with-nodejs-and-nginx/)
+* [Deploy Node.js app with docker](https://dev.to/arnu515/deploy-your-nodejs-app-to-a-server-with-docker-1hcd)
