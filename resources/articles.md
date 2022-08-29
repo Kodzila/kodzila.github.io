@@ -89,6 +89,7 @@
 * [Caching overview](https://medium.com/better-programming/introduction-and-strategies-to-handle-challenges-in-caching-c619d51882c0)
 * [Components in system design](https://bigtech.coach/blog/system-design-interview-questions-components-you-should-know/)
 * [Modular monolith DDD](https://github.com/kgrzybek/modular-monolith-with-ddd)
+* [SQL vs XML vs objects](https://www.cidrdb.org/cidr2005/papers/P12.pdf)
 
 ## Design patterns
 * [Easy examples](https://github.com/kamranahmedse/design-patterns-for-humans)
