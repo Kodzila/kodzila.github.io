@@ -73,6 +73,8 @@
 * [Building blocks in polish pt2](https://bottega.com.pl/pdf/materialy/sdj-ddd.pdf)
 * [Emitting domain events in Doctrine](https://beberlei.de/2013/07/24/doctrine_and_domainevents.html)
 * [Aggregate design canvas](https://github.com/ddd-crew/aggregate-design-canvas)
+* [DDD in Typescript - nest.js](https://medium.com/@tahakhan.dev/domain-driven-design-ddd-with-cqrs-and-repository-pattern-in-nest-js-using-docker-ed259cf90639)
+* [DDD and messaging architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 
 ## Architecture
 * [Diagram tool](https://terrastruct.com)
@@ -136,6 +138,7 @@
 * [CTO](https://www.kartar.net/2020/07/vpe-and-cto-the-first-90-days/)
 * [Senior vs junior](https://medium.com/@jacobcomer/bridging-the-gap-between-junior-and-senior-engineers-571b2248fbb8)
 * [Salaries](https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/)
+* [Why remote works?](https://www.epistem.ink/p/why-remote-works)
 
 ## Programming core
 * [How site is rendered](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank/)
@@ -153,6 +156,7 @@
 * [CLI apps guideline](https://clig.dev)
 * [What color is your function - async programming](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
 * [Bash quirks](https://blog.djy.io/10-bash-quirks-and-how-to-live-with-them/)
+* [Webhook best practices](https://webhooks.fyi)
 
 ## PHPStorm
 * [Scope](https://stitcher.io/blog/phpstorm-scopes)
@@ -203,6 +207,7 @@
 * [Full guide of Javascript](https://javascript.info/)
 * [ESLint](https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/)
 * [Inside JS engine](https://medium.com/@yanguly/inside-javascript-engines-part-2-code-generation-and-basic-optimizations-952bed02db62)
+* [Event loop: visualised](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
 
 ## Cases
 * [ZUS integration](http://problemypolskiejbranzy.it/felieton/krew-pot-i-wdrozenie-czyli-co-sie-w-zusie-odassecowalo/)
