@@ -208,6 +208,7 @@
 * [ESLint](https://indepth.dev/setting-up-efficient-workflows-with-eslint-prettier-and-typescript/)
 * [Inside JS engine](https://medium.com/@yanguly/inside-javascript-engines-part-2-code-generation-and-basic-optimizations-952bed02db62)
 * [Event loop: visualised](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+* [Typescript deep dive](https://basarat.gitbook.io/typescript/getting-started)
 
 ## Cases
 * [ZUS integration](http://problemypolskiejbranzy.it/felieton/krew-pot-i-wdrozenie-czyli-co-sie-w-zusie-odassecowalo/)
