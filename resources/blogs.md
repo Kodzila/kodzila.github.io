@@ -24,6 +24,7 @@
 * [React weekly](https://www.getrevue.co/profile/thisweekinreact)
 * [React blogs list](https://bloggingfordevs.com/react-blogs/)
 * [UI dev](https://ui.dev/blog)
+* [React developer way](https://www.developerway.com/)
 
 ## Security
 * [Sekurak](https://sekurak.pl)
