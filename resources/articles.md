@@ -202,6 +202,7 @@
 * [Why react hooks](https://ui.dev/why-react-hooks)
 * [React router complete guide](https://ui.dev/react-router-tutorial)
 * [Really, why React?](https://dev.to/jfbrennan/really-why-react-5958)
+* [Dont use memo (in most cases)](https://www.developerway.com/posts/how-to-use-memo-use-callback)
 
 ## Javascript
 * [Full guide of Javascript](https://javascript.info/)
