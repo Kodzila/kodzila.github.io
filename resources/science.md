@@ -18,3 +18,6 @@
 
 ## Finance
 * [Siedem poziomow swobody finansowej](https://www.money.pl/pieniadze/siedem-poziomow-swobody-finansowej-wielu-polakow-nie-osiaga-nawet-trzeciego-6790841253231360a.html)
+
+## Football
+* [Formations explained](https://www.coachesvoice.com/cv/formations-football-tactics-explained-best-most-used/)
