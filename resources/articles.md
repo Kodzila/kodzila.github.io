@@ -203,6 +203,10 @@
 * [React router complete guide](https://ui.dev/react-router-tutorial)
 * [Really, why React?](https://dev.to/jfbrennan/really-why-react-5958)
 * [Dont use memo (in most cases)](https://www.developerway.com/posts/how-to-use-memo-use-callback)
+* [5 pro tips for React](https://blog.flycode.com/5-pro-tips-for-react-developers)
+
+## Node.js
+* [Node.js for PHP devs](https://geshan.com.np/blog/2020/11/nodejs-for-php-developers/)
 
 ## Javascript
 * [Full guide of Javascript](https://javascript.info/)
