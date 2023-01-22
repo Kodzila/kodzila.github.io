@@ -739,3 +739,48 @@ Przygotowanie:
 * Wówczas dodać do nich masło (1 - 2 łyżki) oraz starty na tarce czosnek, suszone oregano oraz opcjonalnie szczyptę chili, chwilę razem podsmażyć.
 * Dodać odłożonego kurczaka i razem podgrzać, dodać opłukane i osuszone liście szpinaku i mieszając podgrzewać aż szpinak zwiędnie.
 * Dodać odcedzony makaron i wymieszać. Gdy całość się podgrzeje, wlać śmietankę, doprawić solą oraz pieprzem i zagotować. Trzymać na ogniu jeszcze przez chwilę mieszając, aż sos zgęstnieje. Posypać obficie natką pietruszki.
+
+
+## Kurczak słodko-kwaśny
+https://www.instagram.com/reel/CiF9__9DlDR/?igshid=YmMyMTA2M2Y=
+
+Porcje: 3
+
+Składniki - kurczak:
+* 600g kurczaka
+* 2 łyżka czosnku w proszku
+* 2 łyżeczka soli i pieprzu
+* 5 łyżki sosu sojowego
+* 30g mąki kukurydzianej
+
+Składniki - sos:
+* 6g keczupu
+* 4 łyżki sosu sojowego
+* 2 łyżka cukru
+* 2 łyżka octu ryżowego
+* 2 łyżka mąki kukurydzianej
+* pół kubka wody
+
+Dodatkowo:
+* cebula
+* 3 papryki
+* ryż
+
+Przygotowanie:
+
+Kurczak:
+* Kurczaka pokroić w kostki
+* Wymieszać z przyprawami
+* Smażyć przez 8 minut aż będzie złoty i chrupiący
+
+Sos:
+* Wymieszać składniki
+
+Potem:
+* Na patelnie dać oliwę
+* Dodać cebulę oraz paprykę pokrojoną
+* Gotować aż będzię miękkie ~3-4 minuty
+* Dodaj sos i gotuj aż zgęstnieje
+* Dodaj kurczaka i wymieszaj
+* Podawaj z ryżem
+
