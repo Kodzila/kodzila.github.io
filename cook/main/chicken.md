@@ -784,3 +784,38 @@ Potem:
 * Dodaj kurczaka i wymieszaj
 * Podawaj z ryżem
 
+## Kurczak pomarańczowy
+https://www.instagram.com/reel/CmH0HJEo-38/?igshid=YmMyMTA2M2Y=
+
+Porcje: 3
+
+Składniki - kurczak:
+* 600g piesi z kurczaka
+* 2 łyżeczka soli i pieprzu
+* 2 łyżeczka czosnku w proszku
+* 2 łyżeczka parpyki albo wędzonej papryki
+* 50g mąki kukurydzianej
+
+
+Składniki - sos:
+* 300 ml soku pomarańczowego
+* 50 ml sosu sojowego
+* 30g miodu
+* 10g mąki kukurydzianej
+* 70 ml wody
+* 1 łyżeczka płatków chilli
+* 6 ząbków czosnku
+* 2 łyżki imbiru
+
+Dodatkowo:
+* ryż
+
+Przygotowanie:
+* Przygotuj kurczaka
+* Smaż po 4 minuty po każdej stronie
+* Zdjemij kurczaka z patelni
+* Dodaj składniki sosu poza wodą i mąką kukurydzianą
+* Doprowadź do zagotowania i redukcji
+* Wodaj wodę i mąkę kukurydzianą
+* Gotuj aż zgęstnieje
+* Dodaj kurczaka i wymieszaj
