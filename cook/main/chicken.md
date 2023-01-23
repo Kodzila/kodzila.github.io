@@ -754,7 +754,7 @@ Składniki - kurczak:
 * 30g mąki kukurydzianej
 
 Składniki - sos:
-* 6g keczupu
+* 60g keczupu
 * 4 łyżki sosu sojowego
 * 2 łyżka cukru
 * 2 łyżka octu ryżowego
