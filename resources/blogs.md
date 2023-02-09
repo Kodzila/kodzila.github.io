@@ -28,3 +28,7 @@
 
 ## Security
 * [Sekurak](https://sekurak.pl)
+
+## Leadership
+* https://levelup.patkua.com
+* https://softwareleadweekly.com
