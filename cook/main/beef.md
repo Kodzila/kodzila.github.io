@@ -326,3 +326,32 @@ Pozostałą część sosu pomidorowego przekładamy na dno naczynia żaroodporne
 Naczynie żaroodporne wkładamy do piekarnika rozgrzanego do temperatury 190°C z termoobiegiem (210°C bez termoobiegu) na 30-40 minut.
 
 
+## Wołowina z orzeszkami w sosie ostrygowym
+https://www.instagram.com/reel/ClmNGZVDu3u/?igshid=YmMyMTA2M2Y=
+
+Składniki:
+* 400g steku z chudej wołowiny (można zamienić na kurczaka)
+* 2 papryki (czerwona i zółta)
+* 1 mały por
+* 1 marchewka
+* 5 łyżek sosu ostrygowego
+* 50g orzeszków ziemnych niesolonych (idealnie już uprażone)
+
+Składniki - marynata:
+* 2 łyżki sosu sojowego
+* 2 łyżki oleju sezamowego
+* 3 ząbki czosnku
+* 1 łyżeczka czerwonej słodkiej prapryki
+* 1 łyżeczka mąki kukurydzianej
+
+Przygotowanie:
+* W miseczce przygotuj marynate
+* Wołowinę / kurczaka pokrój w małe kawałki, wymieszaj z marynatą i odstaw na 15 minut
+* Pokrój pora, marchewkę i papryki w małe kawałki
+* (Jeśli nie kupiłeś prażonych orzechów) upraż orzechy na patelni
+* (Jeśli kurczak) podsmaż kurczaka na patelni i odłóż do miski
+* Na patelni na wysokim ogniu podsmaż warzywa przez ~3-4 minuty
+* Warzywa przesuń na bok patelni i dodaj wołowinę. Smaż aż się zarumieni
+* Dodaj sos ostrygowy
+* Dodaj podprażone orzeszki i wymieszaj
+* Podawaj z ryżem
