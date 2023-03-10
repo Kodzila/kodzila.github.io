@@ -170,6 +170,7 @@
 * [LEGO: modular web design](https://alistapart.com/article/learning-from-lego-a-step-forward-in-modular-web-design/)
 * [Design security](https://www.sohamkamani.com/blog/2017/01/14/web-security-human-error/)
 * [Design for non-designers](https://medium.com/hello-web-design/design-for-non-designers-part-2-74d7ab3124f6)
+* [Material color codes](https://htmlcolorcodes.com/color-chart/material-design-color-chart/)
 
 ## Frontend
 * [Optimize for browser](https://dev.to/sanjsanj/optimising-the-front-end-for-thebrowser)
