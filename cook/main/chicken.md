@@ -819,3 +819,38 @@ Przygotowanie:
 * Wodaj wodę i mąkę kukurydzianą
 * Gotuj aż zgęstnieje
 * Dodaj kurczaka i wymieszaj
+
+
+## Kurczak z makaronem w kremowym sosie
+https://www.instagram.com/reel/Cji6kmpjRfh/?igshid=YmMyMTA2M2Y=
+
+Porcje: 3
+
+Składniki - kurczak:
+* 500g kurczaka
+* 1 łyżeczka papryki
+* 1 łyżeczka czosnku w proszku
+* 1 łyżeczka bazylii
+* 1 łyżeczka płatków chilli
+
+Składniki - sos:
+* Oliwa
+* 3-4 ząbki czosnku
+* 2 papryki
+* 2 pomidory
+* Sól, pieprz, papryka, bazylia
+* 200g śmietanki 18% do sosów
+
+Składniki - reszta:
+* Makaron penne
+* Ser żółty starty
+
+Przygotowanie:
+* Kurczaka pokrój w małe kawałki i obtocz w przyprawach.
+* Paprykę pokrój w paski. Pomidory w kawałki (obierz ze skórki).
+* Na patelnie dodaj ząbki czosnku (niekrojone), paprykę i pomidory. Dodaj przyprawy. Smaż przez około 5 minut aż zmiękną.
+* Zblenduj warzywa razem ze śmietanką.
+* Usmaż kurczaka.
+* Dodaj sos.
+* Podgotuj jeszcze chwilę.
+* Podawaj z makaronem i serem startym.
