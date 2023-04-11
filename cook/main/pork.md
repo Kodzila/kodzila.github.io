@@ -207,3 +207,29 @@ Przygotowanie:
 * Na tę samą patelnię wlać pozostałą łyżkę oleju, dodać posiekanego pora, obrany i starty imbir i umyte pieczarki (większe można pokroić). Smażyć przez około 3 - 5 minut co chwilę mieszając (jeśli za bardzo się przypala można skropić patelnię wodą).
 * Włożyć z powrotem mięso na patelnię z warzywami i po chwili wlać sos (wymieszane składniki).
 * Gotować przez około 2 minuty aż sos zgęstnieje, w międzyczasie co chwilę zamieszać (potrząsnąć patelnią, przewrócić mięso na drugą stronę).
+
+
+## Risotto z cukinia, chilli i boczkiem
+https://www.kwestiasmaku.com/zielony_srodek/cukinia/risotto_z_cukinia/przepis.html
+
+Procje: 4
+
+Składniki:
+* 100 g boczku pokrojonego w kostkę (może być szynka włoska)
+* 4 - 5 łyżek masła
+* 1 cukinia, około 300 g
+* papryczka chili drobno posiekana, ilość do smaku
+* szczypta suszonego oregano
+* 1 łyżka octu balsamicznego
+* 1 łyżka listków świeżego tymianku
+* 1 mała cebula
+* 200 g ryżu na risotto
+* 90 ml białego wytrawnego wina
+* bulion ~1L
+* 1/3 szklanki tartego parmezanu (lub ser gouda tarty)
+
+Przygotowanie:
+* Na patelnię włożyć boczek i smażyć mieszając przez kilka minut aż stanie się chrupiący. Zdjąć z patelni i odstawić na bok, na patelnię dodać łyżkę masła i pokrojoną w kosteczkę cukinię. Doprawić ją solą i pieprzem, smażyć mieszając od czasu do czasu przez około 12 - 14 minut aż cukinia będzie miękka, ale ciągle nie będzie się rozpadać. W połowie dodać papryczkę chili i oregano. Na koniec odstawić z ognia, wymieszać z boczkiem, octem balsamicznym i tymiankiem. Jeśli boczek był chudy można dodać 1 łyżkę masła.
+* W międzyczasie roztopić łyżkę masła w wysokim garnku, dodać drobno posiekaną cebulę i zeszklić ją, mieszają od czasu do czasu przez około 8 minut. Dodać ryż i podsmażyć go przez minutę, wlać wino i smażyć przez około 1 - 2 minuty aż cały płyn wyparuje.
+* Wlać 1/2 szklanki wody lub bulionu i gotować risotto na średnim ogniu aż cały płyn zostanie wchłonięty. Dodać kolejną porcję wody lub bulionu (1/2 szklanki) oraz 1/3 usmażonej cukinii, doprawić solą (szczególnie w przypadku użycia wody). Gdy cały płyn zostanie wchłonięty, dodać ostatnią porcję wody/bulionu i gotować risotto do czasu aż ryż będzie miękki, ale środek pozostanie jeszcze odrobinę twardawy. W razie konieczności dodać więcej wody/bulionu.
+* Dodać 2 łyżki masła i tarty parmezan, odstawić z ognia, wymieszać, przykryć i zostawić pod przykryciem na 2 - 3 minuty. Podawać z pozostałą cukinią i boczkiem z patelni.
